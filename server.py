@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 from chunker import process_all_documents
 from retriever import PurePythonRetriever
 
-PORT = 8080
+PORT = int(os.environ.get("PORT", 8080))
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 STATIC_DIR = os.path.join(BASE_DIR, "static")
 
