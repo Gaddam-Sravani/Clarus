@@ -1,0 +1,12 @@
+# Keep your API key private
+.env
+#Testing files
+test_*.py
+# Ignore Python compiled bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore local database files
+data/chroma_db/
+*.db
+*.sqlite3
