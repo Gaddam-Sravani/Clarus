@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Chemical Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF CHEMICAL ENGINEERING
 11
 Faculty Members
@@ -47,26 +38,19 @@ DEPARTMENT OF CHEMICAL ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-KANNOJU NANDINI
-ASSISTANT PROFESSOR
-kannoju.nandini@rgukt.ac.in
-View Profile
-SIRISALA VINAY KUMAR
-ASSISTANT PROFESSOR
-vinays@rgukt.ac.in
-View Profile
-PARABHAKER REDDY R
-ASSISTANT PROFESSOR
-prabhakar.ravula@rgukt.ac.in
-View Profile
-RAMARAJU B
-ASSISTANT PROFESSOR
-brr.che@rgukt.ac.in
-View Profile
-Dr. RAVI KUMAR GOUD
-ASSISTANT PROFESSOR
-ravikumar.chem@rgukt.ac.in
-View Profile
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+4 	RTCH130258 	Dr. RAVI KUMAR GOUD
+M.Tech in Chemical Engg. (IIT Kharagpur)
+	ASSISTANT PROFESSOR 	Chemical Engineering 	ravikumar.chem@rgukt.ac.in 	— 	
+1 	RTPCH16013 	KANNOJU NANDINI 	ASSISTANT PROFESSOR 	Chemical Engineering 	kannoju.nandini@rgukt.ac.in 	— 	
+2 	RTCH110163 	PARABHAKER REDDY R 	ASSISTANT PROFESSOR 	Chemical Engineering 	prabhakar.ravula@rgukt.ac.in 	— 	
+3 	RTCH120198 	RAMARAJU B
+M.Tech in Chemical Engg. (IIT Kharagpur)
+	ASSISTANT PROFESSOR 	Chemical Engineering 	brr.che@rgukt.ac.in 	— 	
+5 	RTCH140281 	SIRISALA VINAY KUMAR
+M.Tech. in Chemical Engg. (IIT Madras)
+	ASSISTANT PROFESSOR 	Chemical Engineering 	vinays@rgukt.ac.in 	— 	
+Showing 1–5 of 5 staff
 Academic Programmes
 B.Tech
 Laboratories

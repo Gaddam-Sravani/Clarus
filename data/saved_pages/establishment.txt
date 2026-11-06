@@ -1,0 +1,22 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Establishment+Section
+Official Ref: RGUKT-B/Scraped
+Faculty of Establish Department
+Faculty of Establish Department
+Faculty of Establish Department
+Faculty of Establish Department
+Faculty of Establish Department
+
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+2 	RNTA080076 	G. SRINIVASULU
+M.Sc (Inoformation Technology), PGDIT
+	TECHNICAL ASSISTANT 	Establishment Section 	srinivas.gogula@rgukt.ac.in 	— 	
+1 	RNPJA24003 	KALAKONDA ASHOK KUMAR
+None
+	Jr. Assistant 	Establishment Section 	kalakondaashokkumar@rgukt.ac.in 	— 	
+4 	RNTA100143 	RAYALA SATEESH
+B.Sc. M.P.Cs, PG Diploma in Information Technology, M.Sc.
+	TECHNICAL ASSISTANT 	Establishment Section 	sateeshrayala@rgukt.ac.in 	— 	
+3 	RNTA090101 	SHAIK DASTHAGIRI
+M.Sc., B.Ed., PGDIT
+	TECHNICAL ASSISTANT 	Establishment Section 	smiledasthu@rgukt.ac.in 	— 	
+Showing 1–4 of 4 staff

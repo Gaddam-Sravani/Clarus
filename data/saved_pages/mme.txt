@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Metallurgical and Materials Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING
 12
 Faculty Members
@@ -44,34 +35,20 @@ DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-KIRAN KUMAR ATYAM
-ASSISTANT PROFESSOR
-kkatyam_mme@rgukt.ac.in
-View Profile
-AJAY KUMAR VADDEPALLY
-ASSISTANT PROFESSOR
-ajay@rgukt.ac.in
-View Profile
-A. ASHOK KUMAR
-ASSISTANT PROFESSOR
-ashokiiitbas@rgukt.ac.in
-View Profile
-Dr. R AJAY KUMAR
-ASSISTANT PROFESSOR
-ajay.r@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-K. MAHESH
-LABORATORY ASSISTANT
-maheshkadam@rgukt.ac.in
-View Profile
-K. NAGESHWARA RAO
-LABORATORY ASSISTANT
-nageswararakavati@rgukt.ac.in
-View Profile
-J. SATISH
-LABORATORY TECHNICIAN
-jallelasatish@rgukt.ac.in
-View Profile
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+3 	RTMM110161 	A. ASHOK KUMAR 	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ashokiiitbas@rgukt.ac.in 	— 	
+2 	RTMM100150 	AJAY KUMAR VADDEPALLY
+M.Tech (IIT-Kharagpur)
+	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ajay@rgukt.ac.in 	9703557287 	
+4 	RTMM160336 	Dr. R AJAY KUMAR
+Ph.D - IIT Bombay
+	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ajay.r@rgukt.ac.in 	— 	
+7 	RNLT120211 	J. SATISH 	LABORATORY TECHNICIAN 	Metallurgical and Materials Engineering 	jallelasatish@rgukt.ac.in 	— 	
+5 	RNLA120210 	K. MAHESH 	LABORATORY ASSISTANT 	Metallurgical and Materials Engineering 	maheshkadam@rgukt.ac.in 	— 	
+6 	RNLA120216 	K. NAGESHWARA RAO 	LABORATORY ASSISTANT 	Metallurgical and Materials Engineering 	nageswararakavati@rgukt.ac.in 	— 	
+1 	RTMM100141 	KIRAN KUMAR ATYAM
+M. Tech - IIT, Kharagpur
+	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	kkatyam_mme@rgukt.ac.in 	— 	
+Showing 1–7 of 7 staff
 Academic Programmes
 B.Tech

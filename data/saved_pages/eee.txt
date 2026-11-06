@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Electrical and Electronics Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF ELECTRICAL ENGINEERING
 140
 Intake / Year
@@ -56,27 +47,17 @@ DEPARTMENT OF ELECTRICAL ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-LAXMAN MUTYAM
-ASSISTANT PROFESSOR
-laxman@rgukt.ac.in
-View Profile
-Dr. N. RAKESH
-ASSISTANT PROFESSOR
-namanirakesh@rgukt.ac.in
-View Profile
-Dr. BHUKYA BHAVSINGH
-ASSISTANT PROFESSOR
-bhavsingh.eee@rgukt.ac.in
-View Profile
-V. VINAY KUMAR
-ASSISTANT PROFESSOR
-vinay.eee@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-S. TULASI RAM
-LABORATORY ASSISTANT
-tulasirams@rgukt.ac.in
-View Profile
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+4 	RTEE160319 	Dr. BHUKYA BHAVSINGH
+Ph.D (OU), M.Tech, B.Tech
+	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	bhavsingh.eee@rgukt.ac.in 	— 	
+2 	RTPEE16014 	Dr. N. RAKESH 	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	namanirakesh@rgukt.ac.in 	— 	
+1 	RTPEE16003 	LAXMAN MUTYAM 	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	laxman@rgukt.ac.in 	— 	
+5 	RNLA120193 	S. TULASI RAM 	LABORATORY ASSISTANT 	Electrical and Electronics Engineering 	tulasirams@rgukt.ac.in 	— 	
+3 	RTEE160297 	V. VINAY KUMAR
+M.Tech
+	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	vinay.eee@rgukt.ac.in 	— 	
+Showing 1–5 of 5 staff
 Academic Programmes
 B.Tech
 Laboratories

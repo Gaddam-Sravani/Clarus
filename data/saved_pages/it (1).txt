@@ -1,0 +1,35 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Information+Technology
+Official Ref: RGUKT-B/Scraped
+
+Faculty of it department or information technology
+Faculty of it department or information technology
+Faculty of it department or information technology
+Faculty of it department or information technology
+
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+15 	RTIT080067 	A. SREEDHAR 	MENTOR 	Information Technology 	sreedharaakula@rgukt.ac.in 	— 	
+14 	RTIT080064 	B. HARI KRISHNA 	MENTOR 	Information Technology 	hari@rgukt.ac.in 	— 	
+16 	RTIT080073 	B. JYOTHI 	MENTOR 	Information Technology 	jyothinadh@rgukt.ac.in 	— 	
+10 	RTIT080060 	B. SRIKANTH 	MENTOR 	Information Technology 	bobbalasrikanth@rgukt.ac.in 	— 	
+7 	RTIT080056 	B. THILAK
+PhD (CSE), M.Tech (BITS Pilani)
+	MENTOR 	Information Technology 	thilakreddy.b@rgukt.ac.in 	— 	
+8 	RTIT080057 	D. YAMINI NAGA PRASHANTHI 	MENTOR 	Information Technology 	dynprashanthi@rgukt.ac.in 	— 	
+1 	RNTA080068 	G. BALACHANDER 	MENTOR 	Information Technology 	balachandar@rgukt.ac.in 	— 	
+2 	RNTA080069 	J. BASAVASHEKAR 	MENTOR 	Information Technology 	basu345@rgukt.ac.in 	— 	
+9 	RTIT080059 	J. BHANU PRIYA 	MENTOR 	Information Technology 	bhanupriya@rgukt.ac.in 	— 	
+11 	RTIT080061 	K. RAJITHA 	MENTOR 	Information Technology 	rajithakurma07@rgukt.ac.in 	— 	
+17 	RTIT110180 	K. SHEKER 	MENTOR 	Information Technology 	shekar.cse@rgukt.ac.in 	— 	
+13 	RTIT080063 	S. RAJANI
+M.Sc (Computer Science), PGDIT
+	MENTOR 	Information Technology 	rajanithilak.reddy@rgukt.ac.in 	— 	
+6 	RTIT080054 	S. SRIKANTH 	MENTOR 	Information Technology 	srikanthsriram@rgukt.ac.in 	— 	
+3 	RNTA080070 	T. SHIRISHA 	MENTOR 	Information Technology 	shirisha5@rgukt.ac.in 	— 	
+5 	— 	T. SRISAILAM
+M.Sc
+	MENTOR 	Information Technology 	srisailamthokala@rgukt.ac.in 	— 	
+12 	RTIT080062 	V. RAJITHA 	MENTOR 	Information Technology 	rajithareddyv@rgukt.ac.in 	— 	
+4 	RNTA080074 	V. RAVINDER REDDY
+M.Sc IT, PGDIT
+	MENTOR 	Information Technology 	rr@rgukt.ac.in 	— 	
+Showing 1–17 of 17 staff

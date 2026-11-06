@@ -1,0 +1,21 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Management+Studies
+Official Ref: RGUKT-B/Scraped
+=================================================================
+
+
+Faculty of Management Studies
+Faculty of Management Studies
+Faculty of Management Studies
+Faculty of Management Studies
+Faculty of Management Studies
+
+#	Emp. ID	Name	Designation	Department	Email	Phone	
+4 	RTMS170353 	B SHRI VIDHYA 	ASSISTANT PROFESSOR 	Management Studies 	srividhyab4@rgukt.ac.in 	— 	
+2 	RTMS160329 	Dr. P. SWATHI
+Ph.D (Management), MBA(Finance & HRM), M.Com, UGC-NET
+	ASSISTANT PROFESSOR 	Management Studies 	panatulaswathi@rgukt.ac.in 	— 	
+3 	RTMS160334 	Dr. TIRTHALA NAGA SAI KUMAR
+PhD (NIT WARANGAL)
+	ASSISTANT PROFESSOR 	Management Studies 	nagasai.tirthala@rgukt.ac.in 	— 	
+1 	RTMS130254 	SWAPNIL JANGALE 	ASSISTANT PROFESSOR 	Management Studies 	swapnil.jangale@rgukt.ac.in 	— 	
+Showing 1–4 of 4 staff

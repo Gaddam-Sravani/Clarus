@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Time Table — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 Time Table
 Academics
 Academic Programmes
@@ -56,18 +47,4 @@ Lunch Break — 12:50 PM to 1:40 PM
 8th Period
 3:20 PM – 4:10 PM
 50 min
-Department Time Tables
-Select a department to view or download the current semester time table:
-Computer Science &amp; Engg.
-Electronics &amp; Comm. Engg.
-Electrical Engineering
-Mechanical Engineering
-Civil Engineering
-Chemical Engineering
-Metallurgical &amp; Materials Engg.
-Physics
-Chemistry
-Mathematics
-Bio Sciences
-Humanities &amp; Social Sciences
-Management
+

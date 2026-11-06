@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Electronics and Communications Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING
 240
 Intake / Year
@@ -49,92 +40,61 @@ DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-G. SRINIVAS SAGAR
-ASSISTANT PROFESSOR
-sagar.iitkgp414@rgukt.ac.in
-View Profile
-AGSHARE DHEERAJ
-ASSISTANT PROFESSOR
-agsharedheeraj@rgukt.ac.in
-View Profile
-A.CH.MADHUSUDHANA RAO
-ASSISTANT PROFESSOR
-ach.madhu@rgukt.ac.in
-View Profile
-Dr. GVSSKR NAGANJANEYULU
-ASSISTANT PROFESSOR
-naganjee@rgukt.ac.in
-View Profile
-Dr. BATHINA UPENDERRAO
-ASSISTANT PROFESSOR
-upenderece@rgukt.ac.in
-View Profile
-RAJKUMAR AMBULAGE
-ASSISTANT PROFESSOR
-rajkumar@rgukt.ac.in
-View Profile
-KARTHIK KASU
-ASSISTANT PROFESSOR
-karthik@rgukt.ac.in
-View Profile
-B. NEELIMA
-ASSISTANT PROFESSOR
-neelima.iiit@rgukt.ac.in
-View Profile
-SAI RADHA KRISHNA G
-ASSISTANT PROFESSOR
-radhakrishna9357@rgukt.ac.in
-View Profile
-RAPOLU SAIDULU
-ASSISTANT PROFESSOR
-saidulur@rgukt.ac.in
-View Profile
-Dr. CHINTAM SHRAVAN
-ASSISTANT PROFESSOR
-shravan@rgukt.ac.in
-View Profile
-Dr. ARAVALLI SAINATH CHAITHANYA
-ASSISTANT PROFESSOR
-chaithanya@rgukt.ac.in
-View Profile
-PANCHAREDDY TEJASVEY
-ASSISTANT PROFESSOR
-tejasvey@rgukt.ac.in
-View Profile
-PASULA PRANAYA
-ASSISTANT PROFESSOR
-pranaya@rgukt.ac.in
-View Profile
-Dr. RAMINENI PADMASREE
-ASSISTANT PROFESSOR
-rtec170370@rgukt.ac.in
-View Profile
-Md. ARIF ALI
-ASSISTANT PROFESSOR
-arifece@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-RAJ KIRAN GUPTA
-LABORATORY ASSISTANT
-guptha.gunda@rgukt.ac.in
-View Profile
-R. GANAPATHI
-LABORATORY ASSISTANT
-rganapathi@rgukt.ac.in
-View Profile
-V. NARESH
-LABORATORY ASSISTANT
-vanjarinaresh@rgukt.ac.in
-View Profile
-K. SUDHEER KUMAR
-LABORATORY ASSISTANT
-sudheerkumar@rgukt.ac.in
-View Profile
-RAJ KIRAN
-LABORATORY ASSISTANT
-rajkiran.inamdar@rgukt.ac.in
-View Profile
-Academic Programmes
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+3 	RTPEC16017 	A.CH.MADHUSUDHANA RAO
+M.Tech (IIT Madras)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	ach.madhu@rgukt.ac.in 	— 	
+2 	RTPEC16005 	AGSHARE DHEERAJ
+Ph.D (Pursuing) in I.I.T Hyderabad
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	agsharedheeraj@rgukt.ac.in 	— 	
+7 	RTEC160302 	B. NEELIMA 	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	neelima.iiit@rgukt.ac.in 	— 	
+12 	RTEC160344 	Dr. ARAVALLI SAINATH CHAITHANYA
+Ph.D., M.Tech., B.Tech., UGC-NET qualified
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	chaithanya@rgukt.ac.in 	— 	
+8 	RTEC160303 	Dr. BATHINA UPENDERRAO
+Ph.D from Osmania University
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	upenderece@rgukt.ac.in 	— 	
+11 	RTEC160338 	Dr. CHINTAM SHRAVAN
+M.Tech, Ph. D. (College of Engineering, Osmania University)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	shravan@rgukt.ac.in 	— 	
+4 	RTPEC16020 	Dr. GVSSKR NAGANJANEYULU
+M.E. (IISc), Ph. D. (NITK)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	naganjee@rgukt.ac.in 	— 	
+15 	RTEC170370 	Dr. RAMINENI PADMASREE
+M.Tech, NET, (PhD)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	rtec170370@rgukt.ac.in 	— 	
+1 	RTPEC16002 	G. SRINIVAS SAGAR
+M.Tech (IIT-KHARAGPUR)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	sagar.iitkgp414@rgukt.ac.in 	— 	
+20 	RNLA120203 	K. SUDHEER KUMAR
+Diploma in ECE
+	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	sudheerkumar@rgukt.ac.in 	— 	
+6 	RTEC130265 	KARTHIK KASU
+Pursuing PhD, M.Tech in Communication Engineering (NIT-SURATHKAL), B.Tech in Electronics & Communication Engineering (Hi-Tech college of Engineering & Technology)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	karthik@rgukt.ac.in 	— 	
+16 	RTEC170374 	Md. ARIF ALI
+M. Tech, (Ph.D)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	arifece@rgukt.ac.in 	7981917891 	
+13 	RTEC170354 	PANCHAREDDY TEJASVEY
+M. Tech.
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	tejasvey@rgukt.ac.in 	— 	
+14 	RTEC170358 	PASULA PRANAYA
+M. Tech.
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	pranaya@rgukt.ac.in 	— 	
+18 	RNLA110185 	R. GANAPATHI 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	rganapathi@rgukt.ac.in 	— 	
+21 	RNLA130220 	RAJ KIRAN 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	rajkiran.inamdar@rgukt.ac.in 	— 	
+17 	RNLA110184 	RAJ KIRAN GUPTA 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	guptha.gunda@rgukt.ac.in 	— 	
+5 	RTEC110176 	RAJKUMAR AMBULAGE
+M.E. in Microelectronics Systems (Indian Institute of Science, Bangalore),B.Tech in Telecommunication Engineering, Bangalore Institute of Technology (VTU, Belgaum)
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	rajkumar@rgukt.ac.in 	— 	
+10 	RTEC160312 	RAPOLU SAIDULU 	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	saidulur@rgukt.ac.in 	— 	
+9 	RTEC160311 	SAI RADHA KRISHNA G
+M. Tech.
+	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	radhakrishna9357@rgukt.ac.in 	— 	
+19 	RNLA120194 	V. NARESH
+M.B.A(O.U), B. Tech (ECE)
+	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	vanjarinaresh@rgukt.ac.in 	— 	
+Showing 1–21 of 21 staff
 B.Tech
 Laboratories
 Analog and Digital Communications Lab

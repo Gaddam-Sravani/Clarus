@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Mechanical Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF MECHANICAL ENGINEERING
 120
 Intake / Year
@@ -51,75 +42,43 @@ DEPARTMENT OF MECHANICAL ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-Dr. K. MAHESH
-ASSISTANT PROFESSOR
-mahesh108@rgukt.ac.in
-View Profile
-A.V.V. ANUPAMA SRIDEVI
-ASSISTANT PROFESSOR
-anupama16@rgukt.ac.in
-View Profile
-SHEKHER SHEELAM
-ASSISTANT PROFESSOR
-shekher.me@rgukt.ac.in
-View Profile
-Dr. DILBAHAR
-ASSISTANT PROFESSOR
-dilbahar_me_iitd@rgukt.ac.in
-View Profile
-ANPAT RAHUL MACHINDRA
-ASSISTANT PROFESSOR
-anpatrahul@rgukt.ac.in
-View Profile
-NAGARAJU GUMMADI
-ASSISTANT PROFESSOR
-gummadinagaraju@rgukt.ac.in
-View Profile
-Dr. V. CHANDRA SHEKARA RAO P.
-ASSISTANT PROFESSOR
-chandrasekhararaopv@rgukt.ac.in
-View Profile
-ABBADI CHARAN REDDY
-ASSISTANT PROFESSOR
-charan.meccanico@rgukt.ac.in
-View Profile
-JAKIRAHEMED MD
-ASSISTANT PROFESSOR
-zakirahemed@rgukt.ac.in
-View Profile
-SANA KUMAR
-ASSISTANT PROFESSOR
-kumar.sana90@rgukt.ac.in
-View Profile
-LALITHA P
-ASSISTANT PROFESSOR
-lalithapv@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-K. JAGADEESHWAR
-LABORATORY ASSISTANT
-jagadeeshwar@rgukt.ac.in
-View Profile
-D. SHANKAR
-LABORATORY ASSISTANT
-dshankar867@rgukt.ac.in
-View Profile
-R. RAVI KUMAR
-LABORATORY ASSISTANT
-saidurga2636@rgukt.ac.in
-View Profile
-B. RAMESH CHANDRA
-LABORATORY ASSISTANT
-rameshchandra@rgukt.ac.in
-View Profile
-G. SUDHAKAR
-LABORATORY TECHNICIAN
-gyatham007@rgukt.ac.in
-View Profile
-D. RAJESWAR
-LABORATORY TECHNICIAN
-rajeshwar.sony@rgukt.ac.in
-View Profile
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+2 	RTPME16008 	A.V.V. ANUPAMA SRIDEVI 	ASSISTANT PROFESSOR 	Mechanical Engineering 	anupama16@rgukt.ac.in 	— 	
+11 	RTME160328 	ABBADI CHARAN REDDY
+M.Tech (NITW)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	charan.meccanico@rgukt.ac.in 	— 	
+5 	RTPME16018 	ANPAT RAHUL MACHINDRA
+M. Tech (IIT Kharagpur)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	anpatrahul@rgukt.ac.in 	— 	
+15 	RNLA130229 	B. RAMESH CHANDRA 	LABORATORY ASSISTANT 	Mechanical Engineering 	rameshchandra@rgukt.ac.in 	— 	
+17 	RNLT110171 	D. RAJESWAR
+ITI, B TECH ,M TECH
+	LABORATORY TECHNICIAN 	Mechanical Engineering 	rajeshwar.sony@rgukt.ac.in 	— 	
+13 	RNLA110183 	D. SHANKAR 	LABORATORY ASSISTANT 	Mechanical Engineering 	dshankar867@rgukt.ac.in 	— 	
+4 	RTPME16015 	Dr. DILBAHAR
+PhD (IIT Roorkee)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	dilbahar_me_iitd@rgukt.ac.in 	— 	
+1 	RTPME16007 	Dr. K. MAHESH
+Ph.D (IIT Delhi), M.S (By Research) (IIT Madras)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	mahesh108@rgukt.ac.in 	— 	
+7 	— 	Dr. V. CHANDRA SHEKARA RAO P.
+Ph.D. (IIT-Madras), Management Essentials (IIM-Shillong)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	chandrasekhararaopv@rgukt.ac.in 	— 	
+16 	RNLT110169 	G. SUDHAKAR 	LABORATORY TECHNICIAN 	Mechanical Engineering 	gyatham007@rgukt.ac.in 	— 	
+8 	RTME110175 	JAKIRAHEMED MD 	ASSISTANT PROFESSOR 	Mechanical Engineering 	zakirahemed@rgukt.ac.in 	— 	
+12 	RNLA110182 	K. JAGADEESHWAR 	LABORATORY ASSISTANT 	Mechanical Engineering 	jagadeeshwar@rgukt.ac.in 	— 	
+10 	RTME140280 	LALITHA P 	ASSISTANT PROFESSOR 	Mechanical Engineering 	lalithapv@rgukt.ac.in 	— 	
+6 	RTPME16019 	NAGARAJU GUMMADI
+M.Tech (Mechanical Design - IIT Madras)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	gummadinagaraju@rgukt.ac.in 	— 	
+14 	RNLA130223 	R. RAVI KUMAR 	LABORATORY ASSISTANT 	Mechanical Engineering 	saidurga2636@rgukt.ac.in 	— 	
+9 	RTME120199 	SANA KUMAR
+MTech
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	kumar.sana90@rgukt.ac.in 	— 	
+3 	RTPME16009 	SHEKHER SHEELAM
+PhD (pursuing, NIT Warangal), MTech (IIT Bombay), BTech (JNTU Anantapur)
+	ASSISTANT PROFESSOR 	Mechanical Engineering 	shekher.me@rgukt.ac.in 	— 	
+Showing 1–17 of 17 staff
 Academic Programmes
 B.Tech
 Laboratories

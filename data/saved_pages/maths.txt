@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Mathematics — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF MATHEMATICS
 29
 Faculty Members
@@ -40,37 +31,29 @@ DEPARTMENT OF MATHEMATICS,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-Dr. SURESH DEVANAPALLI
-ASSISTANT PROFESSOR
-dsuresh7799@rgukt.ac.in
-View Profile
-MADHUSUDAN ADEPU
-MENTOR
-adepu.madhusudhan@rgukt.ac.in
-View Profile
-G. SAYANNA
-ASSISTANT PROFESSOR
-saimaths@rgukt.ac.in
-View Profile
-T. PRAKASH
-ASSISTANT PROFESSOR
-prakash.turpu@rgukt.ac.in
-View Profile
-Dr. G THIRUPATHI
-ASSISTANT PROFESSOR
-gthirupathi@rgukt.ac.in
-View Profile
-PASUNOORI SRINIVASULU
-ASSISTANT PROFESSOR
-rtma170352@rgukt.ac.in
-View Profile
-Dr. KUMAR RAGULA
-ASSISTANT PROFESSOR
-kumar_r@rgukt.ac.in
-View Profile
-BALA RAJU
-ASSISTANT PROFESSOR
-balaraju117@rgukt.ac.in
-View Profile
+Faculty of Maths/Mathematics Department
+Faculty of Maths/Mathematics Department
+Faculty of Maths/Mathematics Department
+Faculty of Maths/Mathematics Department
+Faculty of Maths/Mathematics Department
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+8 	RTMA170366 	BALA RAJU 	ASSISTANT PROFESSOR 	Mathematics 	balaraju117@rgukt.ac.in 	— 	
+5 	RTMA170350 	Dr. G THIRUPATHI
+Ph.D
+	ASSISTANT PROFESSOR 	Mathematics 	gthirupathi@rgukt.ac.in 	— 	
+7 	RTMA170363 	Dr. KUMAR RAGULA
+Ph.D, M.Sc, B.Ed.
+	ASSISTANT PROFESSOR 	Mathematics 	kumar_r@rgukt.ac.in 	— 	
+3 	— 	Dr. SURESH DEVANAPALLI
+M.Sc, M.Tech (IIT Kgp), Ph.D
+	ASSISTANT PROFESSOR 	Mathematics 	dsuresh7799@rgukt.ac.in 	— 	
+2 	RTMA120197 	G. SAYANNA 	ASSISTANT PROFESSOR 	Mathematics 	saimaths@rgukt.ac.in 	— 	
+1 	RTMA110177 	MADHUSUDAN ADEPU 	MENTOR 	Mathematics 	adepu.madhusudhan@rgukt.ac.in 	— 	
+6 	RTMA170352 	PASUNOORI SRINIVASULU
+Ph.D From Dr B.R.AMBEDKR OPEN UNIVERSITY ,HYDERABAD
+	ASSISTANT PROFESSOR 	Mathematics 	rtma170352@rgukt.ac.in 	9652093536 	
+4 	RTMA140278 	T. PRAKASH 	ASSISTANT PROFESSOR 	Mathematics 	prakash.turpu@rgukt.ac.in 	— 	
+Showing 1–8 of 8 staff
+
 Academic Programmes
 B.Tech

@@ -1,0 +1,24 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Scholorship+Section
+Official Ref: RGUKT-B/Scraped
+=====================================
+
+Staff of scholorship section 
+Staff of scholorship section 
+Staff of scholorship section 
+Staff of scholorship section 
+Staff of scholorship section 
+
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+4 	RNTA090116 	B. SWETHA
+M.Sc(IT), PGDIT
+	TECHNICAL ASSISTANT 	Scholorship Section 	swethabandla@rgukt.ac.in 	— 	
+2 	RNTA090106 	D. CHINNA REDDY 	TECHNICAL ASSISTANT 	Scholorship Section 	chinnareddydhadi@rgukt.ac.in 	— 	
+5 	RNTA090118 	K. SWAPNA
+None
+	TECHNICAL ASSISTANT 	Scholorship Section 	swapnakaithi@rgukt.ac.in 	— 	
+1 	RNPJA24015 	MARTA SYAM SUNDAR
+None
+	Jr. Assistant 	Scholorship Section 	syamsundar.marta@rgukt.ac.in 	— 	
+6 	RNTA090123 	P. HIMABINDU 	TECHNICAL ASSISTANT 	Scholorship Section 	himabindureddy@rgukt.ac.in 	— 	
+3 	RNTA090108 	SAMEENA BEGUM 	TECHNICAL ASSISTANT 	Scholorship Section 	sameenamohd@rgukt.ac.in 	— 	
+Showing 1–6 of 6 staff

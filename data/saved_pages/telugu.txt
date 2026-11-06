@@ -1,0 +1,18 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Telugu
+Official Ref: RGUKT-B/Scraped
+=====================================
+Faculty of Telugu Department
+Faculty of Telugu Department
+Faculty of Telugu Department
+Faculty of Telugu Department
+Faculty of Telugu Department
+
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+1 	RTTE090091 	Dr. B BALA KRISHNA
+M.A.(TELUGU), Ph.D, NET, SET, PGDCA.
+	MENTOR 	Telugu 	dr.b.balakrishna@rgukt.ac.in 	— 	
+3 	RTTE090093 	Dr. B VIJAY KUMAR 	MENTOR 	Telugu 	drbvijaykumar@rgukt.ac.in 	— 	
+4 	RTTE090095 	Dr. K. RAMULU 	MENTOR 	Telugu 	ramukothapalli@rgukt.ac.in 	— 	
+2 	RTTE090092 	Dr. M. RAMA DEVI 	MENTOR 	Telugu 	dr.ramadevi@rgukt.ac.in 	— 	
+5 	RTTE110164 	Dr. P GOPALAKRISHNA 	ASSISTANT PROFESSOR 	Telugu 	gkpagadala@rgukt.ac.in 	— 	
+Showing 1–5 of 5 staff

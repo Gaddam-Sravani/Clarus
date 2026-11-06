@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Bio Sciences — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF BIO SCIENCE
 8
 Faculty Members
@@ -47,31 +38,17 @@ hod.bsbe@rgukt.ac.in
 DEPARTMENT OF BIO SCIENCE,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
-View all →
-Dr. A. SAI KRISHNA
-ASSISTANT PROFESSOR
-askkris@rgukt.ac.in
-View Profile
-Dr. K. MADHUSUDHAN
-MENTOR
-madhukairamkonda@rgukt.ac.in
-View Profile
-DHARAMSOTH NARENDER NAIK
-ASSISTANT PROFESSOR
-narender@rgukt.ac.in
-View Profile
-Dr. TIPPYREDDY RAKESH REDDY
-ASSISTANT PROFESSOR
-rakesh@rgukt.ac.in
-View Profile
-SRINIVAS GAJJELLA
-ASSISTANT PROFESSOR
-ravisrigajjela@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-B. KIRAN KUMAR
-LABORATORY ASSISTANT
-kiranboggula@rgukt.ac.in
-View Profile
-Academic Programmes
-B.Tech
+S.NO	Emp. ID	Name	Designation	Department	Email	Phone	
+6 	RNLA100156 	B. KIRAN KUMAR 	LABORATORY ASSISTANT 	Bio Sciences 	kiranboggula@rgukt.ac.in 	— 	
+2 	RTBS100148 	DHARAMSOTH NARENDER NAIK 	ASSISTANT PROFESSOR 	Bio Sciences 	narender@rgukt.ac.in 	— 	
+5 	RTBS120196 	Dr. A. SAI KRISHNA 	ASSISTANT PROFESSOR 	Bio Sciences 	askkris@rgukt.ac.in 	— 	
+1 	RTBS090090 	Dr. K. MADHUSUDHAN
+M.Sc.(Botany), M.Sc.(ENV), Ph.D., B.Ed., NET, SET., TET
+	MENTOR 	Bio Sciences 	madhukairamkonda@rgukt.ac.in 	— 	
+3 	RTBS100149 	Dr. TIPPYREDDY RAKESH REDDY
+PhD from Osmania University, M.Tech from IIT-Bombay, B.Tech From JNTUH
+	ASSISTANT PROFESSOR 	Bio Sciences 	rakesh@rgukt.ac.in 	— 	
+4 	RTBS100152 	SRINIVAS GAJJELLA
+M.Sc. (HCU), CSIR UGC(NET), GATE.
+	ASSISTANT PROFESSOR 	Bio Sciences 	ravisrigajjela@rgukt.ac.in 	— 	
+Showing 6 staff

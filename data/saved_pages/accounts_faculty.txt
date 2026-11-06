@@ -1,0 +1,21 @@
+ Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Accounts+Department
+Official Ref: RGUKT-B/Scraped
+=================================================================
+ Faculty of Accounts Section/Department
+  Faculty of Accounts Section/Department
+   Faculty of Accounts Section/Department
+    Faculty of Accounts Section/Department
+     Faculty of Accounts Section/Department
+     
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+4 	RNTA090121 	D. RAJITHA
+None
+	TECHNICAL ASSISTANT 	Accounts Department 	rajithad@rgukt.ac.in 	— 	
+3 	RNTA090110 	K. RAJU 	TECHNICAL ASSISTANT 	Accounts Department 	rajukatukuri@rgukt.ac.in 	— 	
+1 	RNTA080077 	P. JAYARAJU
+M.sc (Information Technology), M.Sc (Botany),
+	TECHNICAL ASSISTANT 	Accounts Department 	jayaraju.peramalla@rgukt.ac.in 	— 	
+2 	RNTA090109 	SRINIVAS MITTAPELLI
+None
+	TECHNICAL ASSISTANT 	Accounts Department 	— 	— 	
+Showing 1–4 of 4 staff

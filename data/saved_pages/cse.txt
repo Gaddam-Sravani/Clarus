@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Computer Science and Engineering — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
 23
 Faculty Members
@@ -49,42 +40,24 @@ DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING,
 RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 Teaching Faculty
 View all →
-SUJOY SARKAR
-ASSISTANT PROFESSOR
-sujoysarkar@rgukt.ac.in
-View Profile
-G. RANJITH KUMAR
-ASSISTANT PROFESSOR
-ranjithgarnepudi@rgukt.ac.in
-View Profile
-GEETLA SRUJANA
-ASSISTANT PROFESSOR
-srujana.cse@rgukt.ac.in
-View Profile
-Dr. VENKAT RAMAN. B
-ASSISTANT PROFESSOR
-bvraman@rgukt.ac.in
-View Profile
-UDDAMARI NAGAMANI
-ASSISTANT PROFESSOR
-nagamani@rgukt.ac.in
-View Profile
-BUDDANNAGARI LATHA
-ASSISTANT PROFESSOR
-rtcs160313@rgukt.ac.in
-View Profile
-P. LAXMI NARAYANA
-ASSISTANT PROFESSOR
-rtcs160331@rgukt.ac.in
-View Profile
-PULLAIAHGARI SARIKA
-ASSISTANT PROFESSOR
-sarika.cse@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-T. PRAVALIKA
-LABORATORY ASSISTANT
-pravalika.iiit@rgukt.ac.in
-View Profile
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+6 	RTCS160313 	BUDDANNAGARI LATHA
+pursing Ph.D, M.tech, Btech
+	ASSISTANT PROFESSOR 	Computer Science and Engineering 	rtcs160313@rgukt.ac.in 	— 	
+4 	RTCS130260 	Dr. VENKAT RAMAN. B 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	bvraman@rgukt.ac.in 	— 	
+2 	RTPCS16011 	G. RANJITH KUMAR 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	ranjithgarnepudi@rgukt.ac.in 	— 	
+3 	RTPCS16012 	GEETLA SRUJANA 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	srujana.cse@rgukt.ac.in 	— 	
+7 	RTCS160331 	P. LAXMI NARAYANA
+M.Tech(NITK Surathkal)
+	ASSISTANT PROFESSOR 	Computer Science and Engineering 	rtcs160331@rgukt.ac.in 	— 	
+8 	RTCS170357 	PULLAIAHGARI SARIKA 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	sarika.cse@rgukt.ac.in 	— 	
+1 	RTPCS16010 	SUJOY SARKAR
+M.Tech.
+	ASSISTANT PROFESSOR 	Computer Science and Engineering 	sujoysarkar@rgukt.ac.in 	— 	
+9 	RNLA130222 	T. PRAVALIKA 	LABORATORY ASSISTANT 	Computer Science and Engineering 	pravalika.iiit@rgukt.ac.in 	— 	
+5 	— 	UDDAMARI NAGAMANI
+Ph.D(pursuing),M.Tech,B.Tech,UGC-NET,SET
+	ASSISTANT PROFESSOR 	Computer Science and Engineering 	nagamani@rgukt.ac.in 	— 	
+Showing 1–9 of 9 staff
 Academic Programmes
 B.Tech

@@ -1,0 +1,16 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Student+Welfare
+Official Ref: RGUKT-B/Scraped
+=========================================
+Staff of Student welfare section
+Staff of Student welfare section
+Staff of Student welfare section
+Staff of Student welfare section
+Staff of Student welfare section
+
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+2 	RNAS140286 	BOYA SAIDULU 	CARETAKER 	Student Welfare 	saidu@rgukt.ac.in 	— 	
+1 	RNPJA24005 	VALLAPUDASU KIRAN
+None
+	Jr. Assistant 	Student Welfare 	kiranvallapudas@rgukt.ac.in 	— 	
+Showing 1–2 of 2 staff
+

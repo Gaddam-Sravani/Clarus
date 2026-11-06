@@ -1,0 +1,25 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Chemistry
+Official Ref: RGUKT-B/Scraped
+=================================================================
+Faculty of Chemistry Department
+Faculty of Chemistry Department
+Faculty of Chemistry Department
+Faculty of Chemistry Department
+Faculty of Chemistry Department
+
+
+#	Emp. ID	Name	Designation	Department	Email	Phone	
+3 	RTCY160300 	Dr. B. SRINIVAS 	ASSISTANT PROFESSOR 	Chemistry 	srinivas.iiit@rgukt.ac.in 	— 	
+6 	RTCY160317 	Dr. J. KASHANNA
+M. Sc., Ph. D.
+	ASSISTANT PROFESSOR 	Chemistry 	jajulakashanna@rgukt.ac.in 	— 	
+2 	RTCY130241 	Dr. K. PAVANI 	ASSISTANT PROFESSOR 	Chemistry 	kpavani@rgukt.ac.in 	— 	
+4 	RTCY160304 	Dr. R. SHRIKANTH
+Ph.D, M.Sc.
+	ASSISTANT PROFESSOR 	Chemistry 	shrikanthr@rgukt.ac.in 	— 	
+7 	RTCY160335 	Dr. S. VITTAL 	ASSISTANT PROFESSOR 	Chemistry 	vittals123@rgukt.ac.in 	— 	
+5 	RTCY160309 	Dr. SWETHA G 	ASSISTANT PROFESSOR 	Chemistry 	rtcy160309@rgukt.ac.in 	— 	
+9 	RNLA130231 	M. BHUMANNA 	LABORATORY ASSISTANT 	Chemistry 	mekalabhumanna@rgukt.ac.in 	— 	
+1 	RTCY090128 	T. MADHUSUDHAN REDDY 	MENTOR 	Chemistry 	tmsreddy86@rgukt.ac.in 	— 	
+8 	RNLA110165 	T. SHYAM SUNDAR 	LABORATORY ASSISTANT 	Chemistry 	shyamsundar@rgukt.ac.in 	— 	
+Showing 1–9 of 9 staff

@@ -3,15 +3,6 @@ Official Ref: RGUKT-B/Scraped
 =================================================================
 
 Student Counseling Center — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
 Student Counseling Center
 Counseling
 About
@@ -44,3 +35,13 @@ counsellor.nlaxmi@rgukt.ac.in
 P. Srilakshmi
 Counsellor
 counsellor.sri@rgukt.ac.in
+
+Faculty of COUNSELLING, STUDENT WELFARE
+Faculty of COUNSELLING, STUDENT WELFARE
+Faculty of COUNSELLING, STUDENT WELFARE
+Faculty of COUNSELLING, STUDENT WELFARE
+Faculty of COUNSELLING, STUDENT WELFARE
+
+#	Emp. ID	Name	Designation	Department	Email	Phone	
+1 	RNPJA24004 	MADIPADIGA RAMBABU 	Jr. Assistant 	COUNSELLING, STUDENT WELFARE 	madipadigarambabu@rgukt.ac.in 	— 	
+Showing 1–1 of 1 staff

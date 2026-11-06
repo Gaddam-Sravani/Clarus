@@ -1,0 +1,25 @@
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Health+Centre
+Official Ref: RGUKT-B/Scraped
+
+People in Health Center or Hospital 
+Doctor/Nurse
+People in Health Center or Hospital 
+Doctor/Nurse
+People in Health Center or Hospital 
+Doctor/Nurse
+People in Health Center or Hospital 
+Doctor/Nurse
+People in Health Center or Hospital 
+Doctor/Nurse
+#	Emp. ID	Name	Designation	Department	Email	Phone	
+1 	RNPJA24016 	USHASRI KALIVETI
+None
+	Jr. Assistant 	Health Centre 	ushasri@rgukt.ac.in 	—
+ #	Emp. ID	Name	Designation	Department	Email	Phone	
+1 	RNHS100138 	Ch. ANITHA 	PHARMACIST 	Health Centre 	anithachimulla@rgukt.ac.in 	— 	
+5 	RNHS130236 	E. GANGAMANI 	STAFF NURSE 	Health Centre 	Gangamani.e@rgukt.ac.in 	— 	
+6 	RNHS140271 	R. AJAY 	PHARMACIST 	Health Centre 	ajay.pharmacist@rgukt.ac.in 	— 	
+3 	RNHS120206 	R. GANGA VENI 	STAFF NURSE 	Health Centre 	gangavenirenjarla@rgukt.ac.in 	— 	
+2 	RNHS100139 	T. SAINATH 	MEDICAL DRESSER 	Health Centre 	Sainath.thota@rgukt.ac.in 	— 	
+4 	RNHS130234 	V. RUTH 	STAFF NURSE 	Health Centre 	ruth.vj@rgukt.ac.in 	— 	
+Showing 1–6 of 6 staff
