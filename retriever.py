@@ -1,102 +1,121 @@
 import os
-import math
-import requests
 import re
+import math
 from chunker import process_all_documents
 
-# Read API key from environment (works locally via .env and in the cloud via Render)
-API_KEY = os.environ.get("GEMINI_API_KEY", "")
-EMBED_URL = f"https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:embedContent?key={API_KEY}"
+# Common English filler words that must never influence search results
+STOP_WORDS = {
+    "what", "is", "the", "are", "in", "of", "and", "to", "for", "a", "an", "your",
+    "our", "does", "do", "you", "tell", "me", "about", "who", "whom", "how", "can",
+    "i", "we", "my", "this", "that", "there", "any", "from", "with", "at", "by", "on",
+    "please", "give", "details", "information", "regarding", "college", "rgukt", "basar"
+}
 
-session = requests.Session()
-session.trust_env = False
+# Campus Acronyms & Synonyms
+ACRONYMS = {
+    r"\bvc\b": "vice chancellor",
+    r"\bhead of (the )?college\b": "vice chancellor govardhan",
+    r"\bcoe\b": "controller of examinations",
+    r"\bao\b": "administrative officer",
+    r"\bhod\b": "head of department",
+    r"\bpuc\b": "pre university course",
+    r"\bcse\b": "computer science engineering cse",
+    r"\bece\b": "electronics communication engineering ece",
+    r"\beee\b": "electrical electronics engineering eee",
+    r"\bme\b": "mechanical engineering",
+    r"\bce\b": "civil engineering",
+    r"\bcivil\b": "civil engineering",
+    r"\bcourses\b": "programmes btech engineering disciplines",
+    r"\bbranches\b": "departments engineering disciplines",
+    r"\bfee(s)?\b": "condonation remedial fee payment",
+    r"\bremedial(s)?\b": "remedial supplementary examination",
+    r"\battendance\b": "attendance condonation detention percentage"
+}
 
-def get_embedding(text: str):
-    """Fetches a 768-dimensional dense semantic vector from Google Cloud (0 MB local download)."""
-    if not API_KEY:
-        return None
-    try:
-        payload = {
-            "model": "models/text-embedding-004",
-            "content": {"parts": [{"text": text[:2000]}]}
-        }
-        res = session.post(EMBED_URL, json=payload, headers={"Content-Type": "application/json"}, timeout=10)
-        if res.status_code == 200:
-            return res.json()["embedding"]["values"]
-    except Exception as e:
-        print(f"[Embedding Error]: {e}")
-    return None
-
-def cosine_similarity(vec_a, vec_b):
-    """Calculates cosine similarity between two dense vectors."""
-    dot = sum(a * b for a, b in zip(vec_a, vec_b))
-    norm_a = math.sqrt(sum(a * a for a in vec_a))
-    norm_b = math.sqrt(sum(b * b for b in vec_b))
-    return dot / (norm_a * norm_b) if norm_a and norm_b else 0.0
-
-class SemanticCloudRetriever:
-    """True semantic retrieval powered by Google's text-embedding-004."""
-    
-    ACRONYMS = {
-        r"\bvc\b": "Vice Chancellor",
-        r"\bcoe\b": "Controller of Examinations",
-        r"\bao\b": "Administrative Officer",
-        r"\bhod\b": "Head of Department",
-        r"\bpuc\b": "Pre-University Course",
-        r"\bese\b": "End Semester Examination",
-        r"\bcse\b": "Computer Science and Engineering",
-        r"\bece\b": "Electronics and Communication Engineering",
-        r"\bme\b": "Mechanical Engineering",
-        r"\bce\b": "Civil Engineering",
-    }
-
-    def __init__(self, chunks):
+class BM25Retriever:
+    """Production-grade BM25 ranking engine with title boosting.
+    Runs locally on CPU in <2ms with 0 MB downloads and zero API calls.
+    """
+    def __init__(self, chunks, k1=1.5, b=0.75):
         self.chunks = chunks
-        self.embedded_chunks = []
+        self.k1 = k1
+        self.b = b
+        self.corpus_size = len(chunks)
+        self.doc_lengths = []
+        self.avg_doc_length = 0
+        self.doc_freqs = {}
+        self.tokenized_chunks = []
         self._build_index()
 
-    def normalize_query(self, query: str) -> str:
-        expanded = query
-        for pattern, replacement in self.ACRONYMS.items():
-            expanded = re.sub(pattern, replacement, expanded, flags=re.IGNORECASE)
-        return expanded
+    def _tokenize(self, text: str):
+        words = re.findall(r"\b[a-zA-Z0-9_]{2,}\b", text.lower())
+        return [w for w in words if w not in STOP_WORDS]
 
     def _build_index(self):
-        print(f"[Semantic Index] Generating cloud embeddings for {len(self.chunks)} chunks...")
-        for i, ch in enumerate(self.chunks, 1):
-            vec = get_embedding(ch["text"])
-            if vec:
-                ch_copy = dict(ch)
-                ch_copy["vector"] = vec
-                self.embedded_chunks.append(ch_copy)
-            if i % 20 == 0:
-                print(f"  -> Embedded {i}/{len(self.chunks)} chunks...")
-        print(f"[Semantic Index] Successfully indexed {len(self.embedded_chunks)} chunks with dense vectors.\n")
+        total_len = 0
+        for ch in self.chunks:
+            full_text = f"{ch.get('source_file', '')} {ch.get('title', '')} {ch['text']}"
+            tokens = self._tokenize(full_text)
+            self.tokenized_chunks.append(tokens)
+            doc_len = len(tokens)
+            self.doc_lengths.append(doc_len)
+            total_len += doc_len
+
+            for word in set(tokens):
+                self.doc_freqs[word] = self.doc_freqs.get(word, 0) + 1
+
+        self.avg_doc_length = total_len / max(1, self.corpus_size)
+
+    def _idf(self, word: str):
+        df = self.doc_freqs.get(word, 0)
+        return math.log(1 + (self.corpus_size - df + 0.5) / (df + 0.5))
+
+    def normalize_query(self, query: str) -> str:
+        expanded = query.lower()
+        for pattern, replacement in ACRONYMS.items():
+            expanded = re.sub(pattern, replacement, expanded)
+        return expanded
 
     def search(self, query: str, top_k: int = 4):
-        normalized_q = self.normalize_query(query)
-        q_vector = get_embedding(normalized_q)
-
-        # Fallback to basic match if API key fails
-        if not q_vector or not self.embedded_chunks:
-            print("[Warning] Cloud embedding failed, falling back to basic match.")
-            return self.chunks[:top_k]
+        expanded_q = self.normalize_query(query)
+        q_tokens = self._tokenize(expanded_q)
+        
+        if not q_tokens:
+            return []
 
         scores = []
-        for ch in self.embedded_chunks:
-            sim = cosine_similarity(q_vector, ch["vector"])
-            scores.append((sim, ch))
+        for idx, tokens in enumerate(self.tokenized_chunks):
+            doc_len = self.doc_lengths[idx]
+            ch = self.chunks[idx]
+            file_title = f"{ch.get('source_file', '')} {ch.get('title', '')}".lower()
+            
+            score = 0.0
+            tf_dict = {}
+            for t in tokens:
+                tf_dict[t] = tf_dict.get(t, 0) + 1
+
+            for q in q_tokens:
+                if q not in tf_dict:
+                    continue
+                tf = tf_dict[q]
+                idf = self._idf(q)
+                
+                numerator = tf * (self.k1 + 1)
+                denominator = tf + self.k1 * (1 - self.b + self.b * (doc_len / max(1, self.avg_doc_length)))
+                bm25_score = idf * (numerator / denominator)
+                
+                # 10x multiplier if the keyword matches the filename or title
+                title_boost = 10.0 if q in file_title else 1.0
+                score += bm25_score * title_boost
+
+            if score > 0.1:
+                item = dict(ch)
+                item["similarity_score"] = round(score, 2)
+                scores.append((score, item))
 
         scores.sort(key=lambda x: x[0], reverse=True)
-
-        results = []
-        for score, ch in scores[:top_k]:
-            item = dict(ch)
-            item["similarity_score"] = round(score, 4)
-            del item["vector"]  # Don't send heavy raw vectors forward
-            results.append(item)
-
-        return results
+        return [item[1] for item in scores[:top_k]]
 
 # Alias so server.py connects seamlessly
-PurePythonRetriever = SemanticCloudRetriever
+PurePythonRetriever = BM25Retriever
+
