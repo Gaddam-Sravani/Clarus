@@ -10,3 +10,5 @@ __pycache__/
 data/chroma_db/
 *.db
 *.sqlite3
+api_key
+.env

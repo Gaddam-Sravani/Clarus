@@ -13,23 +13,23 @@ STOP_WORDS = {
 
 # Campus Acronyms & Synonyms
 ACRONYMS = {
+    r"\btc\b": "transfer certificate",
     r"\bvc\b": "vice chancellor",
-    r"\bhead of (the )?college\b": "vice chancellor govardhan",
     r"\bcoe\b": "controller of examinations",
     r"\bao\b": "administrative officer",
     r"\bhod\b": "head of department",
     r"\bpuc\b": "pre university course",
-    r"\bcse\b": "computer science engineering cse",
-    r"\bece\b": "electronics communication engineering ece",
-    r"\beee\b": "electrical electronics engineering eee",
+    r"\bdsw\b": "dean student welfare",
+    r"\bcse\b": "computer science engineering",
+    r"\bece\b": "electronics communication engineering",
+    r"\beee\b": "electrical electronics engineering",
     r"\bme\b": "mechanical engineering",
     r"\bce\b": "civil engineering",
-    r"\bcivil\b": "civil engineering",
-    r"\bcourses\b": "programmes btech engineering disciplines",
-    r"\bbranches\b": "departments engineering disciplines",
-    r"\bfee(s)?\b": "condonation remedial fee payment",
-    r"\bremedial(s)?\b": "remedial supplementary examination",
-    r"\battendance\b": "attendance condonation detention percentage"
+    r"\bmme\b": "metallurgical materials engineering",
+    r"\bche\b": "chemical engineering",
+    r"\btnp\b": "training placement",
+    r"\bt&p\b": "training placement",
+    r"\bsac\b": "student activity center",
 }
 
 class BM25Retriever:

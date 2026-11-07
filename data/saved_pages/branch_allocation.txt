@@ -1,6 +1,10 @@
-Source URL: https://www.rgukt.ac.in/
-Official Ref: RGUKT-B/Rules-Section-III
-=================================================================
+
+Source URL: https://www.rgukt.ac.in
+Official Ref: RGUKT-B/Academic/BranchAllocation
+================================================================================
+RGUKT BASAR — B.TECH BRANCH ALLOCATION RULES & ENGINEERING SEAT ALLOCATION
+================================================================================
+Official Regulations for Allocation of Engineering Branches, Selection Cutoffs (CGPA 6.00), and Branch Seat Quotas for PUC Students:
 
 III. ALLOCATION OF SEATS IN ENGINEERING BRANCHES — RGUKT BASAR
 

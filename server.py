@@ -81,7 +81,7 @@ def ask_gemini(question: str):
         )
 
     # 2. Retrieve top-4 relevant chunks
-    matches = retriever.search(question, top_k=4)
+    matches = retriever.search(question, top_k=5)
     if not matches:
         return "I could not find any relevant RGUKT Basar records matching your question. Please verify on https://hub.rgukt.ac.in", []
 

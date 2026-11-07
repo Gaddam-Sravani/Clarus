@@ -4,8 +4,8 @@ import re
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SAVED_PAGES_DIR = os.path.join(BASE_DIR, "data", "saved_pages")
 
-CHUNK_SIZE = 700      # Target character length per chunk
-CHUNK_OVERLAP = 150   # Overlap between consecutive chunks
+CHUNK_SIZE = 1000      # Target character length per chunk
+CHUNK_OVERLAP = 200   # Overlap between consecutive chunks
 
 NOISY_PATTERNS = {
     "skip to main content", "staff login", "webmaster@rgukt.ac.in",
