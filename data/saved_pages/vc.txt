@@ -1,98 +1,101 @@
 Source URL: https://www.rgukt.ac.in/vc.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Administration-VC
 =================================================================
 
-Vice Chancellor — RGUKT Basar
-Vice Chancellor
-Administration
-Vice Chancellor
-Governing Council
-Administration
-Communication Directory
-VC Succession
-Prof. A. Govardhan
-Education Qualifications
-B.E. (CSE), Osmania University, Hyderabad •
-M.Tech (CS), JNU, New Delhi •
-Ph.D (CSE), JNTU, Hyderabad •
-PG Diploma in Leadership, EMERITUS, Singapore
-FIE, FCSI, C.Eng, FIETE, FISDS, FCSRC
-Vice Chancellor, RGUKT Basar
+VICE CHANCELLOR & LEADERSHIP — RGUKT BASAR
 
-Email:vc@rgukt.ac.in
-5333+ Google Scholar Citations
-103 Ph.D Theses Guided
-555 Research Papers
-45+ Awards
-30 Years Experience
+1. CURRENT VICE CHANCELLOR PROFILE
+Name: Sr. Prof. A. Govardhan
+Designation: Vice Chancellor (I/c), RGUKT Basar
+Tenure: 17.10.2024 – Present (Till Date)
+Official Email: vc@rgukt.ac.in
+Academic Field: Senior Professor of Computer Science & Engineering (30 Years of Teaching & Research Experience)
 
-He believes that three things are necessary
-to make every person great and every nation great:
-Conviction of the Powers of good
-Absence of Jealousy and Suspicion
-Helping all who are trying to be good and do good
-Profile
-Prof. A. Govardhan is a Senior Professor of Computer Science & Engineering with 30 years of teaching and research experience. He has served in and held several academic and administrative positions including Rector, JNTU Hyderabad; Registrar I/c, JNTUH; Principal (JNTUH CEH, JNTUH CEJ); Director, School of Information Technology, JNTUH; Director of Evaluation; Nodal Officer (JNTUH CER); Head, Dept. of CSE, JNTUH CEH; and Chairman & Member on Boards of Studies of various State & Central Universities.
-He did his 10th standard from Z.P.H.S. Choutuppal, B.E. (CSE) from Osmania University, M.Tech from JNU New Delhi, Ph.D from JNTU Hyderabad, and Post Graduate Diploma in Leadership from EMERITUS Singapore (a collaborative programme of Tuck Executive Education at Dartmouth, Columbia Business School Executive Education and MIT Management Executive Education).
-Awards & Recognition
-Visionary EduLeader of the Year 2023
-Most Influential Thought Leaders to Follow Award (2023)
-Elsevier Lifetime Achievement Award (2022)
-Lifetime Achievement Award (2022)
-Inspiring Educationist Award (2019)
-Dr. APJ Abdul Kalam Excellency Award (2018)
-Best Senior Scientist Award (2018)
-Dewang Mehta Academic Leadership Award (2017)
-Dr. Sarvepalli Radhakrishnan National Award
-Andhra Pradesh State Government Best Teacher Award (2012)
-Pride of Asia International Award
-Bharat Seva Ratna Puraskar
-Mother Teresa Award for Outstanding Services
-Education
-Degree
-Programme / Specialization
-University / Board
-Ph.D
-Computer Science & Engineering
-JNTU, Hyderabad
-M.Tech
-Computer Science
-JNU, New Delhi
-B.E.
-Computer Science & Engineering
-Osmania University, Hyderabad
-PG Diploma in Leadership
-Leadership
-EMERITUS, Singapore
-Achievements (11)
-Published 555 research papers in international/national journals and conferences including IEEE, ACM, Springer, Elsevier, IGI Global, Taylor & Francis and InderScience.
-Guided 103 Ph.D theses, 1 M.Phil and 140 M.Tech projects.
-Google Scholar citations: 5,333; h-index: 31; i10-index: 107.
-Editor for 10 books/proceedings including Springer; 3 Monographs; 10 Book Chapters.
-Research projects (completed) worth Rs. 61.58 Lakhs; Project Director during TEQIP-II and TEQIP-III including a Centre of Excellence in Disaster Management (Total: Rs. 22 Crores).
-Areas of research: Databases, Data Science, Security, Information Retrieval Systems and Educational Leadership.
-Convener for TS EAMCET-2022, TS EAMCET-2021, TS EAMCET-2020, TS ECET-2019, TS ECET-2018 and TS ECET-2017.
-Served as General Chair / Honorary Chair / Program Chair for 7 International Conferences.
-Delivered more than 150 Keynote speeches / invited lectures on topics including Data Science, Cyber Security, Research Methodologies, NEP-2020 and Leadership Skills.
-Member on Advisory / Academic Boards / Technical Program Committees for 100+ International/National Conferences.
-Member on Editorial Boards for twelve International Journals.
-Professional Memberships
-Fellow of CSI, IEI, IETE, ISDS and CSRC.
-Member / Senior Member of ISTE, ACM, IEEE, IAENG, WASET, FSF, ISOC, IACSIT, AAAS and LivDNA.
-Administrative Experience
-Vice Chancellor, RGUKT Basar (17.10.2024 – Present).
-Chairman, Internal Quality Assurance Cell (IQAC), RGUKT Basar.
-Rector, JNTU Hyderabad.
-Registrar (I/c), JNTU Hyderabad.
-Principal, JNTUH College of Engineering (CEH & CEJ).
-Director, School of Information Technology, JNTUH.
-Director of Evaluation, JNTUH.
-Nodal Officer, JNTUH CER.
-Head, Department of CSE, JNTUH CEH.
-Chairman & Member on Boards of Studies of various State & Central Universities.
+Core Philosophy:
+He believes that three things are necessary to make every person great and every nation great:
+- Conviction of the Powers of good
+- Absence of Jealousy and Suspicion
+- Helping all who are trying to be good and do good
 
-Office of the Vice Chancellor
-Mr. M. Harikrishna
-Secretary to Vice Chancellor
-08752-255111
-secytovc@rgukt.ac.in
+Educational Qualifications:
+- Ph.D in Computer Science & Engineering — JNTU, Hyderabad
+- M.Tech in Computer Science — JNU, New Delhi
+- B.E. in Computer Science & Engineering — Osmania University, Hyderabad
+- Post Graduate Diploma in Leadership — EMERITUS, Singapore (collaborative programme of Tuck Executive Education at Dartmouth, Columbia Business School Executive Education, and MIT Management Executive Education)
+- Early Education: 10th standard from Z.P.H.S. Choutuppal
+- Professional Titles: FIE, FCSI, C.Eng, FIETE, FISDS, FCSRC
+
+Key Research & Academic Metrics:
+- Google Scholar Citations: 5,333+ (h-index: 31, i10-index: 107)
+- Research Papers Published: 555 in international/national journals & conferences (IEEE, ACM, Springer, Elsevier, IGI Global, Taylor & Francis, InderScience)
+- Ph.D Theses Guided: 103 (plus 1 M.Phil and 140 M.Tech projects)
+- Books & Proceedings: Editor for 10 books/proceedings (including Springer), 3 Monographs, 10 Book Chapters
+- Research Projects Completed: Rs. 61.58 Lakhs; Project Director during TEQIP-II & TEQIP-III including a Centre of Excellence in Disaster Management (Total: Rs. 22 Crores)
+- Areas of Research: Databases, Data Science, Security, Information Retrieval Systems, and Educational Leadership
+- Keynote Speeches / Invited Lectures: 150+ on Data Science, Cyber Security, Research Methodologies, NEP-2020, and Leadership Skills
+- Entrance Exam Convener: Convener for TS EAMCET (2022, 2021, 2020) and TS ECET (2019, 2018, 2017)
+- Conference Leadership: General Chair / Honorary Chair / Program Chair for 7 International Conferences; Advisory / Technical Program Committees for 100+ Conferences; Editorial Boards of 12 International Journals
+
+Awards & Honors (45+ Total Awards):
+- Visionary EduLeader of the Year (2023)
+- Most Influential Thought Leaders to Follow Award (2023)
+- Elsevier Lifetime Achievement Award (2022)
+- Lifetime Achievement Award (2022)
+- Inspiring Educationist Award (2019)
+- Dr. APJ Abdul Kalam Excellency Award (2018)
+- Best Senior Scientist Award (2018)
+- Dewang Mehta Academic Leadership Award (2017)
+- Dr. Sarvepalli Radhakrishnan National Award
+- Andhra Pradesh State Government Best Teacher Award (2012)
+- Pride of Asia International Award
+- Bharat Seva Ratna Puraskar
+- Mother Teresa Award for Outstanding Services
+
+Professional Memberships:
+- Fellow: CSI, IEI, IETE, ISDS, CSRC
+- Member / Senior Member: ISTE, ACM, IEEE, IAENG, WASET, FSF, ISOC, IACSIT, AAAS, LivDNA
+
+Prior Administrative Experience:
+- Chairman, Internal Quality Assurance Cell (IQAC), RGUKT Basar
+- Rector, JNTU Hyderabad
+- Registrar (I/c), JNTU Hyderabad
+- Principal, JNTUH College of Engineering (CEH & CEJ)
+- Director, School of Information Technology, JNTUH
+- Director of Evaluation, JNTUH
+- Nodal Officer, JNTUH CER
+- Head, Department of CSE, JNTUH CEH
+- Chairman & Member on Boards of Studies of various State & Central Universities
+
+Office of the Vice Chancellor Contacts:
+- Secretary to Vice Chancellor: Mr. M. Harikrishna
+- Office Landline Phone: 08752-255111
+- Office Email: secytovc@rgukt.ac.in
+
+
+2. CHRONOLOGICAL SUCCESSION OF VICE CHANCELLORS (1 TO 6)
+Legacy of Leadership — Visionaries who shaped RGUKT Basar into a centre of excellence:
+
+1. Prof. R. V. Raja Kumar
+   - Designation: Vice-Chancellor (Founder)
+   - Tenure: January 2010 – January 2015
+   - Note: Founding Vice-Chancellor who established RGUKT Basar in 2010.
+
+2. Prof. S. Satyanarayana
+   - Designation: Vice-Chancellor (I/c)
+   - Tenure: January 2015 – 30.05.2017
+
+3. Dr. Ashok, IAS
+   - Designation: Vice-Chancellor (I/c)
+   - Tenure: 31.05.2017 – 01.03.2020
+
+4. Sri Rahul Bojja, IAS
+   - Designation: Vice-Chancellor (I/c)
+   - Tenure: 02.03.2020 – 15.07.2022
+
+5. Prof. V. Venkata Ramana
+   - Designation: Vice-Chancellor (I/c)
+   - Tenure: 16.07.2022 – 16.10.2024
+
+6. Sr. Prof. A. Govardhan
+   - Designation: Vice-Chancellor (I/c)
+   - Tenure: 17.10.2024 – Till Date (Current)

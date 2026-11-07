@@ -1,35 +1,31 @@
 Source URL: https://www.rgukt.ac.in/cd.html
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/CommunicationDirectory
+================================================================================
+RGUKT BASAR — COMMUNICATION DIRECTORY & CENTRAL CONTACT POINTS
+================================================================================
 
-Communication Directory — RGUKT Basar
-Communication Directory
-Directory of all administrative sections and contact points
-Main Lines
-08752-255111
-/
-08752-255588
-General Email
-enquiries@rgukt.ac.in
-Address
-RGUKT Basar, Nirmal District, Telangana – 504107
-Sections & Departments
-Vice Chancellor
-Administration
-Academic Section
-Deans & HoDs
-Establishment Section
-Examination Section
-Finance & Accounts
-Medical Unit
-Physical Education
-Public Relations Office
-Scholarship Section
-Security Unit
-Stores & Purchase
-Students Affairs & Hostels
-Student Counselling Cell
-Network & Systems Admin
-Works, Estate & Maintenance
-Training & Placement
-Software Development Cell
+CENTRAL CONTACT NUMBERS & ENQUIRY
+- Main Landline EPABX Lines: 08752-255111 / 08752-255588
+- General University Enquiry Email: enquiries@rgukt.ac.in
+- Campus Postal Address: Rajiv Gandhi University of Knowledge Technologies (RGUKT) Basar, Nirmal District, Telangana – 504107, India.
+
+INDEX OF ADMINISTRATIVE SECTIONS & DEPARTMENTS
+1. Vice Chancellor's Office
+2. Administration Section (Administrative Officer & OSD)
+3. Academic Section (Academic Deans, ADAP)
+4. Deans & Heads of Departments (HoDs)
+5. Establishment Section
+6. Examination Section (Controller of Examinations)
+7. Finance & Accounts Section
+8. Medical Unit (Campus Hospital & Health Centre)
+9. Physical Education (Sports, Ground & Gymnasium)
+10. Public Relations Office (PRO)
+11. Scholarship Section (ePASS & Student Financial Aid)
+12. Security Unit (Campus Safety & Gate Control)
+13. Stores & Purchase Section (Central Stores & Procurement)
+14. Student Affairs & Hostels (Dean Student Welfare & Chief Warden)
+15. Student Counselling Cell (Student Counseling Center - SCC)
+16. Network & Systems Administration Section
+17. Works, Estate & Maintenance Section
+18. Training & Placement Cell (T&P)
+19. Software Development Cell (SDC)

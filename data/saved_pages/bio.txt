@@ -1,54 +1,81 @@
 Source URL: https://www.rgukt.ac.in/department/bio-sciences
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF BIO SCIENCE (BIO SCIENCES) — RGUKT BASAR
+=================================================================
 
-Bio Sciences — RGUKT Basar
-DEPARTMENT OF BIO SCIENCE
-8
-Faculty Members
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Quick Links
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Department of Bio Sciences at RGUKT Basar focuses on interdisciplinary education encompassing Bioinformatics, Biomedical Engineering, Biomaterial sciences, biodiversity, ecology, environment, and sustainability. The department builds need-based, economical, and sustainable technologies for grassroots development of rural lifestyle and economy, addressing critical issues in rural Telangana particularly in agriculture and health sectors.
-Vision & Mission
-Vision
-The main vision of the department is to build need-based economical and sustainable technologies for grassroots development of rural lifestyle and economy. To address the critical issues of rural Telangana, mainly in agriculture and health sector. To impart education on interdisciplinary domains (viz. Bioinformatics, Biomedical & Biomaterial etc.) and fundamental aspects of biodiversity, ecology, environment and sustainability issues — key to the nation's economical and social prosperity.
-Mission
-No other science has been as pervading and amalgamating as biological sciences. Integration with other disciplines is essential for its manifestation, and the molecular understanding of living processes has been inspiring for innovative applications in engineering.
-Main Thrust Areas of Research:
-Bioinformatics: Developing novel algorithms for biological analysis and deriving biological implications from sequence analysis and structural predictions.
-Agriculture: Development of biofertilizers, nutraceuticals (medicinal foods), and harnessing sustainable energy and useful industrial products from agricultural and food waste.
-Environment Remediation: Development of economical and efficient water purification technologies with the integration of nanoscience and screening of plant-based materials as molecular sieves.
-Sustainable Technologies: Utilising biological resources to recycle products, derive energy from waste, build resilient materials from biological sources, and develop eco-friendly products.
-Biophysical Chemistry of Proteins: Investigating structural and functional attributes of novel proteins using biophysical, molecular biology, and biochemical techniques.
-Drug Design and Development: In silico rational drug design and development of nano biocompatible materials, validated through in vitro and in vivo approaches.
-Contact HOD
-Dr. A. Sai Krishna
-Head of Department — Bio Sciences
-hod.bsbe@rgukt.ac.in
-DEPARTMENT OF BIO SCIENCE,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-S.NO	Emp. ID	Name	Designation	Department	Email	Phone	
-6 	RNLA100156 	B. KIRAN KUMAR 	LABORATORY ASSISTANT 	Bio Sciences 	kiranboggula@rgukt.ac.in 	— 	
-2 	RTBS100148 	DHARAMSOTH NARENDER NAIK 	ASSISTANT PROFESSOR 	Bio Sciences 	narender@rgukt.ac.in 	— 	
-5 	RTBS120196 	Dr. A. SAI KRISHNA 	ASSISTANT PROFESSOR 	Bio Sciences 	askkris@rgukt.ac.in 	— 	
-1 	RTBS090090 	Dr. K. MADHUSUDHAN
-M.Sc.(Botany), M.Sc.(ENV), Ph.D., B.Ed., NET, SET., TET
-	MENTOR 	Bio Sciences 	madhukairamkonda@rgukt.ac.in 	— 	
-3 	RTBS100149 	Dr. TIPPYREDDY RAKESH REDDY
-PhD from Osmania University, M.Tech from IIT-Bombay, B.Tech From JNTUH
-	ASSISTANT PROFESSOR 	Bio Sciences 	rakesh@rgukt.ac.in 	— 	
-4 	RTBS100152 	SRINIVAS GAJJELLA
-M.Sc. (HCU), CSIR UGC(NET), GATE.
-	ASSISTANT PROFESSOR 	Bio Sciences 	ravisrigajjela@rgukt.ac.in 	— 	
-Showing 6 staff
+OVERVIEW & ESTABLISHMENT
+- Established: 2010
+- Faculty Members: 8
+- Academic Focus: Interdisciplinary education encompassing Bioinformatics, Biomedical Engineering, Biomaterial sciences, biodiversity, ecology, environment, and sustainability.
+- Objective: Builds need-based, economical, and sustainable technologies for grassroots development of rural lifestyle and economy, addressing critical issues in rural Telangana particularly in agriculture and health sectors.
+
+VISION & MISSION
+- Vision:
+  The main vision of the department is to build need-based economical and sustainable technologies for grassroots development of rural lifestyle and economy. To address the critical issues of rural Telangana, mainly in agriculture and health sector. To impart education on interdisciplinary domains (viz. Bioinformatics, Biomedical & Biomaterial etc.) and fundamental aspects of biodiversity, ecology, environment and sustainability issues — key to the nation's economical and social prosperity.
+- Mission:
+  No other science has been as pervading and amalgamating as biological sciences. Integration with other disciplines is essential for its manifestation, and the molecular understanding of living processes has been inspiring for innovative applications in engineering.
+
+MAIN THRUST AREAS OF RESEARCH
+1. Bioinformatics: Developing novel algorithms for biological analysis and deriving biological implications from sequence analysis and structural predictions.
+2. Agriculture: Development of biofertilizers, nutraceuticals (medicinal foods), and harnessing sustainable energy and useful industrial products from agricultural and food waste.
+3. Environment Remediation: Development of economical and efficient water purification technologies with the integration of nanoscience and screening of plant-based materials as molecular sieves.
+4. Sustainable Technologies: Utilising biological resources to recycle products, derive energy from waste, build resilient materials from biological sources, and develop eco-friendly products.
+5. Biophysical Chemistry of Proteins: Investigating structural and functional attributes of novel proteins using biophysical, molecular biology, and biochemical techniques.
+6. Drug Design and Development: In silico rational drug design and development of nano biocompatible materials, validated through in vitro and in vivo approaches.
+
+CONTACT HOD
+- Name: Dr. A. Sai Krishna
+- Designation: Head of Department — Bio Sciences
+- Email: hod.bsbe@rgukt.ac.in
+- Address: DEPARTMENT OF BIO SCIENCE, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+TEACHING & TECHNICAL STAFF DIRECTORY
+
+1. Dr. A. SAI KRISHNA
+   - Emp. ID: RTBS120196
+   - Designation: ASSISTANT PROFESSOR (Head of Department)
+   - Qualifications: Not listed
+   - Department: Bio Sciences
+   - Email: askkris@rgukt.ac.in (HOD Email: hod.bsbe@rgukt.ac.in)
+   - Phone: Not listed
+
+2. Dr. K. MADHUSUDHAN
+   - Emp. ID: RTBS090090
+   - Designation: MENTOR
+   - Qualifications: M.Sc.(Botany), M.Sc.(ENV), Ph.D., B.Ed., NET, SET., TET
+   - Department: Bio Sciences
+   - Email: madhukairamkonda@rgukt.ac.in
+   - Phone: Not listed
+
+3. Dr. TIPPYREDDY RAKESH REDDY
+   - Emp. ID: RTBS100149
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: PhD from Osmania University, M.Tech from IIT-Bombay, B.Tech From JNTUH
+   - Department: Bio Sciences
+   - Email: rakesh@rgukt.ac.in
+   - Phone: Not listed
+
+4. SRINIVAS GAJJELLA
+   - Emp. ID: RTBS100152
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Sc. (HCU), CSIR UGC(NET), GATE.
+   - Department: Bio Sciences
+   - Email: ravisrigajjela@rgukt.ac.in
+   - Phone: Not listed
+
+5. DHARAMSOTH NARENDER NAIK
+   - Emp. ID: RTBS100148
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Bio Sciences
+   - Email: narender@rgukt.ac.in
+   - Phone: Not listed
+
+6. B. KIRAN KUMAR
+   - Emp. ID: RNLA100156
+   - Designation: LABORATORY ASSISTANT
+   - Qualifications: Not listed
+   - Department: Bio Sciences
+   - Email: kiranboggula@rgukt.ac.in
+   - Phone: Not listed

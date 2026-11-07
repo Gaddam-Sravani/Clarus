@@ -1,18 +1,37 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=System+Administration
-Official Ref: RGUKT-B/Scraped
-=====================================
-Staff at System adminitration
-Staff at System adminitration
-Staff at System adminitration
-Staff at System adminitration
-Staff at System adminitration
-Staff at System adminitration
+Official Ref: RGUKT-B/Admin-System-Administration
+=================================================================
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-3 	RNAS090097 	B. SREENU 	SYSTEM ADMINISTRATOR 	System Administration 	sreenuboddu@rgukt.ac.in 	— 	
-1 	RNAS080072 	Ch. UDAY KUMAR 	SYSTEM ADMINISTRATOR 	System Administration 	uday.chepuri@rgukt.ac.in 	— 	
-2 	RNAS080078 	KISHAN DHARAVATH 	SYSTEM ADMINISTRATOR 	System Administration 	kishan@rgukt.ac.in 	— 	
-4 	RNAS090104 	Sk. SAIDA 	SYSTEM ADMINISTRATOR 	System Administration 	saidask@rgukt.ac.in 	— 	
-5 	RNAS090105 	V. RAVI VARMA 	SYSTEM ADMINISTRATOR 	System Administration 	ravivarmav@rgukt.ac.in 	— 	
-6 	RNAS090113 	V. SREENIVASULU 	SYSTEM ADMINISTRATOR 	System Administration 	srinivasv@rgukt.ac.in 	— 	
-Showing 1–6 of 6 staff
+SYSTEM ADMINISTRATION DEPARTMENT STAFF DIRECTORY — RGUKT BASAR
+Department Location: System Administration / IT Infrastructure Cell, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+1. SYSTEM ADMINISTRATION STAFF DIRECTORY (ALL 6 STAFF WITH EMPLOYEE IDS)
+1. Ch. Uday Kumar (Emp. ID: RNAS080072)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: uday.chepuri@rgukt.ac.in
+
+2. Kishan Dharavath (Emp. ID: RNAS080078)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: kishan@rgukt.ac.in
+
+3. B. Sreenu (Emp. ID: RNAS090097)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: sreenuboddu@rgukt.ac.in
+
+4. Sk. Saida (Emp. ID: RNAS090104)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: saidask@rgukt.ac.in
+
+5. V. Ravi Varma (Emp. ID: RNAS090105)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: ravivarmav@rgukt.ac.in
+
+6. V. Sreenivasulu (Emp. ID: RNAS090113)
+   - Designation: System Administrator
+   - Department: System Administration
+   - Official Email: srinivasv@rgukt.ac.in

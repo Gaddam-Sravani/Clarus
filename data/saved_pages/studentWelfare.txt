@@ -1,16 +1,24 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Student+Welfare
-Official Ref: RGUKT-B/Scraped
-=========================================
-Staff of Student welfare section
-Staff of Student welfare section
-Staff of Student welfare section
-Staff of Student welfare section
-Staff of Student welfare section
+Official Ref: RGUKT-B/Official/StudentWelfare
+================================================================================
+RGUKT BASAR — STUDENT WELFARE SECTION
+================================================================================
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-2 	RNAS140286 	BOYA SAIDULU 	CARETAKER 	Student Welfare 	saidu@rgukt.ac.in 	— 	
-1 	RNPJA24005 	VALLAPUDASU KIRAN
-None
-	Jr. Assistant 	Student Welfare 	kiranvallapudas@rgukt.ac.in 	— 	
-Showing 1–2 of 2 staff
+OVERVIEW
+The Student Welfare Section at RGUKT Basar oversees student welfare affairs, hostel life coordination, amenities, and campus student support services.
 
+STAFF DIRECTORY — STUDENT WELFARE SECTION
+
+1. VALLAPUDASU KIRAN
+   - Employee ID: RNPJA24005
+   - Designation: Junior Assistant (Jr. Assistant)
+   - Department: Student Welfare
+   - Email: kiranvallapudas@rgukt.ac.in
+   - Phone: Not Listed
+
+2. BOYA SAIDULU
+   - Employee ID: RNAS140286
+   - Designation: Caretaker
+   - Department: Student Welfare
+   - Email: saidu@rgukt.ac.in
+   - Phone: Not Listed

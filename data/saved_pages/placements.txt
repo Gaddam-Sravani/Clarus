@@ -1,92 +1,75 @@
 Source URL: https://www.rgukt.ac.in/placements.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Training-and-Placement-Cell
 =================================================================
 
-Placements & Career Development — RGUKT Basar
-Placements & Career Development
-Training & Placement Cell — RGUKT Basar
-Placements
-About T&P Cell
-Recruiters
-Training
-Contact T&P
-HUB / ERP Portal
-Training & Placement Cell
-The Training & Placement Cell at RGUKT Basar acts as
-a catalyst in providing students with options to develop themselves professionally into streams that match their aptitudes.
-The cell organises campus recruitment drives, conducts mock interviews, group discussions, and pre-placement talks, and runs interactive sessions with industry experts. Personality development covering communication, presentation skills, group dynamics, and career planning is an integral part of the programme. The office includes departmental faculty representatives and student committees working together to build long-term corporate relations.
-Placement Statistics
-Placement statistics will be updated soon.
-Our Recruiters
-Companies that have recruited our students include:
-Aarvee Associates
-ADP
-Alacriti
-Biocon
-Bosch
-CA Technologies
-Cadence
-Capgemini
-CGG
-CtrlS
-Deccan Chemicals
-Divami Design
-EdTex
-Efftronics
-FinMkt
-Gajanan
-Graviti
-Gridlex
-Hexa Cluster
-HugoSave
-Jarus
-MosChip
-MSN Labs
-Nav Tech Electronics
-Osmosys
-TCS
-VConnect Tech
-VisionTek
-Vassar Labs
-VitWit
-Wipro
-Achala
-Training Programmes
-Aptitude Training
-Quantitative aptitude, logical reasoning, and verbal ability for competitive exams and placement tests.
-Soft Skills
-Communication, presentation skills, group discussion, group dynamics, and personality development workshops.
-Technical Skills
-Core engineering concepts, data structures, algorithms, and domain-specific technical training.
-Mock Interviews
-Simulated HR and technical interviews with expert feedback to prepare students for real campus drives.
-Industry Interaction
-Pre-placement talks, guest lectures by industry experts, alumni sessions, and industry visits.
-Certification Courses
-NPTEL, Coursera, and vendor-specific certifications to strengthen student profiles.
-Summer Internship (E3 Students)
-All third-year (E3) students are required to complete an
-8-week summer internship
-commencing after E3 S2 exams, as mandated by the RGUKT curriculum. Internships must be of a
-problem-solving nature
-— training courses do not qualify. Eligible hosts include government agencies, CSIR laboratories, IITs/IIMs, DRDO, public sector enterprises, and leading IT companies. In-house (RGUKT campus) internships are not permitted.
-Placement Calendar
-Placement calendar for the current academic year will be updated soon.
-T&P Cell Staff & Contact
-T&P Officers
-Mr. G. Srinivas Sagar
-Assistant Professor
-Faculty In-Charge, T&P Cell
-Dr. Vijay Kumar Neerudu
-Assistant Professor
-Training Program Officer, T&P Cell
-T&P Cell Staff
-#
-Name
-Designation
-Role
-1
-Mr. T. Mohan Babu
-Technical Assistant
-T&P Cell
-Training & Placement Cell, RGUKT Basar, Basara, Nirmal – 504107, Telangana
+TRAINING & PLACEMENT CELL (T&P CELL) — RGUKT BASAR
+Location: Training & Placement Cell, RGUKT Basar, Basara, Nirmal – 504107, Telangana.
+
+1. T&P CELL OVERVIEW & SCOPE
+The Training & Placement Cell at RGUKT Basar acts as a catalyst in providing students with options to develop themselves professionally into streams matching their aptitudes.
+- Core Responsibilities: Organizes campus recruitment drives, conducts mock interviews, group discussions, pre-placement talks, and interactive sessions with industry experts.
+- Personality Development: Covers communication, presentation skills, group dynamics, and career planning.
+- Committee Structure: Includes departmental faculty representatives and student committees working together to build corporate relations.
+
+2. T&P OFFICERS & STAFF DIRECTORY
+1. Mr. G. Srinivas Sagar
+   - Designation: Assistant Professor
+   - Role: Faculty In-Charge, Training & Placement Cell (T&P Cell)
+
+2. Dr. Vijay Kumar Neerudu
+   - Designation: Assistant Professor
+   - Role: Training Program Officer, Training & Placement Cell (T&P Cell)
+
+3. Mr. T. Mohan Babu (Employee ID: RNTA090103)
+   - Designation: Technical Assistant
+   - Department: Training & Placement Cell
+   - Official Email: thotakurimohan@rgukt.ac.in
+
+3. MANDATORY SUMMER INTERNSHIP RULES (E3 STUDENTS)
+- Eligibility & Timing: All third-year (E3) B.Tech students are required to complete an eight-week (8-week) summer internship commencing immediately after E3 Semester 2 (E3 S2) examinations, as mandated by the RGUKT curriculum.
+- Nature of Work: Internships must be of a problem-solving nature; generic training courses do not qualify.
+- Eligible Host Organizations: Government agencies, CSIR laboratories, IITs, IIMs, DRDO, public sector enterprises, and leading IT companies.
+- In-House Restriction: In-house (RGUKT campus) internships are strictly not permitted.
+
+4. TRAINING PROGRAMMES OFFERED
+- Aptitude Training: Quantitative aptitude, logical reasoning, and verbal ability for competitive exams and placement recruitment tests.
+- Soft Skills: Communication, presentation skills, group discussion (GD), group dynamics, and personality development workshops.
+- Technical Skills: Core engineering concepts, data structures, algorithms, and domain-specific technical training.
+- Mock Interviews: Simulated HR and technical interviews with expert feedback to prepare students for real campus drives.
+- Industry Interaction: Pre-placement talks, guest lectures by industry experts, alumni interactive sessions, and industrial visits.
+- Certification Courses: NPTEL, Coursera, and vendor-specific certifications to strengthen student profiles.
+
+5. CAMPUS RECRUITERS (COMPANIES VISITING RGUKT BASAR)
+Companies that have recruited RGUKT Basar students include (32 Companies):
+1. Aarvee Associates
+2. Achala
+3. ADP
+4. Alacriti
+5. Biocon
+6. Bosch
+7. CA Technologies
+8. Cadence
+9. Capgemini
+10. CGG (Centre for Good Governance)
+11. CtrlS
+12. Deccan Chemicals
+13. Divami Design
+14. EdTex
+15. Efftronics
+16. FinMkt
+17. Gajanan
+18. Graviti
+19. Gridlex
+20. Hexa Cluster
+21. HugoSave
+22. Jarus
+23. MosChip
+24. MSN Labs
+25. Nav Tech Electronics
+26. Osmosys
+27. TCS (Tata Consultancy Services)
+28. Vassar Labs
+29. VConnect Tech
+30. VisionTek
+31. VitWit
+32. Wipro

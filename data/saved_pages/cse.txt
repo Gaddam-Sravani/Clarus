@@ -1,63 +1,73 @@
 Source URL: https://www.rgukt.ac.in/department/cse
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Department-CSE
 =================================================================
 
-Computer Science and Engineering — RGUKT Basar
-DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
-23
-Faculty Members
-In This Department
-About
-Vision & Mission
-HOD's Message
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Quick Links
-Curriculum
-Staff List
-Lab Manuals
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Computer Science and Engineering department was established in 2010. It provides a comprehensive research setting with teaching excellence. The department employs qualified faculty who encourage student engagement in extracurricular activities. The curriculum emphasizes developing strong technical expertise while maintaining a holistic approach to staff and student growth. The institution prioritizes research initiatives, paper publications, and awards alongside practical skill development through modern facilities and industry-standard technologies.
-Vision & Mission
-Vision
-To be a globally recognized centre for excellence in the arena of Computer Science & Engineering education and research, catering to the current needs of industry and the society by producing globally competent and quality computer professionals.
-Mission
-Producing computer science graduates with strong subject knowledge and certified skill-sets to lead in rapidly evolving fields. Strengthening partnerships with multinational companies to keep students current with technological advancements. Developing professional behavior and ethical leadership in students to serve society with commitment. Providing practical exposure across various domains and undertaking research activities. Building entrepreneurship and managerial capabilities through world-class engineering and management education.
-HOD's Message
-I welcome you all to the creative world of CSE. I believe that CSE discipline has been widely recognized as an essential source and technique for the advancements in all spheres of human Endeavour now and in future. In RGUKT all the students gets the opportunity to excel in their academic activities. This is the department where students publish papers in international journals, at the same time a student wish to achieve some recognition in extra-curricular and co-curricular activities, they will also find the atmosphere helpful along with experience-based approach of our curriculum, our excellent laboratories which helps them to reduce the ga between Department and the Industry.
-— B Venkat Raman
-Computer Science and Engineering, RGUKT Basar
-Contact HOD
-B Venkat Raman
-Head of Department — Computer Science and Engineering
-hod.cse@rgukt.ac.in
-DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-6 	RTCS160313 	BUDDANNAGARI LATHA
-pursing Ph.D, M.tech, Btech
-	ASSISTANT PROFESSOR 	Computer Science and Engineering 	rtcs160313@rgukt.ac.in 	— 	
-4 	RTCS130260 	Dr. VENKAT RAMAN. B 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	bvraman@rgukt.ac.in 	— 	
-2 	RTPCS16011 	G. RANJITH KUMAR 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	ranjithgarnepudi@rgukt.ac.in 	— 	
-3 	RTPCS16012 	GEETLA SRUJANA 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	srujana.cse@rgukt.ac.in 	— 	
-7 	RTCS160331 	P. LAXMI NARAYANA
-M.Tech(NITK Surathkal)
-	ASSISTANT PROFESSOR 	Computer Science and Engineering 	rtcs160331@rgukt.ac.in 	— 	
-8 	RTCS170357 	PULLAIAHGARI SARIKA 	ASSISTANT PROFESSOR 	Computer Science and Engineering 	sarika.cse@rgukt.ac.in 	— 	
-1 	RTPCS16010 	SUJOY SARKAR
-M.Tech.
-	ASSISTANT PROFESSOR 	Computer Science and Engineering 	sujoysarkar@rgukt.ac.in 	— 	
-9 	RNLA130222 	T. PRAVALIKA 	LABORATORY ASSISTANT 	Computer Science and Engineering 	pravalika.iiit@rgukt.ac.in 	— 	
-5 	— 	UDDAMARI NAGAMANI
-Ph.D(pursuing),M.Tech,B.Tech,UGC-NET,SET
-	ASSISTANT PROFESSOR 	Computer Science and Engineering 	nagamani@rgukt.ac.in 	— 	
-Showing 1–9 of 9 staff
-Academic Programmes
-B.Tech
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING (CSE) — RGUKT BASAR
+
+1. DEPARTMENT OVERVIEW & PROGRAMMES
+- Established: 2010
+- Total Faculty Members: 23
+- Academic Programme Offered: Bachelor of Technology (B.Tech) in Computer Science and Engineering.
+- Core Focus: Provides a comprehensive research setting with teaching excellence, emphasizing strong technical expertise, paper publications, practical skill development, and modern laboratory facilities.
+- Location: Department of Computer Science and Engineering, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+2. VISION & MISSION
+- Vision:
+  To be a globally recognized centre for excellence in the arena of Computer Science & Engineering education and research, catering to the current needs of industry and the society by producing globally competent and quality computer professionals.
+- Mission:
+  * Producing computer science graduates with strong subject knowledge and certified skill-sets to lead in rapidly evolving fields.
+  * Strengthening partnerships with multinational companies to keep students current with technological advancements.
+  * Developing professional behavior and ethical leadership in students to serve society with commitment.
+  * Providing practical exposure across various domains and undertaking research activities.
+  * Building entrepreneurship and managerial capabilities through world-class engineering and management education.
+
+3. HEAD OF DEPARTMENT (HOD) CONTACT & MESSAGE
+- Head of Department (HOD): Dr. B. Venkat Raman
+- Designation: Head of Department & Assistant Professor
+- Official Email: hod.cse@rgukt.ac.in / bvraman@rgukt.ac.in
+- Address: Department of Computer Science and Engineering, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+- HOD's Message:
+  "I welcome you all to the creative world of CSE. I believe that CSE discipline has been widely recognized as an essential source and technique for the advancements in all spheres of human Endeavour now and in future. In RGUKT all the students gets the opportunity to excel in their academic activities. This is the department where students publish papers in international journals, at the same time a student wish to achieve some recognition in extra-curricular and co-curricular activities, they will also find the atmosphere helpful along with experience-based approach of our curriculum, our excellent laboratories which helps them to reduce the gap between Department and the Industry."
+  — Dr. B. Venkat Raman
+
+4. TEACHING FACULTY DIRECTORY (WITH EMPLOYEE IDS & QUALIFICATIONS)
+1. Dr. B. Venkat Raman (Emp. ID: RTCS130260)
+   - Designation: Assistant Professor & Head of Department (HOD)
+   - Email: bvraman@rgukt.ac.in / hod.cse@rgukt.ac.in
+
+2. Buddannagari Latha (Emp. ID: RTCS160313)
+   - Designation: Assistant Professor
+   - Qualifications: Pursuing Ph.D, M.Tech, B.Tech
+   - Email: rtcs160313@rgukt.ac.in
+
+3. G. Ranjith Kumar (Emp. ID: RTPCS16011)
+   - Designation: Assistant Professor
+   - Email: ranjithgarnepudi@rgukt.ac.in
+
+4. Geetla Srujana (Emp. ID: RTPCS16012)
+   - Designation: Assistant Professor
+   - Email: srujana.cse@rgukt.ac.in
+
+5. P. Laxmi Narayana (Emp. ID: RTCS160331)
+   - Designation: Assistant Professor
+   - Qualifications: M.Tech (NITK Surathkal)
+   - Email: rtcs160331@rgukt.ac.in
+
+6. Pullaiahgari Sarika (Emp. ID: RTCS170357)
+   - Designation: Assistant Professor
+   - Email: sarika.cse@rgukt.ac.in
+
+7. Sujoy Sarkar (Emp. ID: RTPCS16010)
+   - Designation: Assistant Professor
+   - Qualifications: M.Tech
+   - Email: sujoysarkar@rgukt.ac.in
+
+8. Uddamari Nagamani (Emp. ID: —)
+   - Designation: Assistant Professor
+   - Qualifications: Ph.D (pursuing), M.Tech, B.Tech, UGC-NET, SET
+   - Email: nagamani@rgukt.ac.in
+
+5. NON-TEACHING TECHNICAL LABORATORY STAFF
+1. T. Pravalika (Emp. ID: RNLA130222)
+   - Designation: Laboratory Assistant
+   - Email: pravalika.iiit@rgukt.ac.in

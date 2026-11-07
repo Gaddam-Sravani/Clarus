@@ -1,22 +1,41 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Establishment+Section
-Official Ref: RGUKT-B/Scraped
-Faculty of Establish Department
-Faculty of Establish Department
-Faculty of Establish Department
-Faculty of Establish Department
-Faculty of Establish Department
+Official Ref: RGUKT-B/Official/EstablishmentSection
+================================================================================
+RGUKT BASAR — ESTABLISHMENT SECTION
+================================================================================
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-2 	RNTA080076 	G. SRINIVASULU
-M.Sc (Inoformation Technology), PGDIT
-	TECHNICAL ASSISTANT 	Establishment Section 	srinivas.gogula@rgukt.ac.in 	— 	
-1 	RNPJA24003 	KALAKONDA ASHOK KUMAR
-None
-	Jr. Assistant 	Establishment Section 	kalakondaashokkumar@rgukt.ac.in 	— 	
-4 	RNTA100143 	RAYALA SATEESH
-B.Sc. M.P.Cs, PG Diploma in Information Technology, M.Sc.
-	TECHNICAL ASSISTANT 	Establishment Section 	sateeshrayala@rgukt.ac.in 	— 	
-3 	RNTA090101 	SHAIK DASTHAGIRI
-M.Sc., B.Ed., PGDIT
-	TECHNICAL ASSISTANT 	Establishment Section 	smiledasthu@rgukt.ac.in 	— 	
-Showing 1–4 of 4 staff
+OVERVIEW
+The Establishment Section manages university personnel administration, staff appointments, service records, employee verification, statutory compliances, and non-teaching establishment records under university statutes and Government of Telangana norms.
+
+STAFF DIRECTORY — ESTABLISHMENT SECTION
+
+1. KALAKONDA ASHOK KUMAR
+   - Employee ID: RNPJA24003
+   - Designation: Junior Assistant (Jr. Assistant)
+   - Department: Establishment Section
+   - Email: kalakondaashokkumar@rgukt.ac.in
+   - Phone: Not Listed
+
+2. G. SRINIVASULU
+   - Employee ID: RNTA080076
+   - Designation: Technical Assistant
+   - Qualifications: M.Sc (Information Technology), PGDIT
+   - Department: Establishment Section
+   - Email: srinivas.gogula@rgukt.ac.in
+   - Phone: Not Listed
+
+3. SHAIK DASTHAGIRI
+   - Employee ID: RNTA090101
+   - Designation: Technical Assistant
+   - Qualifications: M.Sc., B.Ed., PGDIT
+   - Department: Establishment Section
+   - Email: smiledasthu@rgukt.ac.in
+   - Phone: Not Listed
+
+4. RAYALA SATEESH
+   - Employee ID: RNTA100143
+   - Designation: Technical Assistant
+   - Qualifications: B.Sc. (M.P.Cs), PG Diploma in Information Technology, M.Sc.
+   - Department: Establishment Section
+   - Email: sateeshrayala@rgukt.ac.in
+   - Phone: Not Listed

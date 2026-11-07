@@ -1,39 +1,36 @@
 Source URL: https://www.rgukt.ac.in/conference-halls.html
 Official Ref: RGUKT-B/Scraped
 =================================================================
+CONFERENCE & SEMINAR HALLS — RGUKT BASAR
+=================================================================
 
-Conference Halls — RGUKT Basar
-Conference Halls
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Conference & Seminar Halls
+OVERVIEW
 RGUKT Basar has well-equipped conference halls and seminar rooms that support academic events, workshops, faculty meetings, and administrative gatherings. The halls are equipped with modern audio-visual infrastructure for effective presentations and video conferencing.
-Seminar Hall
-Capacity: ~300 seats
-LCD Projector & Screen
-PA System & Podium
-Air-conditioned
-Conference Room
-Capacity: ~50 seats
-Video Conferencing Setup
-High-speed Wi-Fi
-Air-conditioned
-Auditorium
-Capacity: ~1000 seats
-Stage & Sound System
-Large LED Screen
-Used for convocations & cultural events
-Booking & Usage
-For booking conference halls and seminar rooms for official events, please contact the Administration Section. Bookings are subject to availability and prior approval by the competent authority.
-Contact: Administration Section, RGUKT Basar
-Email:
-admin@rguktbasara.ac.in
+
+VENUE SPECIFICATIONS & CAPACITIES
+
+1. Seminar Hall
+   - Capacity: ~300 seats
+   - Facilities & Audio-Visual:
+     - LCD Projector & Screen
+     - PA System & Podium
+     - Air-conditioned
+
+2. Conference Room
+   - Capacity: ~50 seats
+   - Facilities:
+     - Video Conferencing Setup
+     - High-speed Wi-Fi
+     - Air-conditioned
+
+3. Auditorium
+   - Capacity: ~1000 seats
+   - Facilities & Uses:
+     - Stage & Sound System
+     - Large LED Screen
+     - Used for convocations & cultural events
+
+BOOKING & USAGE PROCEDURE
+- Booking Office: Administration Section, RGUKT Basar
+- Conditions: Bookings are subject to availability and prior approval by the competent authority for official events.
+- Booking Email: admin@rguktbasara.ac.in

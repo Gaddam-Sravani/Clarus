@@ -1,42 +1,52 @@
 Source URL: https://www.rgukt.ac.in/departments.html
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/Departments
+================================================================================
+RGUKT BASAR — ACADEMIC DEPARTMENTS
+================================================================================
 
-Departments — RGUKT Basar
-Departments
-Academics
-Academic Programmes
-Curricula
-Academic Calendar
-Departments
-Examinations
-Academic Departments
-14 departments spanning engineering, sciences, and humanities — shaping innovators for a knowledge-driven world.
-Bio Sciences
-Decoding life's blueprint to engineer the medicines and materials of tomorrow
-Chemical Engineering
-Transforming raw matter into the fuels, polymers and processes that power civilisation
-Chemistry
-Unravelling molecular secrets to synthesise the substances that shape our world
-Civil Engineering
-Designing the smart cities, resilient bridges and sustainable infrastructure of the future
-Computer Science & Engineering
-Architecting intelligent systems — from AI and cloud to quantum — that define the digital era
-Electrical Engineering
-Harnessing electrons and smart grids to power a cleaner, more connected planet
-Electronics & Communications Engineering
-Engineering the chips, signals and networks that link every mind on earth
-Humanities & Social Sciences
-Cultivating critical thinkers who give human purpose to every technological leap
-Information Technology
-Building the systems, networks and data platforms that drive the digital economy
-Metallurgical & Materials Engineering
-Forging the advanced alloys, ceramics and nanomaterials that tomorrow's industries demand
-Mathematics
-The universal language behind every algorithm, model and discovery that moves the world
-Mechanical Engineering
-Designing the robots, turbines and precision machines that keep the modern world in motion
-Physics
-Probing the fundamental forces of the cosmos — from quantum fields to photonic frontiers
-Management
-Equipping future leaders with the strategic vision to navigate and shape a disruptive global economy
+OVERVIEW
+RGUKT Basar comprises 14 academic departments spanning engineering, basic sciences, management, and humanities, dedicated to shaping innovators and researchers for a knowledge-driven world.
+
+ACADEMIC DEPARTMENTS DIRECTORY & DESCRIPTIONS
+
+1. Bio Sciences
+   - Description: Decoding life's blueprint to engineer the medicines and materials of tomorrow.
+
+2. Chemical Engineering
+   - Description: Transforming raw matter into the fuels, polymers and processes that power civilisation.
+
+3. Chemistry
+   - Description: Unravelling molecular secrets to synthesise the substances that shape our world.
+
+4. Civil Engineering
+   - Description: Designing the smart cities, resilient bridges and sustainable infrastructure of the future.
+
+5. Computer Science & Engineering (CSE)
+   - Description: Architecting intelligent systems — from AI and cloud to quantum — that define the digital era.
+
+6. Electrical Engineering (EEE)
+   - Description: Harnessing electrons and smart grids to power a cleaner, more connected planet.
+
+7. Electronics & Communications Engineering (ECE)
+   - Description: Engineering the chips, signals and networks that link every mind on earth.
+
+8. Humanities & Social Sciences (H&SS)
+   - Description: Cultivating critical thinkers who give human purpose to every technological leap.
+
+9. Information Technology (IT)
+   - Description: Building the systems, networks and data platforms that drive the digital economy.
+
+10. Metallurgical & Materials Engineering (MME)
+    - Description: Forging the advanced alloys, ceramics and nanomaterials that tomorrow's industries demand.
+
+11. Mathematics
+    - Description: The universal language behind every algorithm, model and discovery that moves the world.
+
+12. Mechanical Engineering (ME)
+    - Description: Designing the robots, turbines and precision machines that keep the modern world in motion.
+
+13. Physics
+    - Description: Probing the fundamental forces of the cosmos — from quantum fields to photonic frontiers.
+
+14. Management (Department of Management Studies)
+    - Description: Equipping future leaders with the strategic vision to navigate and shape a disruptive global economy.

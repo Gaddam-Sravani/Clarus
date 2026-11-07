@@ -1,118 +1,93 @@
 Source URL: https://www.rgukt.ac.in/department/it
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Department-IT
 =================================================================
 
-Information Technology — RGUKT Basar
-DEPARTMENT OF INFORMATION TECHNOLOGY
-17
-Faculty Members
-In This Department
-About
-Vision & Mission
-HOD's Message
-Contact HOD
-Teaching Faculty
-Programmes
-Achievements
-Quick Links
-Curriculum
-Staff List
-Lab Manuals
-Research Publications
-Events
-Board of Studies
-Gallery
-All Faculty
-About the Department
-Established 2010
-Will be updated soon.
-Vision & Mission
-Vision
-Will be updated soon.
-Mission
-Will be updated soon.
-HOD's Message
-Will be updated soon.
-— B. THILAK
-Information Technology, RGUKT Basar
-Contact HOD
-B. THILAK
-Head of Department — Information Technology
-thilakreddy.b@rgukt.ac.in
-8886855523
-DEPARTMENT OF INFORMATION TECHNOLOGY,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
-B. THILAK
-MENTOR
-thilakreddy.b@rgukt.ac.in
-View Profile
-G. BALACHANDER
-MENTOR
-balachandar@rgukt.ac.in
-View Profile
-J. BASAVASHEKAR
-MENTOR
-basu345@rgukt.ac.in
-View Profile
-T. SHIRISHA
-MENTOR
-shirisha5@rgukt.ac.in
-View Profile
-V. RAVINDER REDDY
-MENTOR
-rr@rgukt.ac.in
-View Profile
-T. SRISAILAM
-MENTOR
-srisailamthokala@rgukt.ac.in
-View Profile
-S. SRIKANTH
-MENTOR
-srikanthsriram@rgukt.ac.in
-View Profile
-D. YAMINI NAGA PRASHANTHI
-MENTOR
-dynprashanthi@rgukt.ac.in
-View Profile
-J. BHANU PRIYA
-MENTOR
-bhanupriya@rgukt.ac.in
-View Profile
-B. SRIKANTH
-MENTOR
-bobbalasrikanth@rgukt.ac.in
-View Profile
-K. RAJITHA
-MENTOR
-rajithakurma07@rgukt.ac.in
-View Profile
-V. RAJITHA
-MENTOR
-rajithareddyv@rgukt.ac.in
-View Profile
-S. RAJANI
-MENTOR
-rajanithilak.reddy@rgukt.ac.in
-View Profile
-B. HARI KRISHNA
-MENTOR
-hari@rgukt.ac.in
-View Profile
-A. SREEDHAR
-MENTOR
-sreedharaakula@rgukt.ac.in
-View Profile
-B. JYOTHI
-MENTOR
-jyothinadh@rgukt.ac.in
-View Profile
-K. SHEKER
-MENTOR
-shekar.cse@rgukt.ac.in
-View Profile
-Academic Programmes
-B.Tech
-Achievements & Highlights
-Will be updated soon.
+DEPARTMENT OF INFORMATION TECHNOLOGY (IT) — RGUKT BASAR
+
+1. DEPARTMENT OVERVIEW & PROGRAMMES
+- Established: 2010
+- Total Faculty Members: 17
+- Academic Programmes Offered: Bachelor of Technology (B.Tech) in Information Technology and Pre-University Course (PUC) IT foundation.
+- Department Location: Department of Information Technology, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+2. HEAD OF DEPARTMENT (HOD) CONTACT
+- Head of Department: B. Thilak
+- Designation: Head of Department — Information Technology
+- Official Email: thilakreddy.b@rgukt.ac.in
+- Contact Phone: 8886855523
+- Office Location: Department of Information Technology, RGUKT Basar.
+
+3. FACULTY & MENTOR DIRECTORY (ALL 17 STAFF WITH EMP. IDS & QUALIFICATIONS)
+1. B. Thilak (Emp. ID: RTIT080056)
+   - Designation: Mentor & Head of Department (HOD)
+   - Qualifications: Ph.D (CSE), M.Tech (BITS Pilani)
+   - Email: thilakreddy.b@rgukt.ac.in
+
+2. A. Sreedhar (Emp. ID: RTIT080067)
+   - Designation: Mentor
+   - Email: sreedharaakula@rgukt.ac.in
+
+3. B. Hari Krishna (Emp. ID: RTIT080064)
+   - Designation: Mentor
+   - Email: hari@rgukt.ac.in
+
+4. B. Jyothi (Emp. ID: RTIT080073)
+   - Designation: Mentor
+   - Email: jyothinadh@rgukt.ac.in
+
+5. B. Srikanth (Emp. ID: RTIT080060)
+   - Designation: Mentor
+   - Email: bobbalasrikanth@rgukt.ac.in
+
+6. D. Yamini Naga Prashanthi (Emp. ID: RTIT080057)
+   - Designation: Mentor
+   - Email: dynprashanthi@rgukt.ac.in
+
+7. G. Balachander (Emp. ID: RNTA080068)
+   - Designation: Mentor
+   - Email: balachandar@rgukt.ac.in
+
+8. J. Basavashekar (Emp. ID: RNTA080069)
+   - Designation: Mentor
+   - Email: basu345@rgukt.ac.in
+
+9. J. Bhanu Priya (Emp. ID: RTIT080059)
+   - Designation: Mentor
+   - Email: bhanupriya@rgukt.ac.in
+
+10. K. Rajitha (Emp. ID: RTIT080061)
+    - Designation: Mentor
+    - Email: rajithakurma07@rgukt.ac.in
+
+11. K. Sheker (Emp. ID: RTIT110180)
+    - Designation: Mentor
+    - Email: shekar.cse@rgukt.ac.in
+
+12. S. Rajani (Emp. ID: RTIT080063)
+    - Designation: Mentor
+    - Qualifications: M.Sc (Computer Science), PGDIT
+    - Email: rajanithilak.reddy@rgukt.ac.in
+
+13. S. Srikanth (Emp. ID: RTIT080054)
+    - Designation: Mentor
+    - Email: srikanthsriram@rgukt.ac.in
+
+14. T. Shirisha (Emp. ID: RNTA080070)
+    - Designation: Mentor
+    - Email: shirisha5@rgukt.ac.in
+
+15. T. Srisailam (Emp. ID: —)
+    - Designation: Mentor
+    - Qualifications: M.Sc
+    - Email: srisailamthokala@rgukt.ac.in
+
+16. V. Rajitha (Emp. ID: RTIT080062)
+    - Designation: Mentor
+    - Email: rajithareddyv@rgukt.ac.in
+
+17. V. Ravinder Reddy (Emp. ID: RNTA080074)
+    - Designation: Mentor
+    - Qualifications: M.Sc IT, PGDIT
+    - Email: rr@rgukt.ac.in
+    
+ 4.Vision and Mission will be updated soon

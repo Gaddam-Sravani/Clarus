@@ -1,27 +1,27 @@
-RAJIV GANDHI UNIVERISTY OF KNOWLEDGE TECHNOLOGIES, BASAR
-Office of the Controller of Examinations
-Date: 02/07/2016
+Source URL: https://www.rgukt.ac.in/examination.html
+Official Ref: RGUKT-B/CoE/Revaluation-Rules
+=================================================================
 
-RULES OF REVALUATION
+RULES AND REGULATIONS FOR REVALUATION — RGUKT BASAR
+Authority: Office of the Controller of Examinations (CoE) & Director, RGUKT Basar. Notification Date: 02/07/2016.
 
-1. Revaluation application will be accepted upto 2 weeks from the date of publication of results.
+1. APPLICATION PROCEDURE & DEADLINE
+- Submission Window: Revaluation applications are accepted up to two (2) weeks (14 days) from the date of publication of results.
+- Mandatory Enclosure: Applications must be accompanied by a photostat copy of the memorandum of marks or official Grade Card. No action will be taken without this document.
+- Application Format: Submitted in writing to the Director / Controller of Examinations.
 
+2. PRESCRIBED REVALUATION FEE & PAYMENT METHOD
+- Fee: As prescribed per the university examination notification (Rs. 100/- per subject).
+- Payment Mode: Must be paid through bank challan at State Bank of India (SBI), RGUKT Basar branch.
+- Refund Policy: Under no circumstances is the revaluation fee refundable.
 
-2. No action will be taken unless this is accompanied with a Photostat copy of the memorandum of marks or Grade Card.
+3. RESULT ANNOUNCEMENT & MARKS MEMO ISSUANCE
+- Notification Channel: Revaluation results are NOT communicated to individual candidates personally. Students can check their results online through the Hub (hub.rgukt.ac.in) or directly at the Examination Branch.
+- Revised Memos: Updated marks memorandums are issued only to candidates whose results/grades have changed after revaluation. In cases where marks do not change, no separate notice is issued.
 
-
-3. The prescribed fee for revaluation is as per revaluation notification and shall be paid through challan at SBI, RGUKT, Basar branch. In no case the fee is refundable.
-
-
-4. The result will not be communicated to the individual candidate personally. However, they may know the results through Hub or from the Examination Branch directly. The memos of the candidate whose results have changed due to revaluation will be issued after declaration of revaluation results. In other cases no information will be given.
-
-
-5. If the difference between the original marks and the revaluated marks is 10% or more of the maximum marks of the paper, the revalued marks shall be taken into consideration, and the average of original marks and revalued marks will be awarded to the candidate for the declaration of final result of the revaluation.
-
-
-
-MATION SECTIO
-EXAM
-EX
-RGUKT BASAR
-Director
+4. 10% DIFFERENCE THRESHOLD & FINAL SCORE FORMULA
+- Eligibility for Mark Change: A revaluation score is taken into consideration ONLY IF the difference between the original marks and the revaluated marks is 10% or more of the maximum marks of the paper.
+- Final Marks Awarded: If the difference meets or exceeds the 10% threshold, the final marks awarded to the candidate is calculated as:
+  Final Marks = (Original Marks + Revalued Marks) / 2
+  *(The candidate is awarded the arithmetic average of the original marks and revalued marks).*
+- If the difference is less than 10%, the original marks remain unchanged.

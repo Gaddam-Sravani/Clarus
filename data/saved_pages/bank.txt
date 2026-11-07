@@ -1,36 +1,26 @@
 Source URL: https://www.rgukt.ac.in/bank-atm.html
 Official Ref: RGUKT-B/Scraped
 =================================================================
+BANK & ATM — RGUKT BASAR
+=================================================================
 
-Bank & ATM — RGUKT Basar
-Bank & ATM
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Bank Branch on Campus
-RGUKT Basar campus hosts a branch of
-State Bank of India (SBI)
-to meet the banking needs of students, faculty and staff. The branch handles account opening, fee payments, scholarships, and other banking services within the campus premises.
-SBI Branch
-Inside RGUKT Basar Campus
-Mon–Fri: 10:00 AM – 4:00 PM
-Sat: 10:00 AM – 1:00 PM
+BANK BRANCH ON CAMPUS
+- Bank: State Bank of India (SBI)
+- Purpose: Meets banking needs of students, faculty and staff. Handles account opening, fee payments, scholarships, and other banking services within campus premises.
+- Location: Inside RGUKT Basar Campus
+- Timings:
+  - Mon–Fri: 10:00 AM – 4:00 PM
+  - Sat: 10:00 AM – 1:00 PM
+
 ATM
-Near Main Gate, RGUKT Campus
-Available 24 × 7
-SBI ATM — all networks accepted
-Services Available
-Savings and current account opening for students and staff
-Scholarship and stipend credit directly to accounts
-Fee payment and demand draft facility
-NEFT / RTGS transfers
-Internet banking and mobile banking enrolment
-ATM / Debit card issuance
+- Location: Near Main Gate, RGUKT Campus
+- Availability: 24 × 7
+- Network: SBI ATM — all networks accepted
+
+SERVICES AVAILABLE
+- Savings and current account opening for students and staff
+- Scholarship and stipend credit directly to accounts
+- Fee payment and demand draft facility
+- NEFT / RTGS transfers
+- Internet banking and mobile banking enrolment
+- ATM / Debit card issuance

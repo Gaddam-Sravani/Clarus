@@ -1,19 +1,24 @@
 Source URL: https://www.rgukt.ac.in/vision-mission.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Institutional-Vision-Mission
 =================================================================
 
-Vision and Mission — RGUKT Basar
-Vision
-The vision of the University is to provide quality engineering education to meritorious rural youth deprived of this opportunity, through an innovative blend of modern computer assisted, learner-centric instructional methodology along with rigorous traditional teaching in a world class ambiance. This vision is driven by the main causes that most of the talented rural youth wishing to pursue higher education:
-Have no access to renowned and world class institutions and facilities
-Come from economically impoverished background that severely inhibits their choices and passions.
-It is in the light of this background that the University envisages to provide the requisite high quality education to these students and thus enable them:
-To experience educational standards in Engineering education that are of world-class
-To enroll in a top technical University that provides free education to the deserving 1% of the creamy layer of students who have passed out of the X class.
+VISION AND MISSION — RGUKT BASAR
 
-Mission
-Mission
-To create a Knowledge Hub for producing qualified manpower possessing Post Graduate and Doctoral qualification in different branches of Engineering.
-To develop the campus as a highly research-centric institute.
-To promote and propagate innovative teaching and research programs and create specialized centers of Learning/Training.
-To help the students launch on a path of self discovery.
+1. INSTITUTIONAL VISION
+The vision of the University is to provide quality engineering education to meritorious rural youth deprived of this opportunity, through an innovative blend of modern computer-assisted, learner-centric instructional methodology along with rigorous traditional teaching in a world-class ambiance.
+
+Driving Causes for the Vision:
+- Most talented rural youth wishing to pursue higher education have no access to renowned and world-class institutions and facilities.
+- They come from economically impoverished backgrounds that severely inhibit their choices and passions.
+
+Key Envisaged Outcomes for Students:
+- To experience educational standards in engineering education that are of world-class quality.
+- To enroll in a top technical university that provides free/subsidized education to the deserving 1% of the creamy layer of students who have passed out of the 10th (X) class.
+
+
+2. INSTITUTIONAL MISSION
+The mission of RGUKT Basar is defined through the following four core objectives:
+1. To create a Knowledge Hub for producing qualified manpower possessing Post Graduate and Doctoral qualifications in different branches of Engineering.
+2. To develop the campus as a highly research-centric institute.
+3. To promote and propagate innovative teaching and research programs and create specialized centers of Learning/Training.
+4. To help the students launch on a path of self-discovery.

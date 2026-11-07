@@ -1,54 +1,85 @@
 Source URL: https://www.rgukt.ac.in/department/mme
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/MetallurgicalAndMaterialsEngineering
+================================================================================
+RGUKT BASAR — DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING (MME)
+================================================================================
 
-Metallurgical and Materials Engineering — RGUKT Basar
-DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING
-12
-Faculty Members
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Quick Links
-Curriculum
-Staff List
-Lab Manuals
-Research Publications
-Gallery
-All Faculty
-About the Department
-The Department of Metallurgical and Materials Engineering has been developing progressively with respect to academics and infrastructure. It is equipped with sophisticated equipment including X-ray Diffraction, Field Emission Scanning Electron Microscope, and Friction Stir Welding facilities. The department aims to establish collaborative connections between educational institutions, research bodies, and commercial enterprises to tackle contemporary and upcoming challenges.
-Vision & Mission
-Vision
-The department of Metallurgical and Materials Engineering provides the rural students with quality education, developing the fundamental understanding along with ethics and technological innovations to serve the needs of the society.
-Mission
-To showcase the broad spectrum of Metallurgical and Materials Engineering. To promote a collaborative bridge between academic institutions, research organizations and industries to address the current and future societal challenges. Develop technology and prepare students in the relevant areas of metallurgical and materials engineering.
-Contact HOD
-Kiran Kumar Atyam
-Head of Department — Metallurgical and Materials Engineering
-hod.mme@rgukt.ac.in
-DEPARTMENT OF METALLURGICAL AND MATERIALS ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-3 	RTMM110161 	A. ASHOK KUMAR 	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ashokiiitbas@rgukt.ac.in 	— 	
-2 	RTMM100150 	AJAY KUMAR VADDEPALLY
-M.Tech (IIT-Kharagpur)
-	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ajay@rgukt.ac.in 	9703557287 	
-4 	RTMM160336 	Dr. R AJAY KUMAR
-Ph.D - IIT Bombay
-	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	ajay.r@rgukt.ac.in 	— 	
-7 	RNLT120211 	J. SATISH 	LABORATORY TECHNICIAN 	Metallurgical and Materials Engineering 	jallelasatish@rgukt.ac.in 	— 	
-5 	RNLA120210 	K. MAHESH 	LABORATORY ASSISTANT 	Metallurgical and Materials Engineering 	maheshkadam@rgukt.ac.in 	— 	
-6 	RNLA120216 	K. NAGESHWARA RAO 	LABORATORY ASSISTANT 	Metallurgical and Materials Engineering 	nageswararakavati@rgukt.ac.in 	— 	
-1 	RTMM100141 	KIRAN KUMAR ATYAM
-M. Tech - IIT, Kharagpur
-	ASSISTANT PROFESSOR 	Metallurgical and Materials Engineering 	kkatyam_mme@rgukt.ac.in 	— 	
-Showing 1–7 of 7 staff
-Academic Programmes
-B.Tech
+OVERVIEW
+The Department of Metallurgical and Materials Engineering (MME) provides rigorous academic instruction and cutting-edge experimental research in metallurgy, materials synthesis, advanced processing, characterization, and failure analysis.
+
+ACADEMIC PROGRAMMES OFFERED
+- B.Tech in Metallurgical and Materials Engineering
+- Total Faculty Members: 12
+
+ADVANCED RESEARCH INFRASTRUCTURE & LABORATORIES
+The department is equipped with advanced analytical instrumentation and materials synthesis facilities, including:
+1. X-Ray Diffraction (XRD) system
+2. Field Emission Scanning Electron Microscope (FE-SEM)
+3. Friction Stir Welding (FSW) research facility
+
+VISION & MISSION
+- Vision:
+  "The department of Metallurgical and Materials Engineering provides the rural students with quality education, developing the fundamental understanding along with ethics and technological innovations to serve the needs of the society."
+- Mission:
+  "To showcase the broad spectrum of Metallurgical and Materials Engineering. To promote a collaborative bridge between academic institutions, research organizations and industries to address the current and future societal challenges. Develop technology and prepare students in the relevant areas of metallurgical and materials engineering."
+
+HEAD OF DEPARTMENT (HOD) CONTACT
+- HOD Name: Kiran Kumar Atyam
+- Designation: Head of Department — Metallurgical and Materials Engineering
+- Official HOD Email: hod.mme@rgukt.ac.in
+- Personal Email: kkatyam_mme@rgukt.ac.in
+- Department Office: Department of Metallurgical and Materials Engineering, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+FACULTY & TECHNICAL STAFF DIRECTORY
+
+1. KIRAN KUMAR ATYAM
+   - Employee ID: RTMM100141
+   - Designation: Assistant Professor & Head of Department
+   - Qualifications: M.Tech (IIT Kharagpur)
+   - Department: Metallurgical and Materials Engineering
+   - Email: kkatyam_mme@rgukt.ac.in (HOD Email: hod.mme@rgukt.ac.in)
+   - Phone: Not Listed
+
+2. AJAY KUMAR VADDEPALLY
+   - Employee ID: RTMM100150
+   - Designation: Assistant Professor
+   - Qualifications: M.Tech (IIT Kharagpur)
+   - Department: Metallurgical and Materials Engineering
+   - Email: ajay@rgukt.ac.in
+   - Phone: 9703557287
+
+3. A. ASHOK KUMAR
+   - Employee ID: RTMM110161
+   - Designation: Assistant Professor
+   - Department: Metallurgical and Materials Engineering
+   - Email: ashokiiitbas@rgukt.ac.in
+   - Phone: Not Listed
+
+4. Dr. R. AJAY KUMAR
+   - Employee ID: RTMM160336
+   - Designation: Assistant Professor
+   - Qualifications: Ph.D (IIT Bombay)
+   - Department: Metallurgical and Materials Engineering
+   - Email: ajay.r@rgukt.ac.in
+   - Phone: Not Listed
+
+5. J. SATISH
+   - Employee ID: RNLT120211
+   - Designation: Laboratory Technician
+   - Department: Metallurgical and Materials Engineering
+   - Email: jallelasatish@rgukt.ac.in
+   - Phone: Not Listed
+
+6. K. MAHESH
+   - Employee ID: RNLA120210
+   - Designation: Laboratory Assistant
+   - Department: Metallurgical and Materials Engineering
+   - Email: maheshkadam@rgukt.ac.in
+   - Phone: Not Listed
+
+7. K. NAGESHWARA RAO
+   - Employee ID: RNLA120216
+   - Designation: Laboratory Assistant
+   - Department: Metallurgical and Materials Engineering
+   - Email: nageswararakavati@rgukt.ac.in
+   - Phone: Not Listed

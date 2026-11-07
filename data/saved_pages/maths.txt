@@ -1,59 +1,89 @@
 Source URL: https://www.rgukt.ac.in/department/maths
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF MATHEMATICS — RGUKT BASAR
+=================================================================
 
-Mathematics — RGUKT Basar
-DEPARTMENT OF MATHEMATICS
-29
-Faculty Members
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Programmes
-Quick Links
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Department of Mathematics strives for excellence among Indian and international academic institutions, offering comprehensive curricula at undergraduate and postgraduate levels. The department employs 19 faculty members across diverse mathematical areas and regularly hosts distinguished mathematicians. Faculty support students preparing for competitive exams including GATE, GRE, and CAT.
-Vision & Mission
-Vision
-To be among the best mathematics departments in the country and to establish an international reputation as a centre for research and teaching in mathematics.
-Mission
-Transforming young people into competent professionals with strong theoretical and practical knowledge. Producing graduate students with robust foundations for research or industry careers. Cultivating mathematical interests and motivating research in mathematical sciences. Contributing to national development, particularly in the Telangana region, through research and training.
-Contact HOD
-Suresh Devanapalli
-Head of Department — Mathematics
-hod.maths@rgukt.ac.in
-DEPARTMENT OF MATHEMATICS,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
-Faculty of Maths/Mathematics Department
-Faculty of Maths/Mathematics Department
-Faculty of Maths/Mathematics Department
-Faculty of Maths/Mathematics Department
-Faculty of Maths/Mathematics Department
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-8 	RTMA170366 	BALA RAJU 	ASSISTANT PROFESSOR 	Mathematics 	balaraju117@rgukt.ac.in 	— 	
-5 	RTMA170350 	Dr. G THIRUPATHI
-Ph.D
-	ASSISTANT PROFESSOR 	Mathematics 	gthirupathi@rgukt.ac.in 	— 	
-7 	RTMA170363 	Dr. KUMAR RAGULA
-Ph.D, M.Sc, B.Ed.
-	ASSISTANT PROFESSOR 	Mathematics 	kumar_r@rgukt.ac.in 	— 	
-3 	— 	Dr. SURESH DEVANAPALLI
-M.Sc, M.Tech (IIT Kgp), Ph.D
-	ASSISTANT PROFESSOR 	Mathematics 	dsuresh7799@rgukt.ac.in 	— 	
-2 	RTMA120197 	G. SAYANNA 	ASSISTANT PROFESSOR 	Mathematics 	saimaths@rgukt.ac.in 	— 	
-1 	RTMA110177 	MADHUSUDAN ADEPU 	MENTOR 	Mathematics 	adepu.madhusudhan@rgukt.ac.in 	— 	
-6 	RTMA170352 	PASUNOORI SRINIVASULU
-Ph.D From Dr B.R.AMBEDKR OPEN UNIVERSITY ,HYDERABAD
-	ASSISTANT PROFESSOR 	Mathematics 	rtma170352@rgukt.ac.in 	9652093536 	
-4 	RTMA140278 	T. PRAKASH 	ASSISTANT PROFESSOR 	Mathematics 	prakash.turpu@rgukt.ac.in 	— 	
-Showing 1–8 of 8 staff
+OVERVIEW & STATS
+- Faculty Members: 29 (19 faculty members employed across diverse mathematical areas)
+- Established: 2010
+- About: Strives for excellence among Indian and international academic institutions, offering comprehensive curricula at undergraduate and postgraduate levels. Regularly hosts distinguished mathematicians. Faculty support students preparing for competitive exams including GATE, GRE, and CAT.
+- Academic Programmes: B.Tech
 
-Academic Programmes
-B.Tech
+VISION & MISSION
+- Vision:
+  To be among the best mathematics departments in the country and to establish an international reputation as a centre for research and teaching in mathematics.
+- Mission:
+  Transforming young people into competent professionals with strong theoretical and practical knowledge. Producing graduate students with robust foundations for research or industry careers. Cultivating mathematical interests and motivating research in mathematical sciences. Contributing to national development, particularly in the Telangana region, through research and training.
+
+HEAD OF DEPARTMENT (HOD)
+- Name: Suresh Devanapalli
+- Designation: Head of Department — Mathematics
+- Email: hod.maths@rgukt.ac.in
+- Address: DEPARTMENT OF MATHEMATICS, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+FACULTY DIRECTORY
+
+1. Dr. SURESH DEVANAPALLI
+   - Emp. ID: Not listed
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Sc, M.Tech (IIT Kgp), Ph.D
+   - Department: Mathematics
+   - Email: dsuresh7799@rgukt.ac.in
+   - Phone: Not listed
+
+2. BALA RAJU
+   - Emp. ID: RTMA170366
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Mathematics
+   - Email: balaraju117@rgukt.ac.in
+   - Phone: Not listed
+
+3. Dr. G THIRUPATHI
+   - Emp. ID: RTMA170350
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Ph.D
+   - Department: Mathematics
+   - Email: gthirupathi@rgukt.ac.in
+   - Phone: Not listed
+
+4. Dr. KUMAR RAGULA
+   - Emp. ID: RTMA170363
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Ph.D, M.Sc, B.Ed.
+   - Department: Mathematics
+   - Email: kumar_r@rgukt.ac.in
+   - Phone: Not listed
+
+5. G. SAYANNA
+   - Emp. ID: RTMA120197
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Mathematics
+   - Email: saimaths@rgukt.ac.in
+   - Phone: Not listed
+
+6. MADHUSUDAN ADEPU
+   - Emp. ID: RTMA110177
+   - Designation: MENTOR
+   - Qualifications: Not listed
+   - Department: Mathematics
+   - Email: adepu.madhusudhan@rgukt.ac.in
+   - Phone: Not listed
+
+7. PASUNOORI SRINIVASULU
+   - Emp. ID: RTMA170352
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Ph.D From Dr B.R.AMBEDKR OPEN UNIVERSITY ,HYDERABAD
+   - Department: Mathematics
+   - Email: rtma170352@rgukt.ac.in
+   - Phone: 9652093536
+
+8. T. PRAKASH
+   - Emp. ID: RTMA140278
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Mathematics
+   - Email: prakash.turpu@rgukt.ac.in
+   - Phone: Not listed

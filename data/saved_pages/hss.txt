@@ -1,26 +1,21 @@
 Source URL: https://www.rgukt.ac.in/department/hss
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/HumanitiesAndSocialSciences
+================================================================================
+RGUKT BASAR — DEPARTMENT OF HUMANITIES AND SOCIAL SCIENCES (H&SS)
+================================================================================
 
-Humanities and Social Sciences — RGUKT Basar
-DEPARTMENT OF HUMANITIES AND SOCIAL SCIENCES
-28
-Faculty Members
-In This Department
-About
-Departments
-Quick Links
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Department of Humanities and Social Sciences at RGUKT Basar comprises the Department of English and the Department of Telugu. The department provides foundation courses in English communication, Telugu language, and humanities subjects for all engineering students, fostering holistic development alongside technical education.
-Departments
-English
-Develops communication excellence through language labs, soft-skills training
-and TOEFL / IELTS / GRE preparation.
-Visit Department
-Telugu
-Preserves and promotes Telugu language and literature, fostering cultural
-identity and linguistic pride among students.
-Visit Department
+OVERVIEW & ESTABLISHMENT
+- Established: 2010
+- Total Faculty Members: 28
+- Organizational Structure: Comprises the Department of English and the Department of Telugu.
+
+ACADEMIC MANDATE
+The Department of Humanities and Social Sciences provides foundational and advanced courses in English communication, Telugu language, literature, and social sciences for all Pre-University Course (PUC) and B.Tech engineering students. Its curriculum is designed to foster holistic personal development, analytical thinking, and ethical understanding alongside rigorous technical education.
+
+CONSTITUENT DEPARTMENTS & SCOPE
+
+1. Department of English
+   - Scope: Develops communication excellence through interactive language laboratories, professional soft-skills training, and standardized competitive examination preparation, including TOEFL, IELTS, and GRE.
+
+2. Department of Telugu
+   - Scope: Preserves, teaches, and promotes Telugu language, classical literature, and indigenous culture, nurturing cultural identity and linguistic pride among students.

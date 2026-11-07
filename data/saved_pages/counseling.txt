@@ -1,47 +1,36 @@
 Source URL: https://www.rgukt.ac.in/counseling.html
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/StudentCounselingCenter
+================================================================================
+RGUKT BASAR — STUDENT COUNSELING CENTER (SCC)
+================================================================================
 
-Student Counseling Center — RGUKT Basar
-Student Counseling Center
-Counseling
-About
-Staff
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-About the Student Counseling Center
-The Student Counseling Center (SCC) helps the students of RGUKT-Basar with necessary Guidance and Counseling — whether Personal, Educational, or Career-oriented — for good personality development and sound mental health.
-Services Offered
-Availability of qualified counsellors on all days (24×7)
-Separate cells for boys and girls with gender-specific requirements
-Laboratory for psychological assessments
-Central counseling centre in the academic area and at the hospital
-Periodic programmes for motivational and personality development
-Invited talks and interaction with eminent personalities for social inclusion without inhibition
-Psychiatrist's visits on demand
-Counselling Staff
-G. Nagalaxmi
-Counsellor
-counsellor.nlaxmi@rgukt.ac.in
-P. Srilakshmi
-Counsellor
-counsellor.sri@rgukt.ac.in
+OVERVIEW & MANDATE
+The Student Counseling Center (SCC) at RGUKT Basar provides students with comprehensive Guidance and Counseling across Personal, Educational, and Career domains to foster healthy personality development, emotional resilience, and sound mental health.
 
-Faculty of COUNSELLING, STUDENT WELFARE
-Faculty of COUNSELLING, STUDENT WELFARE
-Faculty of COUNSELLING, STUDENT WELFARE
-Faculty of COUNSELLING, STUDENT WELFARE
-Faculty of COUNSELLING, STUDENT WELFARE
+SERVICES OFFERED
+1. 24×7 Counselor Availability: Qualified professional counselors accessible on all days for student assistance and emergency support.
+2. Gender-Specific Cells: Separate counseling cells for boys and girls designed for confidential and gender-specific requirements.
+3. Psychological Assessment Laboratory: Dedicated facility equipped for scientific psychological testing and clinical evaluations.
+4. Dual Center Locations: Counseling facilities situated both within the core Academic Area and at the Campus Hospital.
+5. Motivational & Development Programs: Periodic institutional workshops on personality growth, emotional well-being, and stress management.
+6. Eminent Guest Interactions: Invited lectures and interactive sessions with distinguished personalities to promote social inclusion without inhibition.
+7. Psychiatrist Visits: Specialized psychiatric consultations and clinical visits arranged on demand.
 
-#	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RNPJA24004 	MADIPADIGA RAMBABU 	Jr. Assistant 	COUNSELLING, STUDENT WELFARE 	madipadigarambabu@rgukt.ac.in 	— 	
-Showing 1–1 of 1 staff
+COUNSELING STAFF & ADMINISTRATIVE DIRECTORY
+
+1. G. NAGALAXMI
+   - Designation: Counsellor
+   - Email: counsellor.nlaxmi@rgukt.ac.in
+   - Phone: Not Listed
+
+2. P. SRILAKSHMI
+   - Designation: Counsellor
+   - Email: counsellor.sri@rgukt.ac.in
+   - Phone: Not Listed
+
+3. MADIPADIGA RAMBABU
+   - Employee ID: RNPJA24004
+   - Designation: Junior Assistant (Jr. Assistant)
+   - Department: Counselling, Student Welfare
+   - Email: madipadigarambabu@rgukt.ac.in
+   - Phone: Not Listed

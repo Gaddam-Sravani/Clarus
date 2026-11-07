@@ -1,21 +1,27 @@
- Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Accounts+Department
-Official Ref: RGUKT-B/Scraped
+Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Accounts+Department
+Official Ref: RGUKT-B/Admin-Accounts-Section
 =================================================================
- Faculty of Accounts Section/Department
-  Faculty of Accounts Section/Department
-   Faculty of Accounts Section/Department
-    Faculty of Accounts Section/Department
-     Faculty of Accounts Section/Department
-     
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-4 	RNTA090121 	D. RAJITHA
-None
-	TECHNICAL ASSISTANT 	Accounts Department 	rajithad@rgukt.ac.in 	— 	
-3 	RNTA090110 	K. RAJU 	TECHNICAL ASSISTANT 	Accounts Department 	rajukatukuri@rgukt.ac.in 	— 	
-1 	RNTA080077 	P. JAYARAJU
-M.sc (Information Technology), M.Sc (Botany),
-	TECHNICAL ASSISTANT 	Accounts Department 	jayaraju.peramalla@rgukt.ac.in 	— 	
-2 	RNTA090109 	SRINIVAS MITTAPELLI
-None
-	TECHNICAL ASSISTANT 	Accounts Department 	— 	— 	
-Showing 1–4 of 4 staff
+
+ACCOUNTS DEPARTMENT & FINANCE SECTION STAFF DIRECTORY — RGUKT BASAR
+Department Location: Accounts Section, Administrative Block, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+1. ACCOUNTS & FINANCE STAFF DIRECTORY (ALL 4 STAFF WITH EMPLOYEE IDS)
+1. P. Jayaraju (Emp. ID: RNTA080077)
+   - Designation: Technical Assistant
+   - Department: Accounts Department
+   - Qualifications: M.Sc (Information Technology), M.Sc (Botany)
+   - Official Email: jayaraju.peramalla@rgukt.ac.in
+
+2. K. Raju (Emp. ID: RNTA090110)
+   - Designation: Technical Assistant
+   - Department: Accounts Department
+   - Official Email: rajukatukuri@rgukt.ac.in
+
+3. D. Rajitha (Emp. ID: RNTA090121)
+   - Designation: Technical Assistant
+   - Department: Accounts Department
+   - Official Email: rajithad@rgukt.ac.in
+
+4. Srinivas Mittapelli (Emp. ID: RNTA090109)
+   - Designation: Technical Assistant
+   - Department: Accounts Department

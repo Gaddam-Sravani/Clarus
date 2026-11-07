@@ -1,95 +1,76 @@
 Source URL: https://www.rgukt.ac.in/department/physics
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Department-Physics
 =================================================================
 
-Physics — RGUKT Basar
-Skip to Main Content
-RGUKT Basar, Telangana – 504107
-webmaster@rgukt.ac.in
-A-
-A
-A+
-HC
-SR
-Staff Login
-DEPARTMENT OF PHYSICS
-29
-Faculty Members
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Quick Links
-Board of Studies
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Department of Physics at RGUKT Basar provides foundational physics education for all B.Tech engineering programmes. The department offers a Minor in Physics as an elective programme for students across all engineering disciplines. It provides rigorous theoretical and experimental training in classical and modern physics, equipping students with strong analytical and problem-solving skills.
-Vision & Mission
-Vision
-To impart quality education in physics, nurture scientific temperament among students, and promote research in frontier areas of physics.
-Mission
-To provide strong fundamentals in physics for all engineering students. To encourage research, innovation, and scientific inquiry. To develop students' problem-solving and analytical skills through rigorous physics education.
-Contact HOD
-Dr. G Devaraju
-Head of Department — Physics
-hod.physics@rgukt.ac.in
-DEPARTMENT OF PHYSICS,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
-M. SATISH KUMAR
-MENTOR
-satheesh.iiit@rgukt.ac.in
-View Profile
-M. RAMAKRISHNA
-MENTOR
-rkphysics@rgukt.ac.in
-View Profile
-Dr. S C RAKESH ROSHAN
-ASSISTANT PROFESSOR
-roshan@rgukt.ac.in
-View Profile
-NARESH CHINTHA
-ASSISTANT PROFESSOR
-nareshchintha@rgukt.ac.in
-View Profile
-Dr. DEVARAJU
-ASSISTANT PROFESSOR
-gdr@rgukt.ac.in
-View Profile
-Dr. PADAM RAJENDER
-ASSISTANT PROFESSOR
-rajender.iiit@rgukt.ac.in
-View Profile
-Dr. Ch. SUJATHA
-ASSISTANT PROFESSOR
-sujatha.iiit@rgukt.ac.in
-View Profile
-K V RAMAKANTH
-ASSISTANT PROFESSOR
-rtpy160321@rgukt.ac.in
-View Profile
-Non-Teaching Staff
-M. HARATHI
-LABORATORY ASSISTANT
-mharathi55@rgukt.ac.in
-View Profile
-M. LIMBADRI
-LABORATORY ASSISTANT
-mlimbadri2149@rgukt.ac.in
-View Profile
-K. RADHA
-LABORATORY ASSISTANT
-radhakanthi88@rgukt.ac.in
-View Profile
-S. GOPAL
-LABORATORY ASSISTANT
-sangam.gopal@rgukt.ac.in
-View Profile
-Academic Programmes
-B.Tech
+DEPARTMENT OF PHYSICS — RGUKT BASAR
+
+1. DEPARTMENT OVERVIEW & PROGRAMMES
+- Established: 2010
+- Total Faculty Members: 29
+- Academic Scope: Imparts foundational physics theoretical and experimental training for all B.Tech engineering programmes and Pre-University Course (PUC).
+- Specialized Elective Programme: Offers an official "Minor in Physics" as an elective programme for students across all engineering disciplines.
+
+2. VISION & MISSION
+- Vision: To impart quality education in physics, nurture scientific temperament among students, and promote research in frontier areas of physics.
+- Mission:
+  * To provide strong fundamentals in physics for all engineering students.
+  * To encourage research, innovation, and scientific inquiry.
+  * To develop students' problem-solving and analytical skills through rigorous physics education.
+
+3. HEAD OF DEPARTMENT (HOD) CONTACT
+- Head of Department: Dr. G. Devaraju
+- Designation: Head of Department — Physics
+- Official Email: hod.physics@rgukt.ac.in
+- Department Location: Department of Physics, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+4. TEACHING FACULTY & MENTOR DIRECTORY (WITH EMPLOYEE IDS & QUALIFICATIONS)
+1. Dr. G. Devaraju (Emp. ID: RTPY120219)
+   - Designation: Assistant Professor & Head of Department (HOD)
+   - Email: gdr@rgukt.ac.in / hod.physics@rgukt.ac.in
+
+2. Dr. S. C. Rakesh Roshan (Emp. ID: RTPY100151)
+   - Designation: Assistant Professor
+   - Qualifications: Ph.D from National Institute of Technology - Warangal (NIT-W); M.Tech from University of Hyderabad (UoH); M.Sc & B.Sc (Hons.) from Sri Sathya Sai Institute of Higher Learning (SSSIHL, Prasanthi Nilayam)
+   - Email: roshan@rgukt.ac.in
+
+3. Naresh Chintha (Emp. ID: RTPY110178)
+   - Designation: Assistant Professor
+   - Email: nareshchintha@rgukt.ac.in
+
+4. Dr. Padam Rajender (Emp. ID: RTPY140276)
+   - Designation: Assistant Professor
+   - Email: rajender.iiit@rgukt.ac.in
+
+5. Dr. Ch. Sujatha (Emp. ID: RTPY160295)
+   - Designation: Assistant Professor
+   - Email: sujatha.iiit@rgukt.ac.in
+
+6. K. V. Ramakanth (Emp. ID: RTPY160321)
+   - Designation: Assistant Professor
+   - Email: rtpy160321@rgukt.ac.in
+
+7. M. Ramakrishna (Emp. ID: RTPY090126)
+   - Designation: Mentor
+   - Qualifications: M.Sc in Electronics and Instrumentation from Osmania University, Hyderabad
+   - Email: rkphysics@rgukt.ac.in
+
+8. M. Satish Kumar (Emp. ID: RTPY080081)
+   - Designation: Mentor
+   - Email: satheesh.iiit@rgukt.ac.in
+
+5. NON-TEACHING TECHNICAL LABORATORY STAFF
+1. M. Harathi (Emp. ID: RNLA100154)
+   - Designation: Laboratory Assistant
+   - Email: mharathi55@rgukt.ac.in
+
+2. M. Limbadri (Emp. ID: RNLA100155)
+   - Designation: Laboratory Assistant
+   - Email: mlimbadri2149@rgukt.ac.in
+
+3. K. Radha (Emp. ID: RNLA100157)
+   - Designation: Laboratory Assistant
+   - Email: radhakanthi88@rgukt.ac.in
+
+4. S. Gopal (Emp. ID: RNLA110168)
+   - Designation: Laboratory Assistant
+   - Email: sangam.gopal@rgukt.ac.in

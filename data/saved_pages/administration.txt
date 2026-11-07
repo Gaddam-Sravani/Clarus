@@ -1,67 +1,54 @@
 Source URL: https://www.rgukt.ac.in/administration-section.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Admin/Directory-2026
 =================================================================
 
-Administration — RGUKT Basar
-Administration
-Administration
-Vice Chancellor
-Administration
-Academic Section
-Deans & HoDs
-Establishment Section
-Examination Section
-Finance & Accounts
-Medical Unit
-Physical Education
-Public Relations Office
-Right to Information
-Scholarship Section
-Security Unit
-Stores & Purchase
-Students Affairs & Hostels
-Counselling Cell
-Software Dev. Cell
-Network & Systems
-Works & Estate
-Communication Directory
-University Leadership
-Prof. A. Govardhan
-Vice Chancellor
-vc@rgukt.ac.in
-08752-255111
-Prof. E. Murali Darshan
-OSD & Administrative Officer (Additional Charge)
-ao@rgukt.ac.in
-Administrative Officers
-#
-Designation
-Email
-1
-Prof. E. Murali Darshan
-— OSD & Administrative Officer (Additional Charge)
-ao@rgukt.ac.in
-2
-Finance Officer
-fo@rgukt.ac.in
-3
-Associate Dean, Academics & Planning
-—
-4
-Associate Dean of Engineering
-adean.engg@rgukt.ac.in
-5
-Associate Dean, Sciences & Humanities
-adean_sciences@rgukt.ac.in
-Office Contacts
-Office of the Vice Chancellor
-Mr. M. Harikrishna
-Secretary to Vice Chancellor
-08752-255111
-secytovc@rgukt.ac.in
-Office of the Administrative Officer
-Mr. G. Badri Narayana
-Technical Assistant, O/o Administrative Officer
-For a complete listing of all faculty and staff contact details, see the
-Communication Directory
-.
+UNIVERSITY LEADERSHIP, ADMINISTRATION & KEY EXECUTIVE OFFICERS — RGUKT BASAR
+Campus Location: RGUKT Basar, Basar Mandal, Nirmal District, Telangana — 504107.
+
+1. UNIVERSITY LEADERSHIP
+- Vice Chancellor: Prof. A. Govardhan
+  * Office Email: vc@rgukt.ac.in
+  * Office Phone: 08752-255111
+- Officer on Special Duty (OSD) & Administrative Officer (Additional Charge): Prof. E. Murali Darshan
+  * Official Email: ao@rgukt.ac.in
+
+2. ADMINISTRATIVE OFFICERS & DEANS DIRECTORY
+1. Prof. E. Murali Darshan — OSD & Administrative Officer (Additional Charge)
+   - Email: ao@rgukt.ac.in
+2. Finance Officer (FO)
+   - Email: fo@rgukt.ac.in
+3. Associate Dean, Academics & Planning (ADAP)
+   - Responsible for academic calendars, curriculum, and academic approvals.
+4. Associate Dean of Engineering
+   - Email: adean.engg@rgukt.ac.in
+5. Associate Dean, Sciences & Humanities
+   - Email: adean_sciences@rgukt.ac.in
+
+3. ADMINISTRATIVE OFFICE CONTACTS
+- Office of the Vice Chancellor:
+  * Secretary to Vice Chancellor: Mr. M. Harikrishna
+  * Office Landline: 08752-255111
+  * Official Email: secytovc@rgukt.ac.in
+- Office of the Administrative Officer (AO):
+  * Technical Assistant, O/o Administrative Officer: Mr. G. Badri Narayana
+  * Official Email: ao@rgukt.ac.in
+
+4. ADMINISTRATIVE SECTIONS ON CAMPUS
+The central administration oversees the following dedicated functional units:
+- Academic Section
+- Deans & Heads of Departments (HoDs)
+- Establishment Section
+- Examination Section
+- Finance & Accounts
+- Medical Unit (Health Center)
+- Physical Education (Sports)
+- Public Relations Office (PRO)
+- Right to Information (RTI) Cell
+- Scholarship Section
+- Security Unit
+- Stores & Purchase (Procurement)
+- Students Affairs & Hostels (DSW)
+- Counselling Cell
+- Software Development Cell
+- Network & Systems (IT Infrastructure)
+- Works & Estate Management

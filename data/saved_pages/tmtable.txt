@@ -1,50 +1,25 @@
 Source URL: https://www.rgukt.ac.in/timetable.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Academic-Time-Table
 =================================================================
 
-Time Table — RGUKT Basar
-Time Table
-Academics
-Academic Programmes
-Curricula
-Academic Calendar
-Departments
-Examinations
-Time Table
-Class Time Table
-The class time tables for all years and branches are published by the respective departments at the beginning of each semester. Students can find their department time tables in the links below or on the departmental notice boards.
-Time tables are uploaded by departments at the start of each semester. Visit the respective
-Department page
-or check the departmental notice board for the latest schedule.
-Academic Schedule
-The standard daily schedule at RGUKT Basar follows a structured pattern:
-Period
-Time
-Duration
-1st Period
-8:30 AM – 9:20 AM
-50 min
-2nd Period
-9:20 AM – 10:10 AM
-50 min
-3rd Period
-10:10 AM – 11:00 AM
-50 min
-Short Break — 11:00 AM to 11:10 AM
-4th Period
-11:10 AM – 12:00 PM
-50 min
-5th Period
-12:00 PM – 12:50 PM
-50 min
-Lunch Break — 12:50 PM to 1:40 PM
-6th Period
-1:40 PM – 2:30 PM
-50 min
-7th Period
-2:30 PM – 3:20 PM
-50 min
-8th Period
-3:20 PM – 4:10 PM
-50 min
+CLASS TIME TABLE & DAILY ACADEMIC SCHEDULE — RGUKT BASAR
 
+1. CLASS TIME TABLE ANNOUNCEMENTS
+- Publication: Class time tables for all academic years and engineering branches are published by the respective academic departments at the beginning of each semester.
+- Location: Available on the respective departmental web pages and departmental notice boards on campus.
+
+2. STANDARD DAILY ACADEMIC SCHEDULE & PERIOD TIMINGS
+The standard instructional day at RGUKT Basar follows this structured 8-period schedule:
+
+Period / Session     | Time Slot            | Duration
+---------------------|----------------------|---------
+1st Period           | 8:30 AM – 9:20 AM    | 50 min
+2nd Period           | 9:20 AM – 10:10 AM   | 50 min
+3rd Period           | 10:10 AM – 11:00 AM  | 50 min
+Short Break          | 11:00 AM – 11:10 AM  | 10 min
+4th Period           | 11:10 AM – 12:00 PM  | 50 min
+5th Period           | 12:00 PM – 12:50 PM  | 50 min
+Lunch Break          | 12:50 PM – 1:40 PM   | 50 min
+6th Period           | 1:40 PM – 2:30 PM    | 50 min
+7th Period           | 2:30 PM – 3:20 PM    | 50 min
+8th Period           | 3:20 PM – 4:10 PM    | 50 min

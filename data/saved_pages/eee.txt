@@ -1,70 +1,85 @@
 Source URL: https://www.rgukt.ac.in/department/eee
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF ELECTRICAL ENGINEERING — RGUKT BASAR
+(Electrical and Electronics Engineering)
+=================================================================
 
-Electrical and Electronics Engineering — RGUKT Basar
-DEPARTMENT OF ELECTRICAL ENGINEERING
-140
-Intake / Year
-21
-Faculty Members
-12
-Laboratories
-In This Department
-About
-Vision & Mission
-HOD's Message
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Laboratories
-Quick Links
-Curriculum
-Staff List
-Lab Manuals
-Research Publications
-Events
-Gallery
-All Faculty
-About the Department
-The Department of Electrical and Electronics Engineering, established in 2010, delivers a four-year B.Tech program with 140 students per year. The faculty demonstrates strong commitment to both teaching and research. The department features 12 modern laboratories and emphasizes practical learning through projects, enabling graduates to become valuable engineering professionals.
-Vision & Mission
-Vision
-To transform the present day Electrical students into the future world-class Electrical Engineers thereby catering the needs of current visionary society.
-Mission
-Employing hands-on learning methods; fostering student career development with positive faculty-student relations; providing resources for students to demonstrate talent and contribute to society; keeping curriculum aligned with technological advances; and motivating innovation projects benefiting common people.
-HOD's Message
-The vision to establish the Department of Electrical Engineering is to generate the dynamic engineers who could make a difference in the modern day society. This can be accomplished by teaching students at the best of quality. We have highly qualified and experienced faculty to develop the budding students into Dynamic Engineers. We have sophisticated laboratories which could enhance the student’s knowledge about the subject. Our Department consists of around 500 students, 10+ faculty and 12 laboratories. The Department conducts several Guest lectures, Workshops and Industrial visits to develop the student’s practical knowledge. The Department also exists many committees such as Department Student Grievance Redressal Committee (DSGRC), Department Beautification Committee for the welfare of students. The Department Student Activity Room used by the students to conduct various activities to bring out the inner talent from the students. I am thankful to the entire faculty and staff, who have been part of the development of Department of Electrical Engineering over the years.
-— Bhukya Bhavsingh
-Electrical and Electronics Engineering, RGUKT Basar
-Contact HOD
-Bhukya Bhavsingh
-Head of Department — Electrical and Electronics Engineering
-hod.eee@rgukt.ac.in
-8985485720
-DEPARTMENT OF ELECTRICAL ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-4 	RTEE160319 	Dr. BHUKYA BHAVSINGH
-Ph.D (OU), M.Tech, B.Tech
-	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	bhavsingh.eee@rgukt.ac.in 	— 	
-2 	RTPEE16014 	Dr. N. RAKESH 	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	namanirakesh@rgukt.ac.in 	— 	
-1 	RTPEE16003 	LAXMAN MUTYAM 	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	laxman@rgukt.ac.in 	— 	
-5 	RNLA120193 	S. TULASI RAM 	LABORATORY ASSISTANT 	Electrical and Electronics Engineering 	tulasirams@rgukt.ac.in 	— 	
-3 	RTEE160297 	V. VINAY KUMAR
-M.Tech
-	ASSISTANT PROFESSOR 	Electrical and Electronics Engineering 	vinay.eee@rgukt.ac.in 	— 	
-Showing 1–5 of 5 staff
-Academic Programmes
-B.Tech
-Laboratories
-Power Systems Lab
-Electrical Machines-I Lab
-Electrical Machines-II Lab
-Basic Electrical Engineering Lab
-Electrical Measurements Lab
-Power Electronics Lab
-Control Systems Lab
+OVERVIEW & METRICS
+- Established: 2010
+- Intake / Year: 140 students per year
+- Academic Programmes: Four-year B.Tech program
+- Department Strength: Around 500 students, 10+ faculty (21 faculty members indicated in department header), and 12 laboratories.
+- Department Committees & Facilities:
+  - Department Student Grievance Redressal Committee (DSGRC)
+  - Department Beautification Committee
+  - Department Student Activity Room
+  - Guest lectures, workshops, and industrial visits conducted for practical knowledge.
+
+VISION & MISSION
+- Vision:
+  To transform the present day Electrical students into the future world-class Electrical Engineers thereby catering the needs of current visionary society.
+- Mission:
+  Employing hands-on learning methods; fostering student career development with positive faculty-student relations; providing resources for students to demonstrate talent and contribute to society; keeping curriculum aligned with technological advances; and motivating innovation projects benefiting common people.
+
+HOD'S MESSAGE
+"The vision to establish the Department of Electrical Engineering is to generate the dynamic engineers who could make a difference in the modern day society. This can be accomplished by teaching students at the best of quality. We have highly qualified and experienced faculty to develop the budding students into Dynamic Engineers. We have sophisticated laboratories which could enhance the student’s knowledge about the subject. Our Department consists of around 500 students, 10+ faculty and 12 laboratories. The Department conducts several Guest lectures, Workshops and Industrial visits to develop the student’s practical knowledge. The Department also exists many committees such as Department Student Grievance Redressal Committee (DSGRC), Department Beautification Committee for the welfare of students. The Department Student Activity Room used by the students to conduct various activities to bring out the inner talent from the students. I am thankful to the entire faculty and staff, who have been part of the development of Department of Electrical Engineering over the years."
+— Bhukya Bhavsingh, Electrical and Electronics Engineering, RGUKT Basar
+
+CONTACT HOD
+- Name: Bhukya Bhavsingh
+- Designation: Head of Department — Electrical and Electronics Engineering
+- Email: hod.eee@rgukt.ac.in
+- Phone: 8985485720
+- Address: DEPARTMENT OF ELECTRICAL ENGINEERING, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+TEACHING & NON-TEACHING STAFF
+
+1. Dr. BHUKYA BHAVSINGH
+   - Emp. ID: RTEE160319
+   - Designation: ASSISTANT PROFESSOR (Head of Department)
+   - Qualifications: Ph.D (OU), M.Tech, B.Tech
+   - Department: Electrical and Electronics Engineering
+   - Email: bhavsingh.eee@rgukt.ac.in (HOD Email: hod.eee@rgukt.ac.in)
+   - Phone: 8985485720
+
+2. Dr. N. RAKESH
+   - Emp. ID: RTPEE16014
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Electrical and Electronics Engineering
+   - Email: namanirakesh@rgukt.ac.in
+   - Phone: Not listed
+
+3. LAXMAN MUTYAM
+   - Emp. ID: RTPEE16003
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Electrical and Electronics Engineering
+   - Email: laxman@rgukt.ac.in
+   - Phone: Not listed
+
+4. S. TULASI RAM
+   - Emp. ID: RNLA120193
+   - Designation: LABORATORY ASSISTANT
+   - Qualifications: Not listed
+   - Department: Electrical and Electronics Engineering
+   - Email: tulasirams@rgukt.ac.in
+   - Phone: Not listed
+
+5. V. VINAY KUMAR
+   - Emp. ID: RTEE160297
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech
+   - Department: Electrical and Electronics Engineering
+   - Email: vinay.eee@rgukt.ac.in
+   - Phone: Not listed
+
+LABORATORIES
+1. Power Systems Lab
+2. Electrical Machines-I Lab
+3. Electrical Machines-II Lab
+4. Basic Electrical Engineering Lab
+5. Electrical Measurements Lab
+6. Power Electronics Lab
+7. Control Systems Lab

@@ -1,19 +1,25 @@
-XI. REMEDIAL EXAMINATION RULES
-1. Students with a remedial grade (R-Grade) will have to clear their backlogs by
-attending the remedial examinations whenever they are announced by the
-University.
-2. Promotion into the engineering stream will not be possible for those students
-who do not clear their remedial backlog(s) in PUC.
-3. No certificate – provisional or original – can be issued by the University to the
-students who have pending backlog in their PUC stream. A marks statement
-may be issued if applied for.
-4. For all students attending remedial exams, the marks memorandum will reflect
-the grade earned in the subject with a ‘*’ mark. For example, if the student obtains
-‘B’ grade in a subject after attending the remedial exam, it will be shown as ‘B*’ in
-the memorandum of marks.
-5. Moreover, for the purpose of evaluating the SGPA and the CGPA, the grade point
-for one grade lower than that obtained in the remedial exam will be considered.
-For example, if the student has obtained a ‘B’ grade, then the grade point of ‘C’
-grade will be used for evaluating the SGPA. However, the grade point of lowest
-pass grade (P-grade or D-grade as per applicability) will not be lowered further.
+Source URL: https://www.rgukt.ac.in/
+Official Ref: RGUKT-B/Rules-Section-XI
+=================================================================
 
+XI. REMEDIAL EXAMINATION RULES & GRADING POLICIES — RGUKT BASAR
+
+1. MANDATORY CLEARANCE OF REMEDIAL (R) GRADES
+Students securing a remedial grade ('R' grade) in any course must clear their backlogs by registering for and appearing in remedial/supplementary examinations whenever announced by the University.
+
+2. PUC TO B.TECH PROMOTION RESTRICTION
+Promotion from the Pre-University Course (PUC) into the 4-Year B.Tech engineering stream will strictly NOT be permitted for students who have pending remedial backlogs in PUC. All PUC courses must be cleared.
+
+3. WITHHOLDING OF OFFICIAL CERTIFICATES
+No certificate—neither Provisional Certificate nor Original Degree Certificate—can be issued by the University to students who have pending backlogs in their PUC stream. Only an interim marks statement may be issued upon application.
+
+4. ASTERISK (*) MARK ON MARKS MEMORANDUM
+For all students clearing subjects through remedial examinations, the marks memorandum will reflect the grade earned in that subject marked with an asterisk (*). For example, earning a 'B' grade in a remedial attempt will be officially displayed as 'B*'.
+
+5. GRADE POINT PENALTY (ONE GRADE LOWER FOR SGPA / CGPA)
+For the purpose of calculating SGPA and CGPA, the grade point corresponding to ONE GRADE LOWER than the grade earned in the remedial examination will be awarded:
+- If a student earns an 'Ex' grade (10 pts) in remedial -> Awarded grade points of 'A' grade (9 pts).
+- If a student earns an 'A' grade (9 pts) in remedial -> Awarded grade points of 'B' grade (8 pts).
+- If a student earns a 'B' grade (8 pts) in remedial -> Awarded grade points of 'C' grade (7 pts).
+- If a student earns a 'C' grade (7 pts) in remedial -> Awarded grade points of 'D' grade (6 pts).
+- Floor Limit: The grade point of the lowest pass grade ('P' grade or 'D' grade as per applicability) will NOT be lowered further.

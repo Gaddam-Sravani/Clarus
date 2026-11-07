@@ -1,21 +1,41 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Management+Studies
-Official Ref: RGUKT-B/Scraped
-=================================================================
+Official Ref: RGUKT-B/Official/ManagementStudiesFaculty
+================================================================================
+RGUKT BASAR — DEPARTMENT OF MANAGEMENT STUDIES (FACULTY DIRECTORY)
+================================================================================
 
+OVERVIEW
+The Department of Management Studies provides managerial, business, and financial education, offering core and elective coursework, including the Minor in Management program for undergraduate engineering students.
 
-Faculty of Management Studies
-Faculty of Management Studies
-Faculty of Management Studies
-Faculty of Management Studies
-Faculty of Management Studies
+FACULTY DIRECTORY — MANAGEMENT STUDIES
 
-#	Emp. ID	Name	Designation	Department	Email	Phone	
-4 	RTMS170353 	B SHRI VIDHYA 	ASSISTANT PROFESSOR 	Management Studies 	srividhyab4@rgukt.ac.in 	— 	
-2 	RTMS160329 	Dr. P. SWATHI
-Ph.D (Management), MBA(Finance & HRM), M.Com, UGC-NET
-	ASSISTANT PROFESSOR 	Management Studies 	panatulaswathi@rgukt.ac.in 	— 	
-3 	RTMS160334 	Dr. TIRTHALA NAGA SAI KUMAR
-PhD (NIT WARANGAL)
-	ASSISTANT PROFESSOR 	Management Studies 	nagasai.tirthala@rgukt.ac.in 	— 	
-1 	RTMS130254 	SWAPNIL JANGALE 	ASSISTANT PROFESSOR 	Management Studies 	swapnil.jangale@rgukt.ac.in 	— 	
-Showing 1–4 of 4 staff
+1. SWAPNIL JANGALE
+   - Employee ID: RTMS130254
+   - Designation: Assistant Professor
+   - Department: Management Studies
+   - Email: swapnil.jangale@rgukt.ac.in
+   - Phone: Not Listed
+
+2. Dr. P. SWATHI
+   - Employee ID: RTMS160329
+   - Designation: Assistant Professor
+   - Qualifications: Ph.D (Management), MBA (Finance & HRM), M.Com, UGC-NET
+   - Department: Management Studies
+   - Email: panatulaswathi@rgukt.ac.in
+   - Phone: Not Listed
+
+3. Dr. TIRTHALA NAGA SAI KUMAR
+   - Employee ID: RTMS160334
+   - Designation: Assistant Professor (Head of Department)
+   - Qualifications: Ph.D (NIT Warangal)
+   - Department: Management Studies
+   - Email: nagasai.tirthala@rgukt.ac.in
+   - Official HoD Email: hod.management@rgukt.ac.in
+   - Phone: Not Listed
+
+4. B. SHRI VIDHYA
+   - Employee ID: RTMS170353
+   - Designation: Assistant Professor
+   - Department: Management Studies
+   - Email: srividhyab4@rgukt.ac.in
+   - Phone: Not Listed

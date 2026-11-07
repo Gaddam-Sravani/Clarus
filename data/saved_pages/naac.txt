@@ -1,73 +1,24 @@
 Source URL: https://www.rgukt.ac.in/naac.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Accreditation-NAAC
 =================================================================
 
-NAAC Accreditation — RGUKT Basar
-NAAC Accreditation
-National Assessment and Accreditation Council
-NAAC
-Accreditation
-SSR / DVV
-AQAR Reports
-IQAC
-Accreditation Status
-C
-GRADE
-Accredited by NAAC with
-'C' Grade
-Recognized under Sections 2(f) and 12(B) of the UGC Act, 1956, as a State University.
-Accreditation Cycle
-1st Cycle
-Grade
-C
-Accrediting Body
-NAAC, Bangalore
-Type
-State University (Technical)
-Self Study Report (SSR) & DVV
-Self Study Report (SSR)
-Available soon
-DVV Clarification
-Available soon
-AQAR 2020-21
-Available soon
-AQAR 2021-22
-Available soon
-AQAR 2022-23
-Available soon
-Annual Quality Assurance Reports (AQAR)
-#
-Year
-Status
-Download
-1
-AQAR 2023-24
-Available on request
-Contact IQAC
-2
-AQAR 2022-23
-Available on request
-Contact IQAC
-3
-AQAR 2021-22
-Available on request
-Contact IQAC
-4
-AQAR 2020-21
-Available on request
-Contact IQAC
-5
-AQAR 2019-20
-Available on request
-Contact IQAC
-6
-AQAR 2018-19
-Available on request
-Contact IQAC
-7
-AQAR 2017-18
-Available on request
-Contact IQAC
-Internal Quality Assurance Cell (IQAC)
-The IQAC at RGUKT Basar was established in 2017 and is responsible for developing quality benchmarks and facilitating the internalization of quality culture in all academic and administrative activities.
-Visit IQAC Page
+NAAC ACCREDITATION & IQAC CELL — RGUKT BASAR
+
+1. NAAC ACCREDITATION STATUS & RECOGNITION
+- Accrediting Body: National Assessment and Accreditation Council (NAAC), Bangalore.
+- Grade Awarded: 'C' Grade.
+- Accreditation Cycle: 1st Cycle.
+- Institutional Status: Recognized under Section 2(f) and Section 12B of the University Grants Commission (UGC) Act, 1956, as a State University (Technical).
+
+2. INTERNAL QUALITY ASSURANCE CELL (IQAC)
+- Established: 2017.
+- Primary Objective: Responsible for developing quality benchmarks, parameters, and facilitating the internalization of a quality culture across all academic and administrative activities at RGUKT Basar.
+- AQAR Reports: Annual Quality Assurance Reports prepared and submitted from 2017-18 through 2023-24 (available on request via IQAC).
+  * AQAR 2023-24
+  * AQAR 2022-23
+  * AQAR 2021-22
+  * AQAR 2020-21
+  * AQAR 2019-20
+  * AQAR 2018-19
+  * AQAR 2017-18
+- Documentation: Self Study Report (SSR) and Data Validation & Verification (DVV) clarifications maintained by IQAC.

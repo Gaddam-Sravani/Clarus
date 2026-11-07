@@ -1,108 +1,204 @@
 Source URL: https://www.rgukt.ac.in/department/ece
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING — RGUKT BASAR
+=================================================================
 
-Electronics and Communications Engineering — RGUKT Basar
-DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING
-240
-Intake / Year
-28
-Faculty Members
-11
-Laboratories
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Laboratories
-Quick Links
-Curriculum
-Staff List
-Research Publications
-Gallery
-All Faculty
-About the Department
-Established 2010
-The Department of Electronics and Communications Engineering was established in 2010 and provides a four-year undergraduate B.Tech programme with an average intake of 240 students. The department also offers postgraduate studies and employs approximately 17 faculty members alongside 11 laboratories equipped with modern infrastructure.
-Vision & Mission
-Vision
-Providing technical knowledge and enriching the skills of rural youth to excel in academics, and research in the field of Electronics and Communication Engineering.
-Mission
-Imparting knowledge through learner-centered approaches with active student participation. Developing engineers via contemporary curriculum and industry internships aligned with societal needs. Fostering research activities in electronics, communications, and interdisciplinary domains for global recognition. Enhancing soft skills and professional ethics for comprehensive student development.
-Contact HOD
-Bathina Upenderrao
-Head of Department — Electronics and Communications Engineering
-hod.ece@rgukt.ac.in
-DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-3 	RTPEC16017 	A.CH.MADHUSUDHANA RAO
-M.Tech (IIT Madras)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	ach.madhu@rgukt.ac.in 	— 	
-2 	RTPEC16005 	AGSHARE DHEERAJ
-Ph.D (Pursuing) in I.I.T Hyderabad
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	agsharedheeraj@rgukt.ac.in 	— 	
-7 	RTEC160302 	B. NEELIMA 	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	neelima.iiit@rgukt.ac.in 	— 	
-12 	RTEC160344 	Dr. ARAVALLI SAINATH CHAITHANYA
-Ph.D., M.Tech., B.Tech., UGC-NET qualified
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	chaithanya@rgukt.ac.in 	— 	
-8 	RTEC160303 	Dr. BATHINA UPENDERRAO
-Ph.D from Osmania University
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	upenderece@rgukt.ac.in 	— 	
-11 	RTEC160338 	Dr. CHINTAM SHRAVAN
-M.Tech, Ph. D. (College of Engineering, Osmania University)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	shravan@rgukt.ac.in 	— 	
-4 	RTPEC16020 	Dr. GVSSKR NAGANJANEYULU
-M.E. (IISc), Ph. D. (NITK)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	naganjee@rgukt.ac.in 	— 	
-15 	RTEC170370 	Dr. RAMINENI PADMASREE
-M.Tech, NET, (PhD)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	rtec170370@rgukt.ac.in 	— 	
-1 	RTPEC16002 	G. SRINIVAS SAGAR
-M.Tech (IIT-KHARAGPUR)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	sagar.iitkgp414@rgukt.ac.in 	— 	
-20 	RNLA120203 	K. SUDHEER KUMAR
-Diploma in ECE
-	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	sudheerkumar@rgukt.ac.in 	— 	
-6 	RTEC130265 	KARTHIK KASU
-Pursuing PhD, M.Tech in Communication Engineering (NIT-SURATHKAL), B.Tech in Electronics & Communication Engineering (Hi-Tech college of Engineering & Technology)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	karthik@rgukt.ac.in 	— 	
-16 	RTEC170374 	Md. ARIF ALI
-M. Tech, (Ph.D)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	arifece@rgukt.ac.in 	7981917891 	
-13 	RTEC170354 	PANCHAREDDY TEJASVEY
-M. Tech.
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	tejasvey@rgukt.ac.in 	— 	
-14 	RTEC170358 	PASULA PRANAYA
-M. Tech.
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	pranaya@rgukt.ac.in 	— 	
-18 	RNLA110185 	R. GANAPATHI 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	rganapathi@rgukt.ac.in 	— 	
-21 	RNLA130220 	RAJ KIRAN 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	rajkiran.inamdar@rgukt.ac.in 	— 	
-17 	RNLA110184 	RAJ KIRAN GUPTA 	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	guptha.gunda@rgukt.ac.in 	— 	
-5 	RTEC110176 	RAJKUMAR AMBULAGE
-M.E. in Microelectronics Systems (Indian Institute of Science, Bangalore),B.Tech in Telecommunication Engineering, Bangalore Institute of Technology (VTU, Belgaum)
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	rajkumar@rgukt.ac.in 	— 	
-10 	RTEC160312 	RAPOLU SAIDULU 	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	saidulur@rgukt.ac.in 	— 	
-9 	RTEC160311 	SAI RADHA KRISHNA G
-M. Tech.
-	ASSISTANT PROFESSOR 	Electronics and Communications Engineering 	radhakrishna9357@rgukt.ac.in 	— 	
-19 	RNLA120194 	V. NARESH
-M.B.A(O.U), B. Tech (ECE)
-	LABORATORY ASSISTANT 	Electronics and Communications Engineering 	vanjarinaresh@rgukt.ac.in 	— 	
-Showing 1–21 of 21 staff
-B.Tech
-Laboratories
-Analog and Digital Communications Lab
-Digital Electronic Circuits Lab – II
-Digital Electronic Circuits Lab – I
-Digital Signal Processing Lab
-Micro-Controllers Lab
-RF and Microwave Lab
-Electronic Devices and Circuits Lab – I
-Electronic Devices and Circuits Lab – II
-Digital Systems Design and VLSI Lab
+OVERVIEW & METRICS
+- Established: 2010
+- Intake / Year: 240 (average intake of 240 students)
+- Academic Programmes: Four-year undergraduate B.Tech programme; also offers postgraduate studies.
+- Department Strength: Approximately 17 faculty members (28 faculty members indicated in department header) and 11 laboratories equipped with modern infrastructure.
+
+VISION & MISSION
+- Vision:
+  Providing technical knowledge and enriching the skills of rural youth to excel in academics, and research in the field of Electronics and Communication Engineering.
+- Mission:
+  Imparting knowledge through learner-centered approaches with active student participation. Developing engineers via contemporary curriculum and industry internships aligned with societal needs. Fostering research activities in electronics, communications, and interdisciplinary domains for global recognition. Enhancing soft skills and professional ethics for comprehensive student development.
+
+CONTACT HOD
+- Name: Bathina Upenderrao
+- Designation: Head of Department — Electronics and Communications Engineering
+- Email: hod.ece@rgukt.ac.in
+- Address: DEPARTMENT OF ELECTRONICS & COMMUNICATIONS ENGINEERING, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+TEACHING & NON-TEACHING STAFF
+
+1. A.CH.MADHUSUDHANA RAO
+   - Emp. ID: RTPEC16017
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech (IIT Madras)
+   - Department: Electronics and Communications Engineering
+   - Email: ach.madhu@rgukt.ac.in
+   - Phone: Not listed
+
+2. AGSHARE DHEERAJ
+   - Emp. ID: RTPEC16005
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Ph.D (Pursuing) in I.I.T Hyderabad
+   - Department: Electronics and Communications Engineering
+   - Email: agsharedheeraj@rgukt.ac.in
+   - Phone: Not listed
+
+3. B. NEELIMA
+   - Emp. ID: RTEC160302
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Electronics and Communications Engineering
+   - Email: neelima.iiit@rgukt.ac.in
+   - Phone: Not listed
+
+4. Dr. ARAVALLI SAINATH CHAITHANYA
+   - Emp. ID: RTEC160344
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Ph.D., M.Tech., B.Tech., UGC-NET qualified
+   - Department: Electronics and Communications Engineering
+   - Email: chaithanya@rgukt.ac.in
+   - Phone: Not listed
+
+5. Dr. BATHINA UPENDERRAO
+   - Emp. ID: RTEC160303
+   - Designation: ASSISTANT PROFESSOR (Head of Department)
+   - Qualifications: Ph.D from Osmania University
+   - Department: Electronics and Communications Engineering
+   - Email: upenderece@rgukt.ac.in (HOD Email: hod.ece@rgukt.ac.in)
+   - Phone: Not listed
+
+6. Dr. CHINTAM SHRAVAN
+   - Emp. ID: RTEC160338
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech, Ph. D. (College of Engineering, Osmania University)
+   - Department: Electronics and Communications Engineering
+   - Email: shravan@rgukt.ac.in
+   - Phone: Not listed
+
+7. Dr. GVSSKR NAGANJANEYULU
+   - Emp. ID: RTPEC16020
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.E. (IISc), Ph. D. (NITK)
+   - Department: Electronics and Communications Engineering
+   - Email: naganjee@rgukt.ac.in
+   - Phone: Not listed
+
+8. Dr. RAMINENI PADMASREE
+   - Emp. ID: RTEC170370
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech, NET, (PhD)
+   - Department: Electronics and Communications Engineering
+   - Email: rtec170370@rgukt.ac.in
+   - Phone: Not listed
+
+9. G. SRINIVAS SAGAR
+   - Emp. ID: RTPEC16002
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech (IIT-KHARAGPUR)
+   - Department: Electronics and Communications Engineering
+   - Email: sagar.iitkgp414@rgukt.ac.in
+   - Phone: Not listed
+
+10. K. SUDHEER KUMAR
+    - Emp. ID: RNLA120203
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Diploma in ECE
+    - Department: Electronics and Communications Engineering
+    - Email: sudheerkumar@rgukt.ac.in
+    - Phone: Not listed
+
+11. KARTHIK KASU
+    - Emp. ID: RTEC130265
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: Pursuing PhD, M.Tech in Communication Engineering (NIT-SURATHKAL), B.Tech in Electronics & Communication Engineering (Hi-Tech college of Engineering & Technology)
+    - Department: Electronics and Communications Engineering
+    - Email: karthik@rgukt.ac.in
+    - Phone: Not listed
+
+12. Md. ARIF ALI
+    - Emp. ID: RTEC170374
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: M. Tech, (Ph.D)
+    - Department: Electronics and Communications Engineering
+    - Email: arifece@rgukt.ac.in
+    - Phone: 7981917891
+
+13. PANCHAREDDY TEJASVEY
+    - Emp. ID: RTEC170354
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: M. Tech.
+    - Department: Electronics and Communications Engineering
+    - Email: tejasvey@rgukt.ac.in
+    - Phone: Not listed
+
+14. PASULA PRANAYA
+    - Emp. ID: RTEC170358
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: M. Tech.
+    - Department: Electronics and Communications Engineering
+    - Email: pranaya@rgukt.ac.in
+    - Phone: Not listed
+
+15. R. GANAPATHI
+    - Emp. ID: RNLA110185
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Electronics and Communications Engineering
+    - Email: rganapathi@rgukt.ac.in
+    - Phone: Not listed
+
+16. RAJ KIRAN
+    - Emp. ID: RNLA130220
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Electronics and Communications Engineering
+    - Email: rajkiran.inamdar@rgukt.ac.in
+    - Phone: Not listed
+
+17. RAJ KIRAN GUPTA
+    - Emp. ID: RNLA110184
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Electronics and Communications Engineering
+    - Email: guptha.gunda@rgukt.ac.in
+    - Phone: Not listed
+
+18. RAJKUMAR AMBULAGE
+    - Emp. ID: RTEC110176
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: M.E. in Microelectronics Systems (Indian Institute of Science, Bangalore),B.Tech in Telecommunication Engineering, Bangalore Institute of Technology (VTU, Belgaum)
+    - Department: Electronics and Communications Engineering
+    - Email: rajkumar@rgukt.ac.in
+    - Phone: Not listed
+
+19. RAPOLU SAIDULU
+    - Emp. ID: RTEC160312
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: Not listed
+    - Department: Electronics and Communications Engineering
+    - Email: saidulur@rgukt.ac.in
+    - Phone: Not listed
+
+20. SAI RADHA KRISHNA G
+    - Emp. ID: RTEC160311
+    - Designation: ASSISTANT PROFESSOR
+    - Qualifications: M. Tech.
+    - Department: Electronics and Communications Engineering
+    - Email: radhakrishna9357@rgukt.ac.in
+    - Phone: Not listed
+
+21. V. NARESH
+    - Emp. ID: RNLA120194
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: M.B.A(O.U), B. Tech (ECE)
+    - Department: Electronics and Communications Engineering
+    - Email: vanjarinaresh@rgukt.ac.in
+    - Phone: Not listed
+
+LABORATORIES
+1. Analog and Digital Communications Lab
+2. Digital Electronic Circuits Lab – II
+3. Digital Electronic Circuits Lab – I
+4. Digital Signal Processing Lab
+5. Micro-Controllers Lab
+6. RF and Microwave Lab
+7. Electronic Devices and Circuits Lab – I
+8. Electronic Devices and Circuits Lab – II
+9. Digital Systems Design and VLSI Lab

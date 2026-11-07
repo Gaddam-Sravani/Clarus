@@ -1,34 +1,26 @@
 Source URL: https://www.rgukt.ac.in/gym.html
-Official Ref: RGUKT-B/Scraped
-=================================================================
-Gym — RGUKT Basar
-Gymnasium
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Gymnasium at RGUKT Basar
-RGUKT Basar provides a fully equipped gymnasium for students, faculty, and staff to maintain physical fitness. The gym is open during designated hours and is supervised by a qualified physical trainer.
-Timings
-Morning: 5:30 AM – 8:00 AM
-Evening: 5:00 PM – 8:00 PM
-Open all days (except holidays)
-Equipment
-Treadmill & Elliptical
-Free Weights & Dumbbells
-Multi-gym Station
-Cycling Machine
-Guidelines
-Entry for RGUKT students, faculty, and staff only — valid ID card required
-Proper sports attire and footwear must be worn at all times
-Users are requested to maintain hygiene and cleanliness
-Machines must be wiped after use
-No food or beverages inside the gym
-Follow instructions of the gym supervisor at all times
+Official Ref: RGUKT-B/Official/Gymnasium
+================================================================================
+RGUKT BASAR — CAMPUS GYMNASIUM & FITNESS FACILITY
+================================================================================
+
+OVERVIEW
+RGUKT Basar maintains a fully equipped campus gymnasium to promote physical fitness, wellness, and athletic conditioning for students, faculty, and staff. The gym is supervised by a qualified physical trainer during all operating hours.
+
+OPERATING TIMINGS
+- Morning Session: 5:30 AM – 8:00 AM
+- Evening Session: 5:00 PM – 8:00 PM
+- Operational Days: Open all days (closed on university holidays)
+
+FITNESS EQUIPMENT AVAILABLE
+1. Treadmills & Ellipticals (Cardiovascular fitness)
+2. Free Weights & Dumbbells (Strength and resistance training)
+3. Multi-Gym Station (Compound full-body workouts)
+4. Stationary Cycling Machines
+
+GYMNASIUM RULES & USER GUIDELINES
+1. Eligibility & Entry: Open exclusively to RGUKT students, faculty members, and staff. A valid university ID card is strictly mandatory for admission.
+2. Attire: Proper sports attire and clean athletic footwear/shoes must be worn at all times.
+3. Cleanliness & Hygiene: Users must maintain cleanliness and hygiene. Workout machines and contact surfaces must be wiped down after use.
+4. Food & Drinks: Consuming food items and beverages inside the gym premises is strictly prohibited.
+5. Supervision: Users must strictly comply with all safety instructions and directives issued by the gym supervisor.

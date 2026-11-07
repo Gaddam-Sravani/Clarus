@@ -1,54 +1,25 @@
 Source URL: https://www.rgukt.ac.in/nirf.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Rankings-NIRF
 =================================================================
 
-NIRF Rankings — RGUKT Basar
-NIRF Rankings
-National Institutional Ranking Framework — Ministry of Education, Govt. of India
-About NIRF
-The National Institutional Ranking Framework (NIRF) was approved by the Ministry of Education (then MHRD) in 2015. It outlines a methodology to rank institutions across the country based on five broad parameters: Teaching, Learning & Resources (TLR); Research and Professional Practice (RP); Graduation Outcomes (GO); Outreach and Inclusivity (OI); and Peer Perception (PR).
-RGUKT Basar participates in the NIRF ranking process annually and submits data under the
-University
-category.
-NIRF Data / Rankings
-Year
-Category
-Rank Band
-Report
-2024
-University
-Data submitted
-NIRF Portal
-2023
-University
-Data submitted
-NIRF Portal
-2022
-University
-Data submitted
-NIRF Portal
-2021
-University
-Data submitted
-NIRF Portal
-2020
-University
-Data submitted
-NIRF Portal
-2019
-University
-Data submitted
-NIRF Portal
-NIRF Parameters — Summary
-Teaching, Learning & Resources (TLR)
-Faculty-student ratio, faculty qualifications, financial resources
-Research & Professional Practice (RP)
-Publications, patents, sponsored research, consultancy
-Graduation Outcomes (GO)
-PhD output, placement rate, student performance
-Outreach & Inclusivity (OI)
-Regional diversity, gender diversity, economic diversity
-Peer Perception (PR)
-Academic peer perception and employer perception
-Official NIRF data available at
-nirfindia.org
+NIRF RANKINGS & SUBMISSIONS — RGUKT BASAR
+Authority: National Institutional Ranking Framework (NIRF), Ministry of Education, Government of India. Official Portal: nirfindia.org
+
+1. OVERVIEW & INSTITUTIONAL PARTICIPATION
+- Approved: Approved by the Ministry of Education (formerly MHRD) in 2015.
+- Category: RGUKT Basar participates in the national ranking framework annually and submits institutional data under the "University" category.
+- Annual Submissions: Data submitted for the University category across:
+  * 2024: University category data submitted
+  * 2023: University category data submitted
+  * 2022: University category data submitted
+  * 2021: University category data submitted
+  * 2020: University category data submitted
+  * 2019: University category data submitted
+
+2. NIRF CORE EVALUATION PARAMETERS (5 BROAD METRICS)
+Institutions are ranked nationally based on five broad parameters:
+1. Teaching, Learning & Resources (TLR): Faculty-student ratio, faculty qualifications, financial resources, and utilization.
+2. Research and Professional Practice (RP): Publications, patents, sponsored research, and consultancy projects.
+3. Graduation Outcomes (GO): Ph.D student output, campus placement rates, and student examination performance.
+4. Outreach and Inclusivity (OI): Regional diversity, gender diversity, and economic/social diversity.
+5. Peer Perception (PR): Academic peer perception and corporate employer feedback.

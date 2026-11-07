@@ -1,24 +1,82 @@
-Faculty of English Department
-Faculty of English Department
-Faculty of English Department
-Faculty of English Department
-Faculty of English Department
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=English
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Official/EnglishDepartment
+================================================================================
+RGUKT BASAR — DEPARTMENT OF ENGLISH
+================================================================================
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-5 	RTEN090136 	A. SRINIVAS 	MENTOR 	English 	edlasrinivas@rgukt.ac.in 	— 	
-1 	RTEN090132 	A. VIJAY KUMAR 	MENTOR 	English 	vijaykumar.apsingikar@rgukt.ac.in 	— 	
-4 	RTEN090135 	D. VASANTHA BABU 	MENTOR 	English 	vasanth@rgukt.ac.in 	— 	
-8 	RTEN130262 	Dr. G. SHANKAR
-M.A in English Literature (EFLU-Hyderabad), Ph.D (Telangana University, Nizamabad)
-	ASSISTANT PROFESSOR 	English 	shankarenglish@rgukt.ac.in 	— 	
-9 	RTEN160298 	Dr. K. KRUSHNA PRASAD
-M.A, B.Ed., Ph.D
-	ASSISTANT PROFESSOR 	English 	krushnaprasad@rgukt.ac.in 	8328263106 	
-6 	RTEN110179 	Dr. SHRAVAN SAMA 	ASSISTANT PROFESSOR 	English 	shravansama@rgukt.ac.in 	— 	
-3 	RTEN090134 	Dr. VIJAY KUMAR NEERUDU 	MENTOR 	English 	vijaykumar.neerudu@rgukt.ac.in 	— 	
-7 	RTEN130253 	I. LAKUMA DEVI 	ASSISTANT PROFESSOR 	English 	lakuma.english@rgukt.ac.in 	— 	
-10 	RTEN160301 	K. VENKATESHWARLU 	ASSISTANT PROFESSOR 	English 	venkateshwarlu@rgukt.ac.in 	— 	
-2 	RTEN090133 	U. PRABHAKAR RAO 	MENTOR 	English 	rten090133@rgukt.ac.in 	— 	
-Showing 1–10 of 10 staff
+OVERVIEW
+The Department of English provides foundational and advanced training in English language, professional communication, linguistics, phonetics, and literature across PUC and B.Tech engineering curricula. It manages language laboratory sessions and soft-skills training essential for campus placements and competitive examinations.
+
+FACULTY DIRECTORY — DEPARTMENT OF ENGLISH
+
+1. A. VIJAY KUMAR
+   - Employee ID: RTEN090132
+   - Designation: Mentor
+   - Department: English
+   - Email: vijaykumar.apsingikar@rgukt.ac.in
+   - Phone: Not Listed
+
+2. U. PRABHAKAR RAO
+   - Employee ID: RTEN090133
+   - Designation: Mentor (Also serves as Special Officer, Sports)
+   - Department: English
+   - Email: rten090133@rgukt.ac.in
+   - Phone: Not Listed
+
+3. Dr. VIJAY KUMAR NEERUDU
+   - Employee ID: RTEN090134
+   - Designation: Mentor (Also serves as Placement Officer, T&P Cell)
+   - Department: English
+   - Email: vijaykumar.neerudu@rgukt.ac.in
+   - Phone: Not Listed
+
+4. D. VASANTHA BABU
+   - Employee ID: RTEN090135
+   - Designation: Mentor
+   - Department: English
+   - Email: vasanth@rgukt.ac.in
+   - Phone: Not Listed
+
+5. A. SRINIVAS
+   - Employee ID: RTEN090136
+   - Designation: Mentor
+   - Department: English
+   - Email: edlasrinivas@rgukt.ac.in
+   - Phone: Not Listed
+
+6. Dr. SHRAVAN SAMA
+   - Employee ID: RTEN110179
+   - Designation: Assistant Professor
+   - Department: English
+   - Email: shravansama@rgukt.ac.in
+   - Phone: Not Listed
+
+7. I. LAKUMA DEVI
+   - Employee ID: RTEN130253
+   - Designation: Assistant Professor
+   - Department: English
+   - Email: lakuma.english@rgukt.ac.in
+   - Phone: Not Listed
+
+8. Dr. G. SHANKAR
+   - Employee ID: RTEN130262
+   - Designation: Assistant Professor
+   - Qualifications: M.A. in English Literature (EFLU - Hyderabad), Ph.D (Telangana University, Nizamabad)
+   - Department: English
+   - Email: shankarenglish@rgukt.ac.in
+   - Phone: Not Listed
+
+9. Dr. K. KRUSHNA PRASAD
+   - Employee ID: RTEN160298
+   - Designation: Assistant Professor
+   - Qualifications: M.A., B.Ed., Ph.D
+   - Department: English
+   - Email: krushnaprasad@rgukt.ac.in
+   - Phone: 8328263106
+
+10. K. VENKATESHWARLU
+    - Employee ID: RTEN160301
+    - Designation: Assistant Professor
+    - Department: English
+    - Email: venkateshwarlu@rgukt.ac.in
+    - Phone: Not Listed

@@ -1,75 +1,63 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Academic+Section
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Admin-Academic-Section
 =================================================================
-DSW: Rules relating to issue of Outpass-Action for fake reasons.
 
+ACADEMIC SECTION STAFF DIRECTORY & ACADEMIC REGULATIONS CIRCULARS — RGUKT BASAR
+Office Location: Academic Section, Administrative Block, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 
-As per the directions of Director, it is to inform all the students of RGUKT that No outpass will be issued to the students as Saturday happens to be a working day. All the students are to make a note of this and cooperate with the Administration.
+1. ACADEMIC SECTION STAFF DIRECTORY (ALL 10 STAFF WITH EMPLOYEE IDS)
+1. S. Shailaja (Emp. ID: RNAS100146)
+   - Designation: DTP Manager
+   - Official Email: shailaja@rgukt.ac.in
 
-Students approaching for outpass without having valid reason is treated as an offense and an in-disciple action will be initiated against such students. Any student insisting to consider their case under emergency and medical grounds without substantial evidence will be treated very seriously and resulting in adverse remarks in their records. Such entries will influence their academics, awards and placement opportunities.
-Academic Section: Circular - Rules during Academic Hours.
+2. V. A. L. Ranga Sayulu (Emp. ID: RNAS100142)
+   - Designation: Studio Manager
+   - Official Email: rangasai@rgukt.ac.in
 
-Dear Students,
+3. A. Anand Babu (Emp. ID: RNAS130237)
+   - Designation: Computer Operator
+   - Official Email: anandarikela@rgukt.ac.in
 
-It is to inform all the students that they need to abide by the following rules during academic hours.
+4. Angolla Ramesh (Emp. ID: RNAS120207)
+   - Designation: Computer Operator
+   - Official Email: rameshreddy@rgukt.ac.in
 
-1.	Students of P1 to E3 should be inside the classroom by 9:00 am to 1:00 pm in the Morning session and 2:00 pm to 5:00 pm 
-        in the afternoon session on all the working days.
-2.	Students of E4 should maintain their time schedule as per the time table of the open Elective Classes.
-3.	Students should wear a uniform and university ID card.
-4.	Maintaining discipline with fellow students.
-5.     Cell phones and any electronic gadgets are prohibited with immediate effect.
-6.     Damaging University property is an offense. if found, will be held liable for the penalty.
-        
-Students needs to adhere to the above points otherwise university will take necessary action.
+5. B. Praveen Reddy (Emp. ID: RNAS130267)
+   - Designation: Computer Operator
+   - Official Email: praveenreddy@rgukt.ac.in
 
-		 Sd/-
-Associate Dean of Engineering
-Associate Dean of Sciences & Humanities
+6. Abdul Noushad (Emp. ID: RNPJA24013)
+   - Designation: Junior Assistant
+   - Official Email: abdulnoushad@rgukt.ac.in
 
-Academic Section: Circular - Rules during Academic Hours.
+7. Chippa Bhargavaraju (Emp. ID: RNPJA24020)
+   - Designation: Junior Assistant
+   - Official Email: bhargavaraju7@rgukt.ac.in
 
-Dear Students, 
+8. Gunti Balaraju (Emp. ID: RNPJA24008)
+   - Designation: Junior Assistant
+   - Official Email: balugunti1702@rgukt.ac.in
 
-It is to inform all the students that they need to abide by the following rules during academic hours.
+9. Mallareddy Sai Kiran (Emp. ID: RNPJA24009)
+   - Designation: Junior Assistant
+   - Official Email: saikiranmallareddy@rgukt.ac.in
 
-1.     Every student should be inside the classroom by 9:00 am on all working days.
-2.     Should wear a uniform and university ID card.
-3.     Maintaining discipline with fellow students.
-4.     Cell phones and any electronic gadgets are prohibited with immediate effect.
-5.     Damaging University property is an offense. if found, will be held liable for the penalty.
+10. Sampath Banoth (Emp. ID: RNPJA24012)
+    - Designation: Junior Assistant
+    - Official Email: sampathbanoth@rgukt.ac.in
 
-Student needs to adhere to the above points otherwise university will take necessary action. 
+2. OFFICIAL CIRCULAR: RULES DURING ACADEMIC HOURS
+(Issued by: Associate Dean of Engineering & Associate Dean of Sciences & Humanities)
+1. Classroom Timings:
+   - Students of P1 to E3 must be inside their classrooms from 9:00 AM to 1:00 PM in the Morning session, and from 2:00 PM to 5:00 PM in the Afternoon session on all working days. Every student must be inside the classroom by 9:00 AM.
+   - Students of E4 must maintain their time schedule as per their Open Elective classes timetable.
+2. Uniform & Identification: Mandatory to wear university uniform and display university ID card.
+3. Conduct: Maintain discipline with fellow students.
+4. Mobile Phone & Gadget Ban: Mobile phones and any electronic gadgets are strictly prohibited during academic hours with immediate effect.
+5. Property Damage: Damaging university property is an offense; students found responsible are held liable for financial penalties and disciplinary action.
 
-                  Sd/-
-Associate Dean of Engineering.
-
-
-
-Faculty of Academic Section
-Faculty of Academic Section
-Faculty of Academic Section
-Faculty of Academic Section
-Faculty of Academic Section
-Faculty of Academic Section
-
-#	Emp. ID	Name	Designation	Department	Email	Phone	
-9 	RNAS130237 	A. ANAND BABU 	COMPUTER OPERATOR 	Academic Section 	anandarikela@rgukt.ac.in 	— 	
-4 	RNPJA24013 	ABDUL NOUSHAD
-None
-	Jr. Assistant 	Academic Section 	abdulnoushad@rgukt.ac.in 	— 	
-8 	RNAS120207 	ANGOLLA RAMESH 	COMPUTER OPERATOR 	Academic Section 	rameshreddy@rgukt.ac.in 	— 	
-10 	RNAS130267 	B. PRAVEEN REDDY 	COMPUTER OPERATOR 	Academic Section 	praveenreddy@rgukt.ac.in 	— 	
-5 	RNPJA24020 	CHIPPA BHARGAVARAJU
-None
-	Jr. Assistant 	Academic Section 	bhargavaraju7@rgukt.ac.in 	— 	
-1 	RNPJA24008 	GUNTI BALARAJU
-None
-	Jr. Assistant 	Academic Section 	balugunti1702@rgukt.ac.in 	— 	
-2 	RNPJA24009 	MALLAREDDY SAI KIRAN
-None
-	Jr. Assistant 	Academic Section 	saikiranmallareddy@rgukt.ac.in 	— 	
-7 	RNAS100146 	S. SHAILAJA 	DTP MANAGER 	Academic Section 	shailaja@rgukt.ac.in 	— 	
-3 	RNPJA24012 	SAMPATH BANOTH 	Jr. Assistant 	ACADEMIC SECTION 	sampathbanoth@rgukt.ac.in 	— 	
-6 	RNAS100142 	V.A.L.RANGA SAYULU 	STUDIO MANAGER 	Academic Section 	rangasai@rgukt.ac.in 	— 	
-Showing 1–10 of 10 staff
+3. OFFICIAL CIRCULAR: DSW RULES RELATING TO OUTPASS & ACTION FOR FAKE REASONS
+(Issued as per directions of the Director, RGUKT Basar)
+1. Saturday Restriction: No outpass will be issued to students on Saturdays, as Saturday is a regular working day.
+2. Fake Emergency/Medical Claims: Approaching for an outpass without a valid reason is treated as an offense. Any student insisting on emergency or medical outpass without substantial evidence will be treated with serious disciplinary action, resulting in adverse remarks entered into their permanent official records.
+3. Impact: Adverse remarks will directly influence their academic evaluations, university awards, and campus placement opportunities.

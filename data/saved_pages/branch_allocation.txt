@@ -1,32 +1,33 @@
-III. ALLOCATION OF SEATS IN ENGINEERING BRANCHES
-A branch of engineering will be allocated for only those who pass in the 2-Year PUC
-with a minimum CGPA of 6 and above. The allocation of engineering branch shall be
-made on the choice of the students and by resolving based on their performance in
-the PUC as per the following procedure:
-i. Choice of the students in order of preference going up to all 7 choices will be
-collected on-line.
-... 6 ...
-Rajiv Gandhi University of Knowledge Technologies, Basar, Telangana State
-ii. RGUKT will take the overall CGPA of the students who have passed in the PUC by
-meeting the minimum CGPA of >=6 and will put the students in order of merit
-in each of the reserved categories and allocate the seats as per the merit order
-considering the no of seats available in each of the branches for each of the
-categories of reservation.
-In case of tie on account of same CGPA, the tie will be resolved to decide the relative
-ranking based on the following criterion:
-1. Average grade in Mathematics courses of four semesters of PUC.
-2. Next, average grade in Physics courses of four semesters of PUC.
-3. If the tie still persists, candidate older (based on date of birth) will be given
-preference over the younger.
-iii. The no of seats available in Engineering branches will be decided considering
-the total no of students passing the PUC with a minimum CGPA of >=6 (after
-taking the remedial examination after 2nd Semester of 2nd Year PUC into
-consideration) and going by the following ratio (for a total of 1000 seats):
-Chemical Engineering 71/1000 @ 7.1 per 100 seats
-Civil Engineering 143/1000 @ 14.3 per 100 seats
-Computer Science and Engineering 214/1000 @ 21.4 per 100 seats
-Electrical and Electronics Engineering 144/1000 @ 14.4 per 100 seats
-Electronics and Communication Engineering 214/1000 @ 21.4 per 100 seats
-Mechanical Engineering 143/1000 @ 14.3 per 100 seats
-Metallurgical and Materials Engineering 71/1000 @ 7.1 per 100 seats
+Source URL: https://www.rgukt.ac.in/
+Official Ref: RGUKT-B/Rules-Section-III
+=================================================================
 
+III. ALLOCATION OF SEATS IN ENGINEERING BRANCHES — RGUKT BASAR
+
+1. MINIMUM ELIGIBILITY CRITERIA FOR ENGINEERING BRANCH ALLOCATION
+- An engineering branch will be allocated ONLY to those students who pass the 2-Year Pre-University Course (PUC) with a minimum Cumulative Grade Point Average (CGPA) of 6.00 and above (CGPA >= 6.00).
+- The allocation is evaluated considering the remedial examinations after the 2nd Semester of 2nd Year PUC.
+
+2. SEAT ALLOCATION PROCEDURE
+i. Online Preference Collection: Student choices in order of preference (ranking up to all 7 available engineering branches) are collected online.
+ii. Merit & Category Order: RGUKT takes the overall CGPA of all students meeting the minimum CGPA >= 6.00 threshold, arranges them in order of merit within each statutory reservation category, and allocates seats according to merit order and available branch capacity.
+
+3. TIE-BREAKING CRITERIA (IN CASE OF EQUAL CGPA)
+If two or more candidates secure the exact same overall CGPA, the relative ranking tie is resolved sequentially based on:
+1. First Criterion: Average grade point secured in Mathematics courses across all four (4) semesters of PUC.
+2. Second Criterion: Average grade point secured in Physics courses across all four (4) semesters of PUC.
+3. Third Criterion: If the tie still persists, the older candidate (determined by Date of Birth) will be given preference over the younger candidate.
+
+4. SEAT ALLOCATION RATIO ACROSS ENGINEERING BRANCHES (PER 1,000 SEATS)
+The number of available seats across the 7 B.Tech engineering disciplines is allocated in the following official ratio (normalized for a total of 1,000 seats):
+
+S.No | Engineering Discipline                          | Seats per 1,000 Seats | Seats per 100 Seats (%)
+-----|-------------------------------------------------|-----------------------|------------------------
+1    | Computer Science and Engineering (CSE)          | 214 / 1000            | 21.4%
+2    | Electronics and Communication Engineering (ECE) | 214 / 1000            | 21.4%
+3    | Electrical and Electronics Engineering (EEE)    | 144 / 1000            | 14.4%
+4    | Mechanical Engineering (ME)                     | 143 / 1000            | 14.3%
+5    | Civil Engineering (CE)                          | 143 / 1000            | 14.3%
+6    | Chemical Engineering (CHEM)                     | 71 / 1000             | 7.1%
+7    | Metallurgical and Materials Engineering (MME)   | 71 / 1000             | 7.1%
+Total: 1,000 Seats (100%)

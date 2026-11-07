@@ -1,25 +1,50 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Chemistry
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Department-Chemistry
 =================================================================
-Faculty of Chemistry Department
-Faculty of Chemistry Department
-Faculty of Chemistry Department
-Faculty of Chemistry Department
-Faculty of Chemistry Department
 
+DEPARTMENT OF CHEMISTRY (SCIENCES & HUMANITIES) — RGUKT BASAR
+Department Location: Department of Chemistry, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 
-#	Emp. ID	Name	Designation	Department	Email	Phone	
-3 	RTCY160300 	Dr. B. SRINIVAS 	ASSISTANT PROFESSOR 	Chemistry 	srinivas.iiit@rgukt.ac.in 	— 	
-6 	RTCY160317 	Dr. J. KASHANNA
-M. Sc., Ph. D.
-	ASSISTANT PROFESSOR 	Chemistry 	jajulakashanna@rgukt.ac.in 	— 	
-2 	RTCY130241 	Dr. K. PAVANI 	ASSISTANT PROFESSOR 	Chemistry 	kpavani@rgukt.ac.in 	— 	
-4 	RTCY160304 	Dr. R. SHRIKANTH
-Ph.D, M.Sc.
-	ASSISTANT PROFESSOR 	Chemistry 	shrikanthr@rgukt.ac.in 	— 	
-7 	RTCY160335 	Dr. S. VITTAL 	ASSISTANT PROFESSOR 	Chemistry 	vittals123@rgukt.ac.in 	— 	
-5 	RTCY160309 	Dr. SWETHA G 	ASSISTANT PROFESSOR 	Chemistry 	rtcy160309@rgukt.ac.in 	— 	
-9 	RNLA130231 	M. BHUMANNA 	LABORATORY ASSISTANT 	Chemistry 	mekalabhumanna@rgukt.ac.in 	— 	
-1 	RTCY090128 	T. MADHUSUDHAN REDDY 	MENTOR 	Chemistry 	tmsreddy86@rgukt.ac.in 	— 	
-8 	RNLA110165 	T. SHYAM SUNDAR 	LABORATORY ASSISTANT 	Chemistry 	shyamsundar@rgukt.ac.in 	— 	
-Showing 1–9 of 9 staff
+1. DEPARTMENT OVERVIEW
+- Scope: Imparts core and advanced chemistry education for Pre-University Course (PUC-I and PUC-II) and foundational engineering chemistry for all B.Tech disciplines.
+- Total Department Staff: 9 Staff Members (7 Teaching Faculty & Mentors, 2 Technical Laboratory Assistants).
+
+2. TEACHING FACULTY & MENTOR DIRECTORY (WITH EMPLOYEE IDS & QUALIFICATIONS)
+1. Dr. B. Srinivas (Emp. ID: RTCY160300)
+   - Designation: Assistant Professor
+   - Email: srinivas.iiit@rgukt.ac.in
+
+2. Dr. J. Kashanna (Emp. ID: RTCY160317)
+   - Designation: Assistant Professor
+   - Qualifications: M.Sc., Ph.D.
+   - Email: jajulakashanna@rgukt.ac.in
+
+3. Dr. K. Pavani (Emp. ID: RTCY130241)
+   - Designation: Assistant Professor
+   - Email: kpavani@rgukt.ac.in
+
+4. Dr. R. Shrikanth (Emp. ID: RTCY160304)
+   - Designation: Assistant Professor
+   - Qualifications: Ph.D., M.Sc.
+   - Email: shrikanthr@rgukt.ac.in
+
+5. Dr. S. Vittal (Emp. ID: RTCY160335)
+   - Designation: Assistant Professor
+   - Email: vittals123@rgukt.ac.in
+
+6. Dr. Swetha G. (Emp. ID: RTCY160309)
+   - Designation: Assistant Professor
+   - Email: rtcy160309@rgukt.ac.in
+
+7. T. Madhusudhan Reddy (Emp. ID: RTCY090128)
+   - Designation: Mentor
+   - Email: tmsreddy86@rgukt.ac.in
+
+3. NON-TEACHING TECHNICAL LABORATORY STAFF
+1. M. Bhumanna (Emp. ID: RNLA130231)
+   - Designation: Laboratory Assistant
+   - Email: mekalabhumanna@rgukt.ac.in
+
+2. T. Shyam Sundar (Emp. ID: RNLA110165)
+   - Designation: Laboratory Assistant
+   - Email: shyamsundar@rgukt.ac.in

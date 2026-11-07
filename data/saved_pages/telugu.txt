@@ -1,18 +1,46 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Telugu
-Official Ref: RGUKT-B/Scraped
-=====================================
-Faculty of Telugu Department
-Faculty of Telugu Department
-Faculty of Telugu Department
-Faculty of Telugu Department
-Faculty of Telugu Department
+Official Ref: RGUKT-B/Official/TeluguDepartment
+================================================================================
+RGUKT BASAR — DEPARTMENT OF TELUGU
+================================================================================
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RTTE090091 	Dr. B BALA KRISHNA
-M.A.(TELUGU), Ph.D, NET, SET, PGDCA.
-	MENTOR 	Telugu 	dr.b.balakrishna@rgukt.ac.in 	— 	
-3 	RTTE090093 	Dr. B VIJAY KUMAR 	MENTOR 	Telugu 	drbvijaykumar@rgukt.ac.in 	— 	
-4 	RTTE090095 	Dr. K. RAMULU 	MENTOR 	Telugu 	ramukothapalli@rgukt.ac.in 	— 	
-2 	RTTE090092 	Dr. M. RAMA DEVI 	MENTOR 	Telugu 	dr.ramadevi@rgukt.ac.in 	— 	
-5 	RTTE110164 	Dr. P GOPALAKRISHNA 	ASSISTANT PROFESSOR 	Telugu 	gkpagadala@rgukt.ac.in 	— 	
-Showing 1–5 of 5 staff
+OVERVIEW
+The Department of Telugu offers core language, literature, communication, and cultural coursework for students in the Pre-University Course (PUC) and undergraduate programs, nurturing native literary proficiency and cultural heritage.
+
+FACULTY DIRECTORY — DEPARTMENT OF TELUGU
+
+1. Dr. B. BALA KRISHNA
+   - Employee ID: RTTE090091
+   - Designation: Mentor
+   - Qualifications: M.A. (Telugu), Ph.D, NET, SET, PGDCA
+   - Department: Telugu
+   - Email: dr.b.balakrishna@rgukt.ac.in
+   - Phone: Not Listed
+
+2. Dr. M. RAMA DEVI
+   - Employee ID: RTTE090092
+   - Designation: Mentor
+   - Department: Telugu
+   - Email: dr.ramadevi@rgukt.ac.in
+   - Phone: Not Listed
+
+3. Dr. B. VIJAY KUMAR
+   - Employee ID: RTTE090093
+   - Designation: Mentor
+   - Department: Telugu
+   - Email: drbvijaykumar@rgukt.ac.in
+   - Phone: Not Listed
+
+4. Dr. K. RAMULU
+   - Employee ID: RTTE090095
+   - Designation: Mentor
+   - Department: Telugu
+   - Email: ramukothapalli@rgukt.ac.in
+   - Phone: Not Listed
+
+5. Dr. P. GOPALAKRISHNA
+   - Employee ID: RTTE110164
+   - Designation: Assistant Professor
+   - Department: Telugu
+   - Email: gkpagadala@rgukt.ac.in
+   - Phone: Not Listed

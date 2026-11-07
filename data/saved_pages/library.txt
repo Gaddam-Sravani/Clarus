@@ -1,138 +1,77 @@
 Source URL: https://www.rgukt.ac.in/library
 Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Central-Library-Guide
+=================================================================
+CENTRAL LIBRARY & KNOWLEDGE RESOURCE CENTRE — RGUKT BASAR
 =================================================================
 
-Central Library — RGUKT Basar
-Central Library
-Knowledge Resource Centre — RGUKT Basar Campus
-Library
-About
-Collections
-E-Resources
-Services
-Timings
-Library Staff
-Contact
-HUB / ERP Portal
-About the Library
-The Central Library of RGUKT Basar is the premier knowledge resource centre of the university, serving over 9,000 students and faculty. Established alongside the university in 2008, it has grown into a well-equipped facility with a comprehensive collection of textbooks, reference books, journals, and digital resources to support all academic programmes.
-The library is housed in a dedicated building providing a calm and conducive environment for study and research. It subscribes to several national and international databases and provides access to thousands of e-journals and e-books.
-60,000+
-Books & Volumes
-100+
-Print Journals
-10,000+
-E-Books & E-Journals
-Collections
-Text Books
-Prescribed textbooks for all B.Tech and PUC courses across all departments.
-Reference Books
-Advanced reference material for research and self-study.
-Journals & Periodicals
-National and international peer-reviewed journals across all engineering disciplines.
-Theses & Dissertations
-Collection of student project reports and faculty research work.
-E-Resources & Digital Access
-The library provides access to the following national and international digital databases:
-NPTEL
-National Programme on Technology Enhanced Learning — video lectures by IIT/IISc faculty
-SWAYAM
-MOOCs platform for self-learning courses with academic credit
-DELNET
-Developing Library Network — interlibrary loan and resource sharing
-NDL India
-National Digital Library of India — millions of academic resources
-Shodhganga
-Repository of Indian theses and dissertations
-e-ShodhSindhu
-Consortium of e-resources for universities — journals and databases
-Library Services
-Book lending and return (issue/return system)
-Reference and information services
-Internet and computer access
-Photocopying and printing services
-OPAC (Online Public Access Catalogue)
-Book reservation and inter-library loan
-New arrivals notification
-Reading room with individual study carrels
-Borrowing Rules
-Category
-Books
-Duration
-Faculty (Regular)
-10
-30 days
-Faculty (Contract)
-5
-15 days
-PG Students
-5
-15 days
-B.Tech (E3/E4)
-4
-14 days
-B.Tech (E1/E2)
-3
-14 days
-PUC Students
-2
-10 days
-Library Timings
-Monday – Friday
-8:00 AM – 10:00 PM
-Saturday
-8:00 AM – 6:00 PM
-Sunday
-9:00 AM – 5:00 PM
-Exam Period
-Open till midnight
-Timings may vary during holidays. Please check the library notice board.
-Library Staff
-#
-Name
-Designation
-Contact
-Profile
-1
-Dr. K. Aruna Jyothi
-RNAS100137
-Assistant Librarian
-arunajyothi@rgukt.ac.in
-View
-2
-K. Sunitha
-RNTA090117
-Technical Assistant
-sunithakata@rgukt.ac.in
-View
-3
-P. Archana
-RNTA090119
-Technical Assistant
-archanap@rgukt.ac.in
-View
-Contact
-library@rgukt.ac.in
-Central Library Building, RGUKT Basar, Basara, Nirmal – 504107, Telangana
+1. OVERVIEW & INFRASTRUCTURE
+The Central Library of RGUKT Basar was established in 2008 and serves over 9,000 students and faculty members. It is housed in a dedicated building providing study spaces and individual reading carrels.
+- Holdings: 60,000+ Books and Volumes, 100+ Print Journals, and 10,000+ E-Books and E-Journals.
+- Collections: Prescribed textbooks for all PUC and B.Tech engineering branches, advanced reference books, peer-reviewed journals, and student project theses/dissertations.
 
-Librarian/library assistants
-Librarian/library assistants
-Librarian/library assistants
-Librarian/library assistants
+2. DIGITAL RESOURCES & E-LEARNING ACCESS
+The digital library section provides 150+ networked terminals with access to national and international databases:
+- NPTEL: Video lectures by IIT and IISc faculty.
+- SWAYAM: National MOOCs platform for credit-transfer courses.
+- DELNET: Developing Library Network for interlibrary loans and resource sharing.
+- NDL India: National Digital Library of India.
+- Shodhganga: Repository of Indian electronic theses and dissertations.
+- e-ShodhSindhu: University consortium for peer-reviewed research journals.
 
-#	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RNAS100137 	Dr. K. ARUNA JYOTHI 	ASSISTANT LIBRARIAN 	Library 	arunajyothi@rgukt.ac.in 	— 	
-2 	RNTA090117 	K. SUNITHA 	TECHNICAL ASSISTANT 	Library 	sunithakata@rgukt.ac.in 	— 	
-3 	RNTA090119 	P. ARCHANA 	TECHNICAL ASSISTANT 	Library 	archanap@rgukt.ac.in 	— 	
-Showing 1–3 of 3 staff
+3. LIBRARY WORKING HOURS & TIMINGS
+- Monday to Friday (Regular Working Days): 8:00 AM – 10:00 PM
+- Saturday: 8:00 AM – 6:00 PM
+- Sunday: 9:00 AM – 5:00 PM
+- Examination Period: Extended hours, open until midnight (12:00 AM).
+- Library Clearance & Office Hours: 10:00 AM to 5:00 PM (3rd Floor).
+- Note: Timings may vary during holidays; refer to the library notice board.
 
-Dear E4 Students ,
+4. BOOK BORROWING LIMITS & LENDING DURATION
+Category                         | Books Allowed | Lending Duration
+---------------------------------|---------------|-----------------
+Faculty (Regular)                | 10 books       | 30 days
+Faculty (Contract)               | 5 books        | 15 days
+PG Students                      | 5 books        | 15 days
+B.Tech Students (E3 and E4)      | 4 books        | 14 days
+B.Tech Students (E1 and E2)      | 3 books        | 14 days
+PUC Students (PUC-I and PUC-II)  | 2 books        | 10 days
 
-This is a formal reminder to all students of the passedout Batch regarding the mandatory library clearance process before leaving the campus. All borrowed library books must be returned.
-For Late submission Rs.200/- will be charged.
-'No Due' clearance from the library is compulsory. This must be completed before you vacate the campus.
+5. LIBRARY STAFF DIRECTORY
+1. Dr. K. Aruna Jyothi
+   - Employee ID: RNAS100137
+   - Designation: Assistant Librarian
+   - Department: Central Library
+   - Email: arunajyothi@rgukt.ac.in
+   - Phone: Not listed
 
-Timings : 10.00 AM to 5.00 PM 
-Central Library 3rd Floor
+2. K. Sunitha
+   - Employee ID: RNTA090117
+   - Designation: Technical Assistant
+   - Department: Central Library
+   - Email: sunithakata@rgukt.ac.in
+   - Phone: Not listed
 
-Published by: LIBRARY RGUKT 
+3. P. Archana
+   - Employee ID: RNTA090119
+   - Designation: Technical Assistant
+   - Department: Central Library
+   - Email: archanap@rgukt.ac.in
+   - Phone: Not listed
+
+6. RULES, FINES & NO-DUE CLEARANCE PROCESS
+- Book Returns & Late Fine: A fine of Rs. 200/- is charged for late submission of borrowed books.
+- Mandatory 'No Due' Clearance: Obtaining a 'No Due' clearance certificate from the Central Library is compulsory for all graduating or exiting students before vacating the campus.
+- Clearance Desk Location: Central Library Building, 3rd Floor.
+- Official Contact Email: library@rgukt.ac.in
+- Campus Address: Central Library Building, RGUKT Basar, Basara, Nirmal District, Telangana – 504107.
+
+7. LIBRARY SERVICES AVAILABLE
+- Book lending and return (issue/return system)
+- Reference and information services
+- Internet and computer access
+- Photocopying and printing services
+- OPAC (Online Public Access Catalogue)
+- Book reservation and inter-library loan
+- New arrivals notification
+- Reading room with individual study carrels

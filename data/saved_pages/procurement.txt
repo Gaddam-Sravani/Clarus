@@ -1,40 +1,42 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Procurement
-Official Ref: RGUKT-B/Scraped
-==============================
+Official Ref: RGUKT-B/Admin-Procurement-Stores
+=================================================================
 
-faculty of Procurement
-faculty of Procurement
-faculty of Procurement
-faculty of Procurement
-faculty of Procurement
+PROCUREMENT, CENTRAL STORES & PURCHASE SECTION DIRECTORY — RGUKT BASAR
+Department Location: Stores & Purchase / Procurement Cell, Administrative Block, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RNPJA24002 	GANDLA VENKATA BHAGEERATH 	Jr. Assistant 	Procurement 	bhageerath@rgukt.ac.in 	— 	
-2 	RNPJA24021 	JAGATI MANIKANTA AKHILESH
-None
-	Jr. Assistant 	Procurement 	akhileshjm@rgukt.ac.in 	— 	
-Showing 1–2 of 2 staff
+1. GENERAL PROCUREMENT STAFF
+1. Gandla Venkata Bhageerath (Emp. ID: RNPJA24002)
+   - Designation: Junior Assistant
+   - Department: Procurement
+   - Official Email: bhageerath@rgukt.ac.in
 
-faculty of Procurement-Central Stores
-faculty of Procurement-Central Stores
-faculty of Procurement-Central Stores
-faculty of Procurement-Central Stores
-faculty of Procurement-Central Stores
+2. Jagati Manikanta Akhilesh (Emp. ID: RNPJA24021)
+   - Designation: Junior Assistant
+   - Department: Procurement
+   - Official Email: akhileshjm@rgukt.ac.in
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RNPJA24001 	KUDIRE NAGARAJU
-B-Tech
-	Jr. Assistant 	Procurement - Central Stores 	kudirenagaraju@rgukt.ac.in 	— 	
-3 	RNTA090125 	Sk. HIMAM SAHEB 	TECHNICAL ASSISTANT 	Procurement - Central Stores 	himam.sk@rgukt.ac.in 	— 	
-2 	RNTA090115 	VELPULA THIRUPATHI 	TECHNICAL ASSISTANT 	Procurement - Central Stores 	thirupathiyadav@rgukt.ac.in 	— 	
-Showing 1–3 of 3 staff
 
-faculty of Procurement-Section
-faculty of Procurement-Section
-faculty of Procurement-Section
-faculty of Procurement-Section
-faculty of Procurement-Section
+2. PROCUREMENT - CENTRAL STORES STAFF
+1. Kudire Nagaraju (Emp. ID: RNPJA24001)
+   - Designation: Junior Assistant
+   - Qualifications: B.Tech
+   - Department: Procurement - Central Stores
+   - Official Email: kudirenagaraju@rgukt.ac.in
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-1 	RNTA080079 	K. VENKATESHWAR REDDY 	TECHNICAL ASSISTANT 	Procurement Section 	kvreddy@rgukt.ac.in 	— 	
-Showing 1–1 of 1 staff
+2. Sk. Himam Saheb (Emp. ID: RNTA090125)
+   - Designation: Technical Assistant
+   - Department: Procurement - Central Stores
+   - Official Email: himam.sk@rgukt.ac.in
+
+3. Velpula Thirupathi (Emp. ID: RNTA090115)
+   - Designation: Technical Assistant
+   - Department: Procurement - Central Stores
+   - Official Email: thirupathiyadav@rgukt.ac.in
+
+
+3. PROCUREMENT SECTION STAFF
+1. K. Venkateshwar Reddy (Emp. ID: RNTA080079)
+   - Designation: Technical Assistant
+   - Department: Procurement Section
+   - Official Email: kvreddy@rgukt.ac.in

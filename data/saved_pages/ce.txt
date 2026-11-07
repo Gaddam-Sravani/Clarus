@@ -1,77 +1,153 @@
 Source URL: https://www.rgukt.ac.in/department/ce
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF CIVIL ENGINEERING — RGUKT BASAR
+=================================================================
 
-Civil Engineering — RGUKT Basar
-DEPARTMENT OF CIVIL ENGINEERING
-20
-Faculty Members
-5
-Laboratories
-In This Department
-About
-Vision & Mission
-HOD's Message
-Contact HOD
-Teaching Faculty
-Non-Teaching Staff
-Programmes
-Laboratories
-Quick Links
-Curriculum
-Staff List
-Lab Manuals
-Research Publications
-Gallery
-All Faculty
-About the Department
-The Department of Civil Engineering at RGUKT has continuously upgraded itself in terms of academic programmes and laboratory facilities. The department attracts students passionate about engineering and architecture, providing practical implementation of academic subjects alongside internship projects.
-Vision & Mission
-Vision
-The Vision of the department is to become a leading center of excellence in Civil Engineering education which will be highly recognized at national and international levels as well as contributing to the technology for the sustainable development of the society.
-Mission
-The mission of the Department of Civil Engineering is to provide quality education to prepare nationally competitive undergraduate students for a successful career in civil engineering. To provide advanced skills and knowledge in state-of-the-art research and design in subareas of civil engineering for undergraduate students. Serving as a reliable, highly capable resource for society, the profession, and the university through activities in professional organizations, campus committees, consultancy and continuing education.
-HOD's Message
-Department of Civil engineering at RGUKT Basar was continuously upgrading itself in terms of the academic programs and infrastructural facilities including the laboratories, since its inception in 2010. We have highly qualified and experienced faculty from reputed institutions to enrich the students technically. We also have sophisticated and advanced laboratories to impart practical knowledge for the students. Our department consists of around 600 students, 10+ faculty and 10 laboratories. The department conducts events like Engineers day, workshops, training programs and field visits. We encourage our students to take part in various project internships and finishing school programs offered by the state Government. Our students have made us really proud by working in public sector and various multinational companies. We would be happy to receive any kind of suggestions from your side.
-— Shaik Khaleel
-Civil Engineering, RGUKT Basar
-Contact HOD
-Shaik Khaleel
-Head of Department — Civil Engineering
-hod.ce@rgukt.ac.in
-DEPARTMENT OF CIVIL ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-5 	RTCE160339 	BONALA SNEHA
-(Ph.D.),OU, M.Tech,B.Tech
-	ASSISTANT PROFESSOR 	Civil Engineering 	sneha.iiit@rgukt.ac.in 	— 	
-13 	RNLT110187 	Ch. BALIRAM 	LABORATORY TECHNICIAN 	Civil Engineering 	baliramchavhan@rgukt.ac.in 	— 	
-3 	RTCE120214 	Dr. VINOD B 	ASSISTANT PROFESSOR 	Civil Engineering 	vinod@rgukt.ac.in 	— 	
-14 	RNLT110188 	J. RAJENDHAR 	LABORATORY TECHNICIAN 	Civil Engineering 	RajenderJadi@rgukt.ac.in 	— 	
-12 	RNLA130238 	J.V.D.V.BALA BHASKAR 	LABORATORY ASSISTANT 	Civil Engineering 	saibalabhaskarjakka@rgukt.ac.in 	— 	
-9 	RNLA110186 	K. SARIKA 	LABORATORY ASSISTANT 	Civil Engineering 	kuthurusarika@rgukt.ac.in 	— 	
-10 	RNLA130230 	N. MOTHILAL 	LABORATORY ASSISTANT 	Civil Engineering 	mothilalnayak@rgukt.ac.in 	— 	
-1 	RTPCE16001 	RANADHEER SAGI 	ASSISTANT PROFESSOR 	Civil Engineering 	ranadheersagi@rgukt.ac.in 	— 	
-11 	RNLA130233 	S. SUDHIR KUMAR
-Btech
-	LABORATORY ASSISTANT 	Civil Engineering 	sadinenisudhir@rgukt.ac.in 	— 	
-6 	RTCE170356 	SHAIK KHALEEL
-M.Tech,(Ph.D)
-	ASSISTANT PROFESSOR 	Civil Engineering 	khaleel.ceiiitb@rgukt.ac.in 	— 	
-4 	RTCE160324 	SHAIK VAHEED 	ASSISTANT PROFESSOR 	Civil Engineering 	vaheed.civil@rgukt.ac.in 	— 	
-7 	RTCE170362 	SHANKER. M
-M.Tech (NIT-Warangal)
-	ASSISTANT PROFESSOR 	Civil Engineering 	shankermetri900@rgukt.ac.in 	— 	
-2 	RTPCE16016 	T. SHANTI JAGADEESWARI 	ASSISTANT PROFESSOR 	Civil Engineering 	santhi@rgukt.ac.in 	— 	
-8 	RTCE170367 	VENNU ANUSHA 	ASSISTANT PROFESSOR 	Civil Engineering 	vennu.anusha@rgukt.ac.in 	— 	
-Showing 1–14 of 14 staff
-Academic Programmes
-B.Tech
-Laboratories
-Environmental Engineering Laboratory
-Engineering Drawing & Graphics Lab
-Computational Analysis Laboratory
-Surveying Laboratory
-Transportation Engineering Laboratory
+OVERVIEW & METRICS
+- Inception: 2010
+- Academic Programmes: B.Tech
+- Faculty Strength: 20 faculty members indicated in department header (10+ faculty noted in HOD message)
+- Student Body: Around 600 students
+- Laboratories: 5 laboratories indicated in department header (10 laboratories noted in HOD message)
+- Activities & Training:
+  - Practical implementation of academic subjects alongside internship projects.
+  - Events conducted: Engineers Day, workshops, training programs, and field visits.
+  - State Government finishing school programs and project internships.
+
+VISION & MISSION
+- Vision:
+  The Vision of the department is to become a leading center of excellence in Civil Engineering education which will be highly recognized at national and international levels as well as contributing to the technology for the sustainable development of the society.
+- Mission:
+  The mission of the Department of Civil Engineering is to provide quality education to prepare nationally competitive undergraduate students for a successful career in civil engineering. To provide advanced skills and knowledge in state-of-the-art research and design in subareas of civil engineering for undergraduate students. Serving as a reliable, highly capable resource for society, the profession, and the university through activities in professional organizations, campus committees, consultancy and continuing education.
+
+HOD'S MESSAGE
+"Department of Civil engineering at RGUKT Basar was continuously upgrading itself in terms of the academic programs and infrastructural facilities including the laboratories, since its inception in 2010. We have highly qualified and experienced faculty from reputed institutions to enrich the students technically. We also have sophisticated and advanced laboratories to impart practical knowledge for the students. Our department consists of around 600 students, 10+ faculty and 10 laboratories. The department conducts events like Engineers day, workshops, training programs and field visits. We encourage our students to take part in various project internships and finishing school programs offered by the state Government. Our students have made us really proud by working in public sector and various multinational companies. We would be happy to receive any kind of suggestions from your side."
+— Shaik Khaleel, Civil Engineering, RGUKT Basar
+
+CONTACT HOD
+- Name: Shaik Khaleel
+- Designation: Head of Department — Civil Engineering
+- Email: hod.ce@rgukt.ac.in
+- Address: DEPARTMENT OF CIVIL ENGINEERING, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+TEACHING & NON-TEACHING STAFF DIRECTORY
+
+1. SHAIK KHALEEL
+   - Emp. ID: RTCE170356
+   - Designation: ASSISTANT PROFESSOR (Head of Department)
+   - Qualifications: M.Tech,(Ph.D)
+   - Department: Civil Engineering
+   - Email: khaleel.ceiiitb@rgukt.ac.in (HOD Email: hod.ce@rgukt.ac.in)
+   - Phone: Not listed
+
+2. BONALA SNEHA
+   - Emp. ID: RTCE160339
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: (Ph.D.),OU, M.Tech,B.Tech
+   - Department: Civil Engineering
+   - Email: sneha.iiit@rgukt.ac.in
+   - Phone: Not listed
+
+3. Dr. VINOD B
+   - Emp. ID: RTCE120214
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: vinod@rgukt.ac.in
+   - Phone: Not listed
+
+4. RANADHEER SAGI
+   - Emp. ID: RTPCE16001
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: ranadheersagi@rgukt.ac.in
+   - Phone: Not listed
+
+5. SHAIK VAHEED
+   - Emp. ID: RTCE160324
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: vaheed.civil@rgukt.ac.in
+   - Phone: Not listed
+
+6. SHANKER. M
+   - Emp. ID: RTCE170362
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech (NIT-Warangal)
+   - Department: Civil Engineering
+   - Email: shankermetri900@rgukt.ac.in
+   - Phone: Not listed
+
+7. T. SHANTI JAGADEESWARI
+   - Emp. ID: RTPCE16016
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: santhi@rgukt.ac.in
+   - Phone: Not listed
+
+8. VENNU ANUSHA
+   - Emp. ID: RTCE170367
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: vennu.anusha@rgukt.ac.in
+   - Phone: Not listed
+
+9. Ch. BALIRAM
+   - Emp. ID: RNLT110187
+   - Designation: LABORATORY TECHNICIAN
+   - Qualifications: Not listed
+   - Department: Civil Engineering
+   - Email: baliramchavhan@rgukt.ac.in
+   - Phone: Not listed
+
+10. J. RAJENDHAR
+    - Emp. ID: RNLT110188
+    - Designation: LABORATORY TECHNICIAN
+    - Qualifications: Not listed
+    - Department: Civil Engineering
+    - Email: RajenderJadi@rgukt.ac.in
+    - Phone: Not listed
+
+11. J.V.D.V.BALA BHASKAR
+    - Emp. ID: RNLA130238
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Civil Engineering
+    - Email: saibalabhaskarjakka@rgukt.ac.in
+    - Phone: Not listed
+
+12. K. SARIKA
+    - Emp. ID: RNLA110186
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Civil Engineering
+    - Email: kuthurusarika@rgukt.ac.in
+    - Phone: Not listed
+
+13. N. MOTHILAL
+    - Emp. ID: RNLA130230
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Not listed
+    - Department: Civil Engineering
+    - Email: mothilalnayak@rgukt.ac.in
+    - Phone: Not listed
+
+14. S. SUDHIR KUMAR
+    - Emp. ID: RNLA130233
+    - Designation: LABORATORY ASSISTANT
+    - Qualifications: Btech
+    - Department: Civil Engineering
+    - Email: sadinenisudhir@rgukt.ac.in
+    - Phone: Not listed
+
+LABORATORIES
+1. Environmental Engineering Laboratory
+2. Engineering Drawing & Graphics Lab
+3. Computational Analysis Laboratory
+4. Surveying Laboratory
+5. Transportation Engineering Laboratory

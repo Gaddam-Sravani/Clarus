@@ -1,15 +1,16 @@
-VIII. AWARD OF DEGREE
-RGUKT admits the selected candidates after their 10th class into the 6 - year integrated
-undergraduate engineering programme involving the combination of a Pre-University
-course (PUC) and a Bachelor’s degree in Technology (B.Tech). All the students are
-expected to complete the full 6-year programme successfully. The students will get a
-PUC degree on successful completion of the 2-Year PUC programme and will get the
-B.Tech degree upon the successful completion of the 4-Year B.Tech programme.
-Award of Gold Medal
-i. A student securing highest CGPA in B.Tech programme in single attempt is
-eligible for award of University Gold Medal.
-... 21 ...
-RULES AND REGULATIONS - For the Six Year Integrated B.Tech Programme
-ii. A student securing highest CGPA in B.Tech programme in single attempt in the
-respective Engineering Discipline is eligible for award of Branch Wise Gold Medal.
+Source URL: https://www.rgukt.ac.in/
+Official Ref: RGUKT-B/Rules-Section-VIII
+=================================================================
 
+VIII. AWARD OF DEGREE & UNIVERSITY GOLD MEDALS — RGUKT BASAR
+
+1. AWARD OF UNDERGRADUATE DEGREES
+- 6-Year Integrated Structure: Selected candidates after 10th class enter the 6-year integrated undergraduate engineering programme combining a 2-Year Pre-University Course (PUC) and a 4-Year Bachelor of Technology (B.Tech).
+- PUC Degree Award: Students are officially awarded a PUC Certificate/Degree upon successful completion of the 2-Year PUC programme (all 4 semesters).
+- B.Tech Degree Award: Students are officially awarded the Bachelor of Technology (B.Tech) degree upon successful completion of the 4-Year B.Tech programme across their allocated engineering discipline.
+
+2. AWARD OF UNIVERSITY GOLD MEDALS (CRITERIA & ELIGIBILITY)
+i. University Gold Medal (Overall Topper):
+   - Eligibility: Awarded to the student securing the highest Cumulative Grade Point Average (CGPA) across the entire B.Tech programme in a single attempt.
+ii. Branch-Wise Gold Medal (Department Toppers):
+   - Eligibility: Awarded to the student securing the highest CGPA in the B.Tech programme in a single attempt within their respective Engineering Discipline (CSE, ECE, EEE, ME, CE, CHEM, MME).

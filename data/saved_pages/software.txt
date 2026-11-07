@@ -1,19 +1,34 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Software+Development+Cell
-Official Ref: RGUKT-B/Scraped
-=========================================
-Staff of Software development cell
-Staff of Software development cell
-Staff of Software development cell
-Staff of Software development cell
-Staff of Software development cell
+Official Ref: RGUKT-B/Official/SoftwareDevelopmentCell
+================================================================================
+RGUKT BASAR — SOFTWARE DEVELOPMENT CELL (SDC)
+================================================================================
 
+OVERVIEW
+The Software Development Cell (SDC) at RGUKT Basar is responsible for institutional software systems, web application development, internal portals, academic examination platforms, and enterprise software engineering services across the university.
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-2 	— 	B KRISHNA
-MSIT
-	SOFTWARE ENGINEER/PROGRAMMER 	Software Development Cell 	b.krishna2020@rgukt.ac.in 	— 	
-1 	— 	BATTU MAHENDHER
-B.Tech
-	Jr. Assistant 	Software Development Cell 	battumahendher@rgukt.ac.in 	— 	
-3 	— 	SUNITHA VEMULA 	SOFTWARE ENGINEER/PROGRAMMER 	Software Development Cell 	sunithavemula@rgukt.ac.in 	— 	
-Showing 1–3 of 3 staff
+STAFF DIRECTORY — SOFTWARE DEVELOPMENT CELL
+
+1. BATTU MAHENDHER
+   - Employee ID: Not Listed
+   - Designation: Junior Assistant (Jr. Assistant)
+   - Qualifications: B.Tech
+   - Department: Software Development Cell
+   - Email: battumahendher@rgukt.ac.in
+   - Phone: Not Listed
+
+2. B. KRISHNA
+   - Employee ID: Not Listed
+   - Designation: Software Engineer / Programmer
+   - Qualifications: MSIT
+   - Department: Software Development Cell
+   - Email: b.krishna2020@rgukt.ac.in
+   - Phone: Not Listed
+
+3. SUNITHA VEMULA
+   - Employee ID: Not Listed
+   - Designation: Software Engineer / Programmer
+   - Qualifications: Not Listed
+   - Department: Software Development Cell
+   - Email: sunithavemula@rgukt.ac.in
+   - Phone: Not Listed

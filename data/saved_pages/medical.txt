@@ -1,34 +1,53 @@
 Source URL: https://www.rgukt.ac.in/hospital.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Campus-Health-Centre
 =================================================================
 
-Hospital / Medical Unit — RGUKT Basar
-Hospital / Medical Unit
-Hospital Unit
-About
-People
-Medicine Information
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Medical Centre
-RGUKT provides its students and staff with primary health facilities and basic medical support. A medical centre with the required facilities is available within the campus.
-The medical staff is available
-24 hours
-in the campus. Housekeeping staff maintains strict cleanliness in the hospital. Ambulance services are provided by the Institute to attend to emergency cases and also when more critical cases need to be taken to secondary or tertiary medical centres.
-Facilities Available
-30 beds
-5 doctors
-5 nurses and other medical staff (pharmacist, medical assistants, etc.)
-Pharmacy
-Dispensary
-Mini operation theatre
-On-campus ambulance services
+CAMPUS HOSPITAL & MEDICAL HEALTH CENTRE — RGUKT BASAR
+Location: Health Centre / Campus Hospital, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+1. MEDICAL CENTRE INFRASTRUCTURE & 24/7 EMERGENCY SERVICES
+- Service Availability: 24-hour medical staff and healthcare support available within the campus for all students and staff.
+- Hospital Bed Capacity: 30 beds.
+- Clinical Team: 5 Doctors, 5 Nurses, Pharmacists, and Medical Assistants.
+- Facilities Available:
+  * In-house Pharmacy
+  * Dispensary
+  * Mini Operation Theatre (OT)
+  * On-Campus 24/7 Ambulance Services: Provided by the Institute to attend to emergency cases and transport critical patients to secondary or tertiary hospitals in Nizamabad, Nirmal, or Hyderabad.
+  * Housekeeping: Strict hygiene and daily hospital cleanliness maintained.
+
+2. HEALTH CENTRE MEDICAL & ADMINISTRATIVE STAFF DIRECTORY
+1. Ushasri Kaliveti (Emp. ID: RNPJA24016)
+   - Designation: Junior Assistant
+   - Department: Health Centre
+   - Official Email: ushasri@rgukt.ac.in
+
+2. Ch. Anitha (Emp. ID: RNHS100138)
+   - Designation: Pharmacist
+   - Department: Health Centre
+   - Official Email: anithachimulla@rgukt.ac.in
+
+3. R. Ajay (Emp. ID: RNHS140271)
+   - Designation: Pharmacist
+   - Department: Health Centre
+   - Official Email: ajay.pharmacist@rgukt.ac.in
+
+4. E. Gangamani (Emp. ID: RNHS130236)
+   - Designation: Staff Nurse
+   - Department: Health Centre
+   - Official Email: Gangamani.e@rgukt.ac.in
+
+5. R. Ganga Veni (Emp. ID: RNHS120206)
+   - Designation: Staff Nurse
+   - Department: Health Centre
+   - Official Email: gangavenirenjarla@rgukt.ac.in
+
+6. V. Ruth (Emp. ID: RNHS130234)
+   - Designation: Staff Nurse
+   - Department: Health Centre
+   - Official Email: ruth.vj@rgukt.ac.in
+
+7. T. Sainath (Emp. ID: RNHS100139)
+   - Designation: Medical Dresser
+   - Department: Health Centre
+   - Official Email: Sainath.thota@rgukt.ac.in

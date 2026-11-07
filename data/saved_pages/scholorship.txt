@@ -1,24 +1,53 @@
 Source URL: https://www.rgukt.ac.in/faculty-directory?dept=Scholorship+Section
-Official Ref: RGUKT-B/Scraped
-=====================================
+Official Ref: RGUKT-B/Official/ScholarshipSection
+================================================================================
+RGUKT BASAR — SCHOLARSHIP SECTION (SCHOLORSHIP SECTION)
+================================================================================
 
-Staff of scholorship section 
-Staff of scholorship section 
-Staff of scholorship section 
-Staff of scholorship section 
-Staff of scholorship section 
+OVERVIEW
+The Scholarship Section handles government and institutional scholarships, fee reimbursements (e.g., ePASS / TS ePASS), student financial aid processing, and verification for eligible students across PUC and B.Tech programs.
 
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-4 	RNTA090116 	B. SWETHA
-M.Sc(IT), PGDIT
-	TECHNICAL ASSISTANT 	Scholorship Section 	swethabandla@rgukt.ac.in 	— 	
-2 	RNTA090106 	D. CHINNA REDDY 	TECHNICAL ASSISTANT 	Scholorship Section 	chinnareddydhadi@rgukt.ac.in 	— 	
-5 	RNTA090118 	K. SWAPNA
-None
-	TECHNICAL ASSISTANT 	Scholorship Section 	swapnakaithi@rgukt.ac.in 	— 	
-1 	RNPJA24015 	MARTA SYAM SUNDAR
-None
-	Jr. Assistant 	Scholorship Section 	syamsundar.marta@rgukt.ac.in 	— 	
-6 	RNTA090123 	P. HIMABINDU 	TECHNICAL ASSISTANT 	Scholorship Section 	himabindureddy@rgukt.ac.in 	— 	
-3 	RNTA090108 	SAMEENA BEGUM 	TECHNICAL ASSISTANT 	Scholorship Section 	sameenamohd@rgukt.ac.in 	— 	
-Showing 1–6 of 6 staff
+STAFF DIRECTORY — SCHOLARSHIP SECTION
+
+1. MARTA SYAM SUNDAR
+   - Employee ID: RNPJA24015
+   - Designation: Junior Assistant (Jr. Assistant)
+   - Department: Scholarship Section
+   - Email: syamsundar.marta@rgukt.ac.in
+   - Phone: Not Listed
+
+2. D. CHINNA REDDY
+   - Employee ID: RNTA090106
+   - Designation: Technical Assistant
+   - Department: Scholarship Section
+   - Email: chinnareddydhadi@rgukt.ac.in
+   - Phone: Not Listed
+
+3. SAMEENA BEGUM
+   - Employee ID: RNTA090108
+   - Designation: Technical Assistant
+   - Department: Scholarship Section
+   - Email: sameenamohd@rgukt.ac.in
+   - Phone: Not Listed
+
+4. B. SWETHA
+   - Employee ID: RNTA090116
+   - Designation: Technical Assistant
+   - Qualifications: M.Sc (IT), PGDIT
+   - Department: Scholarship Section
+   - Email: swethabandla@rgukt.ac.in
+   - Phone: Not Listed
+
+5. K. SWAPNA
+   - Employee ID: RNTA090118
+   - Designation: Technical Assistant
+   - Department: Scholarship Section
+   - Email: swapnakaithi@rgukt.ac.in
+   - Phone: Not Listed
+
+6. P. HIMABINDU
+   - Employee ID: RNTA090123
+   - Designation: Technical Assistant
+   - Department: Scholarship Section
+   - Email: himabindureddy@rgukt.ac.in
+   - Phone: Not Listed

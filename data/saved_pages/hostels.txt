@@ -1,43 +1,87 @@
 Source URL: https://www.rgukt.ac.in/hostels.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Hostel-Rules-and-Facilities
 =================================================================
 
-Hostels — RGUKT Basar
-Hostels
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Hostel Facility
-The residential nature of RGUKT — where students come from a geographically distributed wide area and would not be able to commute to the campus daily — makes it necessary to provide hostel facilities for all students.
-RGUKT, Basar has a total of
-6 hostel blocks
-— 3 each for boys and girls separately. Between them, the hostel buildings can accommodate approximately
-8,000 students
-.
-Administration
-Each hostel is provided with a caretaker to look after students' problems. The welfare of students is monitored by a group of wardens who all report to a
-Chief Warden
-. There are separate wardens and chief wardens for girls and boys.
-Room Amenities
-Every room in the hostel is fitted with fans and lighting. Each student is provided with:
-A cot with a mattress
-Bed sheets and pillows
-Towels
-Sports and regular uniforms
-Shared Facilities
-Common washing and toilet areas in each wing
-Daily cleaning by housekeeping staff for a clean and hygienic environment
-Special halls in each hostel for reading and recreation
-Shuttle court at the centre of each hostel building for recreation
-Wi-Fi Connectivity
-A notable feature of the hostels is that they are
-completely Wi-Fi enabled
-, albeit with controlled access. This ensures students find no interruption in their efforts to acquire knowledge and keep up with class work and assignments.
+HOSTEL FACILITIES, RULES & REGULATIONS, AND OUT-PASS GUIDELINES — RGUKT BASAR
+
+1. HOSTEL INFRASTRUCTURE & CAPACITY
+- Campus Structure: Fully residential campus.
+- Capacity & Blocks: 6 hostel blocks in total (3 blocks for boys and 3 blocks for girls), accommodating approximately 8,000 students.
+- Administration: Supervised by caretakers, wardens, and Chief Wardens reporting to the Associate Dean of Student Welfare (ADSW).
+- Room Amenities Provided: Each room is fitted with fans and lighting. Every student is provided with:
+  * A cot with a mattress
+  * Bed sheets and pillows
+  * Towels
+  * Sports and regular uniforms
+- Shared Facilities: Common washing and hygienic toilet areas in each wing, daily housekeeping, dedicated reading and recreation halls, and a shuttle badminton court at the centre of each hostel block.
+- Wi-Fi Access: Completely Wi-Fi enabled with controlled, monitored educational access.
+
+2. HOSTEL DISCIPLINE & DAILY TIMINGS
+1. Movement Register: All movements to and from hostels must be recorded and signed in the register with the security guard at the hostel entrance.
+2. Night Attendance (10:00 PM – 10:30 PM):
+   * Girls Hostel: Mandatory attendance recorded every day between 10:00 PM and 10:30 PM.
+   * Boys Hostel: All hostellers must be present in their respective rooms with doors kept open between 10:00 PM and 10:30 PM for roll call verification by Wardens/Supervisors.
+3. Room Changes: Changing rooms without approval is strictly prohibited; permitted only after the Chief Warden's written approval.
+4. Inspections & Prohibited Items: Authorities conduct surprise checks. Possession of liquor, alcohol, drugs, narcotics, gambling cards, lethal weapons, or any instrument likely to cause physical harm is strictly prohibited and results in immediate rustication/police intimation. Students are prohibited from entering campus intoxicated.
+5. Silence Hours: Strict silence must be maintained in rooms, bathrooms, corridors, and dining halls.
+6. Prohibited Celebrations: Celebrating birthday parties inside the campus is strictly prohibited.
+7. Electrical Equipment Bans: Air coolers, musical instruments, cassette players, computers, TVs, electric irons, or cooking appliances are strictly prohibited and will be confiscated. Cooking in rooms is forbidden.
+8. Summer Vacation: All students (Boys & Girls) must vacate rooms before leaving for summer vacation.
+9. Motor Vehicles: Use of cars, motorcycles, scooters, or mopeds by students is strictly prohibited inside college/hostel premises.
+10. Academic Hours Restriction: Students are strictly not permitted to remain in hostel rooms, grounds, or the shopping complex during academic hours.
+11. Maintenance Complaints: Electrical, carpentry, and plumbing complaints must be written in the complaint register at the Chief Warden's office.
+
+3. DIGITAL USAGE & GADGET POLICIES
+- Laptop Usage: Permitted for academic purposes only; must not cause disturbance beyond silent hours.
+- Internet Limit: External internet access is limited to 100 MB per student per day (usage does not count local server content like lecture notes, video lectures, and internal email). Monitored facility; non-educational browsing results in suspension. Sharing account passwords is strictly prohibited.
+- Mobile Phones: Ordinary mobile phones are permitted, but strictly prohibited inside classrooms, exam halls, labs, library, offices, and during hostel silence hours.
+
+4. GUEST & PARENT VISITING RULES
+- Overnight Guests: Guests are not permitted to stay in hostels. Parents may request temporary accommodation through the warden subject to availability on payment of nominal charges.
+- Visiting Days & Hours: Parents/guardians are permitted to meet their children ONLY on Sundays between 9:00 AM and 7:00 PM.
+- Visiting Location: Parents must remain outside the hostel entrance and show their ID card. Entry into student rooms/blocks is forbidden. Unaccompanied relatives/friends are not permitted.
+
+5. MESS & DINING RULES
+1. Food must be taken only in the allotted mess.
+2. Identity Card: Must be produced at the dining hall for breakfast, lunch, snacks/tea, and dinner.
+3. Utensils & Property: Chairs, tables, plates, stainless steel tumblers, and spoons must not be removed from the dining hall. Kitchens are strictly out of bounds.
+4. Sick Students: Served mess food in their room only if registered with the warden.
+5. Damage Recovery Policy:
+   * Identified Individual/Group: Double the replacement cost recovered from them.
+   * Inside a Room (Unidentified): Double the cost recovered from all roommates collectively.
+   * Common Areas (Corridors, Mess, Bathrooms): Double the cost recovered floor-wise, block-wise, or hostel-wide, and culprits expelled.
+
+6. HEALTHCARE EMERGENCIES
+- 24-hour campus medical facility available.
+- Inpatient referral to an outside hospital must be reported to the Chief Warden immediately.
+
+7. GUIDELINES FOR ISSUE OF OUT-PASS
+- General Rules:
+  * Issued by the Security Officer only upon recommendation of the concerned Warden.
+  * Campus Check-out Hours: 6:00 AM to 6:00 PM (Students are not permitted to leave campus between 7:00 PM and 6:00 AM).
+  * Out-pass office timings: 4:00 PM to 6:00 PM (Closed on Sundays and holidays).
+  * Visiting temples is not a valid ground for out-pass.
+  * Permitted home visit periods: Dasara, Sankranthi, semester breaks, and summer vacation only.
+- Out-Pass Categories & Approval Table:
+
+Particulars               | General Purpose Out-Pass                                                      | Academic-Related Out-Pass                                          | Emergency Out-Pass
+--------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------
+Valid Reasons             | Urgent home visit, shopping, doctor consult, government certificates, functions| Paper presentation, workshops, seminars, project work, placements | Severe illness, death in family, funeral attendance
+Application Time          | Apply 48 hours in advance                                                     | Apply 48 hours in advance                                          | Issued as and when needed
+Initial Approval          | Concerned Warden / Hostel Supervisor                                          | HOD / Project Guide / Placement Officer                           | Campus Doctor / Warden
+Second Level Approval     | Concerned Warden / Hostel Supervisor                                          | Concerned Warden / Hostel Supervisor                              | Concerned Warden / Hostel Supervisor
+Final Approval            | Security Officer / Authorized person                                          | Security Officer / Authorized person                              | Security Officer / Authorized person
+Check-out Timings         | 6:00 AM to 6:00 PM                                                            | 6:00 AM to 6:00 PM                                                | Round the clock (24 hours)
+Minors (P1, P2, E1)       | Mandatory parent/guardian consent; parent must come in person with ID card    | Mandatory parent/guardian consent                                  | Mandatory parent/guardian consent
+Girl Students (E2, E3, E4)| Self-declaration required                                                     | Group declaration required                                         | Self-declaration required
+Semester Limit            | Maximum 5 times per semester                                                  | As per need                                                        | As per need
+
+8. ANTI-RAGGING WARNING (CLAUSE 63)
+Ragging in any form (making unpleasant noise, disorderly conduct, physical/psychological harm, teasing, abusing, or forcing tasks) is strictly forbidden and punishable by immediate expulsion, fine, and police prosecution.
+
+9. EMERGENCY HOSTEL CONTACT DIRECTORY
+- Associate Dean (Student Welfare - ADSW): 9492301902
+- Chief Warden: 9492303856
+- Additional Chief Warden (PUC Girls): 9502899683
+- Additional Chief Warden (Engineering Girls): 8985025016
+- Additional Chief Warden (Boys): 9441152800

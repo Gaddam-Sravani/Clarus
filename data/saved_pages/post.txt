@@ -1,37 +1,26 @@
 Source URL: https://www.rgukt.ac.in/post-office.html
-Official Ref: RGUKT-B/Scraped
+Official Ref: RGUKT-B/Campus-Post-Office
 =================================================================
-Post Office — RGUKT Basar
-Post Office
-Facilities
-Hostels
-Conference Halls
-Counseling Center
-Central Library
-Medical
-Bank & ATM
-Post Office
-Shopping Complex
-Sports Facilities
-Gym
-Post Office on Campus
-RGUKT Basar has a
-Sub-Post Office
-operating within the campus. Students and staff can avail postal services including sending letters, parcels, speed post, money orders, and savings schemes without leaving the campus.
-Contact
-RGUKT Basar Campus, Basar — 504107
-Mon–Sat: 9:00 AM – 5:00 PM
-Closed on Sundays & Gazetted Holidays
-PIN Code
-PIN:
-504107
-District: Nirmal, Telangana
-Use PIN 504107 for all campus mail
-Services Available
-Speed Post and Registered Post
-Parcel and courier booking
-Money Order and Electronic Money Order (eMO)
-Post Office Savings Bank accounts
-Recurring Deposit and Fixed Deposit schemes
-Postal Life Insurance (PLI)
-Sale of stamps, envelopes, and inland letters
+
+CAMPUS SUB-POST OFFICE — RGUKT BASAR
+Location: Sub-Post Office, RGUKT Basar Campus, Basar — 504107, Nirmal District, Telangana.
+
+1. POSTAL OVERVIEW & PIN CODE
+- Campus Facility: RGUKT Basar has an operational Sub-Post Office within the campus for all students, faculty, and administrative staff.
+- Official Postal PIN Code: 504107 (District: Nirmal, Telangana).
+  * Use PIN Code 504107 for all incoming and outgoing personal, academic, and administrative campus mail/parcels.
+
+2. WORKING HOURS & SCHEDULE
+- Operating Days: Monday to Saturday.
+- Daily Timings: 9:00 AM – 5:00 PM.
+- Holidays: Closed on Sundays and all Gazetted Public Holidays.
+
+3. POSTAL & FINANCIAL SERVICES AVAILABLE
+The campus sub-post office provides the following 7 core services:
+1. Speed Post and Registered Post booking.
+2. Parcel and courier booking and delivery.
+3. Money Order and Electronic Money Order (eMO) transmission.
+4. Post Office Savings Bank (POSB) accounts.
+5. Recurring Deposit (RD) and Fixed Deposit (FD) savings schemes.
+6. Postal Life Insurance (PLI) services.
+7. Retail sale of postage stamps, envelopes, postcards, and inland letters.

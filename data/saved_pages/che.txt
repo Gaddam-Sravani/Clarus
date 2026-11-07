@@ -1,61 +1,78 @@
 Source URL: https://www.rgukt.ac.in/department/che
 Official Ref: RGUKT-B/Scraped
 =================================================================
+DEPARTMENT OF CHEMICAL ENGINEERING — RGUKT BASAR
+=================================================================
 
-Chemical Engineering — RGUKT Basar
-DEPARTMENT OF CHEMICAL ENGINEERING
-11
-Faculty Members
-5
-Laboratories
-In This Department
-About
-Vision & Mission
-Contact HOD
-Teaching Faculty
-Programmes
-Laboratories
-Quick Links
-Curriculum
-Lab Manuals
-Research Publications
-Events
-Gallery
-All Faculty
-About the Department
-Established 2010
-Chemical engineering encompasses the translation of molecular information into discovery of the new products and processes. The department was established in 2010 to provide a four-year undergraduate program. It aims to develop students into skilled engineers and contribute meaningfully to society. The curriculum combines foundational coursework with specialized electives in emerging fields like Computational Fluid Dynamics, Nanotechnology, and Petroleum Engineering. The department features nine faculty members conducting cutting-edge research and actively organizes industrial trips, mandatory summer internships, and live projects annually.
-Vision & Mission
-Vision
-To become the most sought-after center of excellence, engaged in training and shaping students as professionals for higher education and process industries, both in India and abroad.
-Mission
-Imparting contemporary technical education & training manpower to create skilled human resource talent pool to serve and manage the process industries globally with a sense of responsibility towards society and environment.
-Contact HOD
-Sirisala Vinay Kumar
-Head of Department — Chemical Engineering
-hod.che@rgukt.ac.in
-DEPARTMENT OF CHEMICAL ENGINEERING,
-RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
-Teaching Faculty
-View all →
- #	Emp. ID	Name	Designation	Department	Email	Phone	
-4 	RTCH130258 	Dr. RAVI KUMAR GOUD
-M.Tech in Chemical Engg. (IIT Kharagpur)
-	ASSISTANT PROFESSOR 	Chemical Engineering 	ravikumar.chem@rgukt.ac.in 	— 	
-1 	RTPCH16013 	KANNOJU NANDINI 	ASSISTANT PROFESSOR 	Chemical Engineering 	kannoju.nandini@rgukt.ac.in 	— 	
-2 	RTCH110163 	PARABHAKER REDDY R 	ASSISTANT PROFESSOR 	Chemical Engineering 	prabhakar.ravula@rgukt.ac.in 	— 	
-3 	RTCH120198 	RAMARAJU B
-M.Tech in Chemical Engg. (IIT Kharagpur)
-	ASSISTANT PROFESSOR 	Chemical Engineering 	brr.che@rgukt.ac.in 	— 	
-5 	RTCH140281 	SIRISALA VINAY KUMAR
-M.Tech. in Chemical Engg. (IIT Madras)
-	ASSISTANT PROFESSOR 	Chemical Engineering 	vinays@rgukt.ac.in 	— 	
-Showing 1–5 of 5 staff
-Academic Programmes
-B.Tech
-Laboratories
-Chemical Reaction Engineering Lab
-Instrumentation and Process Control Lab
-IPC Lab
-Mass Transfer Operations Lab
-Simulation Lab
+OVERVIEW & METRICS
+- Established: 2010
+- Academic Programmes: Four-year undergraduate B.Tech program
+- Faculty Members: 11 (department header indicates 11; overview mentions nine faculty members conducting cutting-edge research)
+- Laboratories: 5
+- Curriculum & Training:
+  - Foundational coursework combined with specialized electives in emerging fields:
+    - Computational Fluid Dynamics (CFD)
+    - Nanotechnology
+    - Petroleum Engineering
+  - Practical Activities: Industrial trips, mandatory summer internships, and annual live projects.
+
+VISION & MISSION
+- Vision:
+  To become the most sought-after center of excellence, engaged in training and shaping students as professionals for higher education and process industries, both in India and abroad.
+- Mission:
+  Imparting contemporary technical education & training manpower to create skilled human resource talent pool to serve and manage the process industries globally with a sense of responsibility towards society and environment.
+
+CONTACT HOD
+- Name: Sirisala Vinay Kumar
+- Designation: Head of Department — Chemical Engineering
+- Email: hod.che@rgukt.ac.in
+- Address: DEPARTMENT OF CHEMICAL ENGINEERING, RGUKT Basar, Basar — 504107, Nirmal District, Telangana.
+
+TEACHING FACULTY DIRECTORY
+
+1. Dr. RAVI KUMAR GOUD
+   - Emp. ID: RTCH130258
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech in Chemical Engg. (IIT Kharagpur)
+   - Department: Chemical Engineering
+   - Email: ravikumar.chem@rgukt.ac.in
+   - Phone: Not listed
+
+2. KANNOJU NANDINI
+   - Emp. ID: RTPCH16013
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Chemical Engineering
+   - Email: kannoju.nandini@rgukt.ac.in
+   - Phone: Not listed
+
+3. PARABHAKER REDDY R
+   - Emp. ID: RTCH110163
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: Not listed
+   - Department: Chemical Engineering
+   - Email: prabhakar.ravula@rgukt.ac.in
+   - Phone: Not listed
+
+4. RAMARAJU B
+   - Emp. ID: RTCH120198
+   - Designation: ASSISTANT PROFESSOR
+   - Qualifications: M.Tech in Chemical Engg. (IIT Kharagpur)
+   - Department: Chemical Engineering
+   - Email: brr.che@rgukt.ac.in
+   - Phone: Not listed
+
+5. SIRISALA VINAY KUMAR
+   - Emp. ID: RTCH140281
+   - Designation: ASSISTANT PROFESSOR (Head of Department)
+   - Qualifications: M.Tech. in Chemical Engg. (IIT Madras)
+   - Department: Chemical Engineering
+   - Email: vinays@rgukt.ac.in (HOD Email: hod.che@rgukt.ac.in)
+   - Phone: Not listed
+
+LABORATORIES
+1. Chemical Reaction Engineering Lab
+2. Instrumentation and Process Control Lab
+3. IPC Lab
+4. Mass Transfer Operations Lab
+5. Simulation Lab
