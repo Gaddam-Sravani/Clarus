@@ -1,0 +1,32 @@
+III. ALLOCATION OF SEATS IN ENGINEERING BRANCHES
+A branch of engineering will be allocated for only those who pass in the 2-Year PUC
+with a minimum CGPA of 6 and above. The allocation of engineering branch shall be
+made on the choice of the students and by resolving based on their performance in
+the PUC as per the following procedure:
+i. Choice of the students in order of preference going up to all 7 choices will be
+collected on-line.
+... 6 ...
+Rajiv Gandhi University of Knowledge Technologies, Basar, Telangana State
+ii. RGUKT will take the overall CGPA of the students who have passed in the PUC by
+meeting the minimum CGPA of >=6 and will put the students in order of merit
+in each of the reserved categories and allocate the seats as per the merit order
+considering the no of seats available in each of the branches for each of the
+categories of reservation.
+In case of tie on account of same CGPA, the tie will be resolved to decide the relative
+ranking based on the following criterion:
+1. Average grade in Mathematics courses of four semesters of PUC.
+2. Next, average grade in Physics courses of four semesters of PUC.
+3. If the tie still persists, candidate older (based on date of birth) will be given
+preference over the younger.
+iii. The no of seats available in Engineering branches will be decided considering
+the total no of students passing the PUC with a minimum CGPA of >=6 (after
+taking the remedial examination after 2nd Semester of 2nd Year PUC into
+consideration) and going by the following ratio (for a total of 1000 seats):
+Chemical Engineering 71/1000 @ 7.1 per 100 seats
+Civil Engineering 143/1000 @ 14.3 per 100 seats
+Computer Science and Engineering 214/1000 @ 21.4 per 100 seats
+Electrical and Electronics Engineering 144/1000 @ 14.4 per 100 seats
+Electronics and Communication Engineering 214/1000 @ 21.4 per 100 seats
+Mechanical Engineering 143/1000 @ 14.3 per 100 seats
+Metallurgical and Materials Engineering 71/1000 @ 7.1 per 100 seats
+
